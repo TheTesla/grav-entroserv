@@ -18,3 +18,7 @@ Für die Auslieferung der Webseite werden:
 * HTTP-Header (Referer, Browsertyp)
 
 erhoben. 
+
+## Cookies
+
+Der öffentliche Bereich der Webseite nutzt keine Cookies.
