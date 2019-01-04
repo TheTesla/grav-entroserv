@@ -8,7 +8,7 @@ title: Datenschutzerklärung
 
 Personenbezogene Daten sind Angaben, welche Rückschlüsse auf eine natürliche Person zulassen.
 
-## Erhobene Daten
+## Beim Besuch der Webseite erhobene Daten
 
 Für die Auslieferung und optimale Darstellung der Webseite werden:
 
