@@ -10,7 +10,7 @@ Personenbezogene Daten sind Angaben, welche Rückschlüsse auf eine natürliche 
 
 ## Erhobene Daten
 
-Für die Auslieferung der Webseite werden:
+Für die Auslieferung und optimale Darstellung der Webseite werden:
 
 * IPv4 oder IPv6 des Clients
 * aufgerufene Seite
