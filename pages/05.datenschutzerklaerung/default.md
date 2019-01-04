@@ -15,7 +15,7 @@ Für die Auslieferung der Webseite werden:
 * IPv4 oder IPv6 des Clients
 * aufgerufene Seite
 * Zeitpunkt des Aufrufs
-* HTTP-Header (Referer, Browsertyp)
+* HTTP-Header (Referrer, Browsertyp)
 
 erhoben. 
 
