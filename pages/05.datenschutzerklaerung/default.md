@@ -17,7 +17,7 @@ Für die Auslieferung und optimale Darstellung der Webseite werden:
 * Zeitpunkt des Aufrufs
 * HTTP-Header (Referrer, Browsertyp)
 
-erhoben. Diese Daten werden zum Zweck der Ermittlung von technischen Fehlern oder missbräuchlichen Nutzung des Dienstes in Logfiles gespeichert.
+erhoben. Diese Daten werden zum Zweck der Ermittlung von technischen Fehlern oder missbräuchlichen Nutzung des Dienstes in Logfiles gespeichert. Des Weiteren werden zu Statistikzwecken die Seitenaufrufe gezählt.
 
 ## Cookies
 
