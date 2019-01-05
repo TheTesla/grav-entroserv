@@ -37,6 +37,7 @@ Es wird die vollständige E-Mail mit Header-Informationen gespeichert. Dazu geh�
 * Angaben über den gesamten Weiterleitungsweg
 * DKIM-/ARC-Signaturen
 * Kodierung der Daten
+* Metadaten über die Transportverschlüsselung
 
 Die Daten werden zur Kommunikation verwendet und vom Spamfilter ausgewertet sowie zum Trainieren des Spamfilters genutzt.
 
