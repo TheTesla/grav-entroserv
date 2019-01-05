@@ -44,6 +44,19 @@ Die Daten werden zur Kommunikation verwendet und vom Spamfilter ausgewertet sowi
 
 Die Kontaktierung gilt als Einwilligung zur Kommunikation, d.h. Empfang von Nachrichten von uns. 
 
+## Formulare
+
+Alle Angaben werden zur Bereitstellung des jeweiligen Dienstes gespeichert und verarbeitet.
+
+### Mailingsliste
+
+Für den Empfang der abbonierten Mailingliste sowie zur Änderung der Abbo-Einstellungen werden:
+
+* E-Mail-Adresse
+* Passwort
+
+ausgwertet.
+
 ## Auftragsdatenverarbeitung
 
 Folgende Dienste sind bei https://www.scaleway.com gehostet:
