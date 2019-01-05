@@ -69,4 +69,4 @@ Der Auftragsdatenverarbeitungsvertrag ist unter [https://www.scaleway.com/terms/
 
 ## Rechte des Nutzers
 
-Besucher der Webseite haben jederzeit das Recht Auskunft über die gespeicherten Daten zu erhalten und Berichtigung fehlerhafter Angaben. Soweit gesetzlich zulässig ist der Besucher berechtigt gespeicherte Daten löschen oder sperren zu lassen.
+Besucher der Webseite haben jederzeit das Recht Auskunft über die gespeicherten Daten zu erhalten und auf Berichtigung fehlerhafter Angaben. Soweit gesetzlich zulässig ist der Besucher berechtigt gespeicherte Daten löschen oder sperren zu lassen.
