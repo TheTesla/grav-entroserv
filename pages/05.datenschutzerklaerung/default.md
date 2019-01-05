@@ -42,6 +42,8 @@ Es wird die vollst√§ndige E-Mail mit Header-Informationen gespeichert. Dazu geh√
 
 Die Daten werden zur Kommunikation verwendet und vom Spamfilter ausgewertet sowie zum Trainieren des Spamfilters genutzt.
 
+Die Kontaktierung gilt als Einwilligung zur Kommunikation, d.h. Empfang von Nachrichten von uns. 
+
 ## Auftragsdatenverarbeitung
 
 Folgende Dienste sind bei https://www.scaleway.com gehostet:
