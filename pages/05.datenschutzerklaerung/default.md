@@ -65,7 +65,7 @@ Folgende Dienste sind bei [https://www.scaleway.com](https://www.scaleway.com) g
 * E-Mail-Postfach inkl. Spamfilter
 * Mailingliste
 
-Der Auftragsdatenverarbeitungsvertrag ist unter [https://www.scaleway.com/terms/privacy/](https://www.scaleway.com) abrufbar.
+Der Auftragsdatenverarbeitungsvertrag ist unter [https://www.scaleway.com/terms/privacy/](https://www.scaleway.com/terms/privacy/) abrufbar.
 
 ## Rechte des Nutzers
 
