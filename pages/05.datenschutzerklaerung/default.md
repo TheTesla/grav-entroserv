@@ -16,6 +16,7 @@ Für die Auslieferung und optimale Darstellung der Webseite werden:
 * aufgerufene Seite
 * Zeitpunkt des Aufrufs
 * HTTP-Header (Referrer, Browsertyp)
+* Metadaten über die Transportverschlüsselung
 
 erhoben. Diese Daten werden zum Zweck der Ermittlung von technischen Fehlern oder missbräuchlichen Nutzung des Dienstes in Logfiles gespeichert. Des Weiteren werden zu Statistikzwecken die Seitenaufrufe gezählt.
 
