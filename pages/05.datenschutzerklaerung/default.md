@@ -8,7 +8,7 @@ title: Datenschutzerklärung
 
 Personenbezogene Daten sind Angaben, welche Rückschlüsse auf eine natürliche Person zulassen.
 
-## Beim Besuch der Webseite erhobene Daten
+## Besuch der Webseite
 
 Für die Auslieferung und optimale Darstellung der Webseite werden:
 
@@ -22,6 +22,21 @@ erhoben. Diese Daten werden zum Zweck der Ermittlung von technischen Fehlern ode
 ## Cookies
 
 Der öffentliche Bereich der Webseite nutzt keine Cookies.
+
+## E-Mail-Empfang
+
+Es wird die vollständige E-Mail mit Header-Informationen gespeichert. Dazu gehören können folgende Daten gehören:
+
+* Absenderadresse (From)
+* alle Empfängeradressen (To)
+* Betreff (Subject)
+* Inhalt
+* IPv4- oder IPv6-Adresse des Absenders
+* Version des E-Mail-Programms und Betriebssystems des Absenders
+* Absende- und Weiterleitungszeitpunkte
+* Angaben über den gesamten Weiterleitungsweg
+* DKIM-/ARC-Signaturen
+* Kodierung der Daten
 
 ## Auftragsdatenverarbeitung
 
