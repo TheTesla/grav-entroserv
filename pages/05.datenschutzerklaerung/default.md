@@ -38,6 +38,8 @@ Es wird die vollst√§ndige E-Mail mit Header-Informationen gespeichert. Dazu geh√
 * DKIM-/ARC-Signaturen
 * Kodierung der Daten
 
+Die Daten werden zur Kommunikation verwendet und vom Spamfilter ausgewertet sowie zum Trainieren des Spamfilters genutzt.
+
 ## Auftragsdatenverarbeitung
 
 Folgende Dienste sind bei https://www.scaleway.com gehostet:
