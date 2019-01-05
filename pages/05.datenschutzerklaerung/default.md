@@ -50,7 +50,7 @@ Alle Angaben werden zur Bereitstellung des jeweiligen Dienstes gespeichert und v
 
 ### Mailingsliste
 
-Für den Empfang der abbonierten Mailingliste sowie zur Änderung der Abbo-Einstellungen werden:
+Für den Empfang der abonierten Mailingliste sowie zur Änderung der Abo-Einstellungen werden:
 
 * E-Mail-Adresse
 * Passwort
