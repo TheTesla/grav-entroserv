@@ -23,6 +23,16 @@ erhoben. Diese Daten werden zum Zweck der Ermittlung von technischen Fehlern ode
 
 Der öffentliche Bereich der Webseite nutzt keine Cookies.
 
+## Auftragsdatenverarbeitung
+
+Folgende Dienste sind bei https://www.scaleway.com gehostet:
+
+* Webseite
+* E-Mail-Postfach inkl. Spamfilter
+* Mailingliste
+
+Der Auftragsdatenverarbeitungsvertrag ist unter https://www.scaleway.com/terms/privacy/ abrufbar.
+
 ## Rechte des Nutzers
 
 Besucher der Webseite haben jederzeit das Recht Auskunft über die gespeicherten Daten zu erhalten und Berichtigung fehlerhafter Angaben. Soweit gesetzlich zulässig ist der Besucher berechtigt gespeicherte Daten löschen oder sperren zu lassen.
