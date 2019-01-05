@@ -59,13 +59,13 @@ ausgwertet.
 
 ## Auftragsdatenverarbeitung
 
-Folgende Dienste sind bei https://www.scaleway.com gehostet:
+Folgende Dienste sind bei [https://www.scaleway.com]() gehostet:
 
 * Webseite
 * E-Mail-Postfach inkl. Spamfilter
 * Mailingliste
 
-Der Auftragsdatenverarbeitungsvertrag ist unter https://www.scaleway.com/terms/privacy/ abrufbar.
+Der Auftragsdatenverarbeitungsvertrag ist unter [https://www.scaleway.com/terms/privacy/]() abrufbar.
 
 ## Rechte des Nutzers
 
