@@ -57,6 +57,10 @@ Für den Empfang der abonierten Mailingliste sowie zur Änderung der Abo-Einstel
 
 ausgwertet.
 
+## externe Links
+
+Für die Inhalte der verlinkten externen Seite ist der jeweilige Betreiber verantwortlich. Es gelten die jeweiligen Datenschutz- und Nutzungsbestimmungen der externen Seite. Bei Aufruf von Gutschein-/Affiliate-/Partnerlinks ist die Herkunft von dieser Webseite für den Anbieter der externen Inhalte nachvollziehbar.
+
 ## Auftragsdatenverarbeitung
 
 Folgende Dienste sind bei [https://www.scaleway.com](https://www.scaleway.com) gehostet:
