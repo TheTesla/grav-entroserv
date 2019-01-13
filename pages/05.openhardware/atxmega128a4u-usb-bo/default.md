@@ -1,5 +1,6 @@
 ---
 title: 'ATXMega128a4u USB BO'
+media_order: 'XMega128a4u_USB_BO.jpg,Xmega128a4u_USB_BO_f.jpg'
 visible: true
 ---
 
