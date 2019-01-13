@@ -19,3 +19,4 @@ Das Board wird extern mit 1,6 - 3,6 V versorgt. Da alle erforderlichen Abblockko
 Alle Details sind auf Github verfügbar. Die Inhalte sind urheberrechtlich geschützt.
 
 Das Produkt kann bei Seeedstudio bestellt werden. Schneller und einfacher, d. h. ohne Zoll, Einfuhrumsatzsteuer und Auslandsüberweisung, geht es direkt aus Deutschland bei [Watterott](https://www.watterott.com).
+![Breakoutboard mit eingelöteter Stiftleiste](https://www.entroserv.de/user/pages/05.openhardware/atxmega128a4u-usb-bo/XMega128a4u_USB_BO.jpg)
