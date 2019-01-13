@@ -14,6 +14,8 @@ Im Gegensatz zu den meisten anderen Reglern ist der LT3060 sehr robust. Beliebig
 
 Die zum Betrieb erforderlichen Bauelemente, d.h. u. a. Kondensatoren am Ein- und Ausgang sind bereits auf der Platine vorhanden. Sie sind ebenfalls für Spannungen bis 50 V dimensioniert.
 
+Beziehbar über [Watterott](https://www.watterott.com).
+
 ## Technische Daten
 
 * Ausgangsspannungen: 1,2 V; 1,5 V; 1,8 V; 2,5 V; 3,3 V; 5,0 V (fest)
