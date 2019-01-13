@@ -14,12 +14,11 @@ Im Gegensatz zu den meisten anderen Reglern ist der LT3060 sehr robust. Beliebig
 
 Die zum Betrieb erforderlichen Bauelemente, d.h. u. a. Kondensatoren am Ein- und Ausgang sind bereits auf der Platine vorhanden. Sie sind ebenfalls für Spannungen bis 50 V dimensioniert.
 
-![](
+###### Technische Daten
 
-Technische Daten
+* Ausgangsspannungen: 1,2 V; 1,5 V; 1,8 V; 2,5 V; 3,3 V; 5,0 V (fest)
+* Ausgangsstrom (max.): 100 mA
+* Eingangsspannungsbereich: Uo+0,51 - 40 V
+* Ruhestrom: 40 uA
 
-- Ausgangsspannungen: 1,2 V; 1,5 V; 1,8 V; 2,5 V; 3,3 V; 5,0 V (fest)
-- Ausgangsstrom (max.): 100 mA
-- Eingangsspannungsbereich: Uo+0,51 - 40 V
-- Ruhestrom: 40 uA
-
+![](https://www.entroserv.de/user/pages/05.openhardware/lt3060-bo/LT3060bo.jpg)
