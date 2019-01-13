@@ -3,7 +3,7 @@ title: 'ATXMega128a4u USB BO'
 visible: true
 ---
 
-Xmega128a4u USB Breakout Board
+# Xmega128a4u USB Breakout Board
 
 Endlich kann der ATXMega ohne Löten zum experiemntieren verwendet werden. Der Abstand der beiden Pinreihen des Breakout-Boards beträgt 22,86 mm. Damit passt es ideal auf ein Breadboard.
 
