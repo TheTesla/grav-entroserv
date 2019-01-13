@@ -23,4 +23,4 @@ Beziehbar über [Watterott](https://www.watterott.com).
 * Eingangsspannungsbereich: Uo+0,51 - 40 V
 * Ruhestrom: 40 uA
 
-![](https://www.entroserv.de/user/pages/05.openhardware/lt3060-bo/LT3060bo.jpg)
+![LT3060boBack](LT3060bo.jpg)
