@@ -20,5 +20,5 @@ Alle Details sind auf Github verfügbar. Die Inhalte sind urheberrechtlich gesch
 
 Das Produkt kann bei Seeedstudio bestellt werden. Schneller und einfacher, d. h. ohne Zoll, Einfuhrumsatzsteuer und Auslandsüberweisung, geht es direkt aus Deutschland bei [Watterott](https://www.watterott.com).
 
-![Breakoutboard mit eingelöteter Stiftleiste](https://www.entroserv.de/user/pages/05.openhardware/atxmega128a4u-usb-bo/XMega128a4u_USB_BO.jpg)
-![Frontansicht](https://www.entroserv.de/user/pages/05.openhardware/atxmega128a4u-usb-bo/Xmega128a4u_USB_BO_f.jpg)
+![Breakoutboard mit eingelöteter Stiftleiste](XMega128a4u_USB_BO.jpg)
+![Frontansicht](Xmega128a4u_USB_BO_f.jpg)
