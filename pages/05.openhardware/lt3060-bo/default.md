@@ -1,5 +1,6 @@
 ---
 title: 'LT3060 BO'
+media_order: LT3060bo.jpg
 visible: true
 ---
 
@@ -12,6 +13,8 @@ Zum Einsatz kommt der Low-Drop-Regler LT3060 von linear Technologies mit einer D
 Im Gegensatz zu den meisten anderen Reglern ist der LT3060 sehr robust. Beliebige Falschpolung mit Spannungen bis 50 V können das IC nicht zerstören. Der Leckstrom bei Falschpolung ist sehr gering. Die Platine besitzt zusätzlich Überspannungsschutzdioden an allen 3 Pins. Sie werden bei ca. 45 V leitend und verhindern so kurzzeitige Überschreitung der 50-V-Grenze. Die Dioden sind so angeordnet, dass auch bei Falschpolung kein Strom fließt, solange die Spannung unter 45 V bleibt.
 
 Die zum Betrieb erforderlichen Bauelemente, d.h. u. a. Kondensatoren am Ein- und Ausgang sind bereits auf der Platine vorhanden. Sie sind ebenfalls für Spannungen bis 50 V dimensioniert.
+
+![](
 
 Technische Daten
 
