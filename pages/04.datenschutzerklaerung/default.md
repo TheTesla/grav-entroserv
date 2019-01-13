@@ -64,7 +64,7 @@ Für die Inhalte der verlinkten externen Seite ist der jeweilige Betreiber veran
 
 ## Auftragsdatenverarbeitung
 
-Folgende Dienste sind bei https://www.netcup.de](https://www.netcup.de) gehostet:
+Folgende Dienste sind bei [https://www.netcup.de](https://www.netcup.de) gehostet:
 
 * Webseite
 * E-Mail-Postfach inkl. Spamfilter
