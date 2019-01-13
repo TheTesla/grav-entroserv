@@ -1,5 +1,6 @@
 ---
 title: Datenschutzerklärung
+media_order: DSGVO-74425-20190101-1590.pdf
 ---
 
 # Datenschutz
@@ -63,13 +64,13 @@ Für die Inhalte der verlinkten externen Seite ist der jeweilige Betreiber veran
 
 ## Auftragsdatenverarbeitung
 
-Folgende Dienste sind bei [https://www.scaleway.com](https://www.scaleway.com) gehostet:
+Folgende Dienste sind bei https://www.netcup.de](https://www.netcup.de) gehostet:
 
 * Webseite
 * E-Mail-Postfach inkl. Spamfilter
 * Mailingliste
 
-Der Auftragsdatenverarbeitungsvertrag ist unter [https://www.scaleway.com/terms/privacy/](https://www.scaleway.com/terms/privacy/) abrufbar.
+Der Auftragsdatenverarbeitungsvertrag ist unter  [DSGVO-74425-20190101-1590.pdf](DSGVO-74425-20190101-1590.pdf) abrufbar.
 
 ## Rechte des Nutzers
 
