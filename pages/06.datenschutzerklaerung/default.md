@@ -56,7 +56,7 @@ Für den Empfang der abonierten Mailingliste sowie zur Änderung der Abo-Einstel
 * E-Mail-Adresse
 * Passwort
 
-ausgwertet.
+ausgewertet.
 
 ## externe Links
 
