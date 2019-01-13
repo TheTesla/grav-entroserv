@@ -1,5 +1,6 @@
 ---
 title: MyBlog
+published: false
 content:
     items: '- ''@self.children'''
     leading: '0'
