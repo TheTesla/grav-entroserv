@@ -44,4 +44,15 @@ Rabatt-Coupons sind verfügbar:
 * [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838038)
 * [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838039)
 
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847399)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847398)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847397)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847396)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847395)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847394)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847393)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847392)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847391)
+* [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847390)
+
 Die Gutscheine sind nur einmal einlösbar. 
