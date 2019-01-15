@@ -59,7 +59,7 @@ Die Gutscheine sind nur einmal einlösbar.
 
 ## Scaleway
 
-Für die Entwicklung von Webanwendungen eignet sich _Start 1-S_ [https://www.scaleway.com/](https://www.scaleway.com/). 
+Für die Entwicklung von Webanwendungen eignet sich _Start 1-S_ von [https://www.scaleway.com/](https://www.scaleway.com/). 
 
 ### Vorteile
 * stundenweise über API mietbar
