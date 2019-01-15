@@ -1,5 +1,6 @@
 ---
 title: Software
+visible: true
 ---
 
 # Software
