@@ -10,7 +10,17 @@ visible: true
 
 Diese Webseite, E-Mail, Mailinglisten und CRM sind auf dem Virtual Private Server  _VPS 200 G8_ von [https://www.netcup.de](https://www.netcup.de) gehostet.
 
-Diese Server sind preisgünstig und Leistungsfähig. Rabatt-Coupons sind verfügbar:
+### Vorteile
+* preisgünstig
+* leistungsfähig
+* SSD
+* beliebiges DVD-Image installierbar
+
+### Nachteile
+* nicht Stundenweise über API mietbar
+* keine automatische Zahlung über Bank-/Kreditkarteneinzug
+
+Rabatt-Coupons sind verfügbar:
 
 [10% Rabatt auf VPS 200 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262536048)
 [10% Rabatt auf VPS 200 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262536046)
