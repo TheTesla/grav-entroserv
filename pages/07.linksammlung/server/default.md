@@ -16,10 +16,10 @@ Diese Webseite, E-Mail, Mailinglisten und CRM sind auf dem Virtual Private Serve
 * SSD
 * beliebiges DVD-Image installierbar
 * IPv4 und IPv6
-* Generator für Auftragsdatenverarbeitungsvertrag
+* Generator für Auftragsdatenverarbeitungsvertrag auf Deutsch
 
 ### Nachteile
-* nicht Stundenweise über API mietbar
+* nicht stundenweise über API mietbar
 * keine automatische Zahlung über Bank-/Kreditkarteneinzug
 
 Rabatt-Coupons sind verfügbar:
@@ -56,3 +56,18 @@ Rabatt-Coupons sind verfügbar:
 * [30% Rabatt auf RS 1000 SSD G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2202nc15475847390)
 
 Die Gutscheine sind nur einmal einlösbar. 
+
+## Scaleway
+
+Für die Entwicklung von Webanwendungen eignet sich _Start 1-S_ [https://www.scaleway.com/](https://www.scaleway.com/). 
+
+### Vorteile
+* stundenweise über API mietbar
+* automatische Zahlung über Kreditkarte
+* SSD
+* automatische Provisionierung mit öffentlichem SSH-Schlüssel
+* IPv4 und IPv6
+
+### Nachteile
+* eingeschränkte Verfügbarkeit
+* keine eigenen DVD-Images für das Betriebsystem
