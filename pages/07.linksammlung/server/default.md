@@ -20,3 +20,5 @@ https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262536
 https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262536042
 https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262536041
 https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262535429
+
+Die Gutscheine sind nur einmal einlösbar. 
