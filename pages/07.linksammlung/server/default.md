@@ -32,4 +32,15 @@ Rabatt-Coupons sind verfügbar:
 * [10% Rabatt auf VPS 200 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262536041)
 * [10% Rabatt auf VPS 200 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2052nc15262535429)
 
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838030)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838031)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838032)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838033)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838034)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838035)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838036)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838037)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838038)
+* [10% Rabatt auf VPS 500 G8](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=2053nc15475838039)
+
 Die Gutscheine sind nur einmal einlösbar. 
