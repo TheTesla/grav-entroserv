@@ -2,7 +2,7 @@
 title: Linksammlung
 published: true
 content:
-    items: '@self.children'
+    items: '@self.modular'
     leading: '0'
     columns: '2'
     limit: '5'
