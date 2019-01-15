@@ -15,6 +15,7 @@ Diese Webseite, E-Mail, Mailinglisten und CRM sind auf dem Virtual Private Serve
 * leistungsfähig
 * SSD
 * beliebiges DVD-Image installierbar
+* IPv4 und IPv6
 
 ### Nachteile
 * nicht Stundenweise über API mietbar
