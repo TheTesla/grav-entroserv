@@ -1,9 +1,9 @@
 ---
-title: Bondora
+title: 'Bondora (Geldanlage)'
 visible: true
 ---
 
-# Bondora (Geldanlage)
+# Bondora
 
 Bondora ist eine P2P-Plattform für Privatdarlehen. Über den Portfolio-Manager wird das angelegte Kapital automatisch auf viele Kredite verteilt. Es kann daher trotz geringem Ausfallrisiko eine gute Rendite erzielt werden.
 
