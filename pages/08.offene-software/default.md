@@ -1,5 +1,5 @@
 ---
-title: 'offene Software'
+title: 'Open Source Software'
 ---
 
 # Open Source Software
