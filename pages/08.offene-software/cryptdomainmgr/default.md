@@ -5,4 +5,4 @@ visible: true
 
 # Cryptdomainmgr
 
-Der Cryptdomainmgr erneuert TLS-Certificate, TLSA-Records und DKIM-Schlüssel automatisch. 
+Cryptdomainmgr ist ein Python-Programm, welches TLS-Zertifikate, TLSA-Domaineinträge und DKIM-Schlüssel automatisch erneuert.
