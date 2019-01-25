@@ -14,3 +14,7 @@ Um den Versand betrügerischer E-Mails zu erschweren, signieren Mailserver E-Mai
 Die asymmetrischen Schlüsselpaare für die DKIM-Signatur und TLS-Zertifikate müssen regelmäßig erneuert werden, um den Angriffszeitraum bei gebrochenen Schlüsseln gering zu halten.
 
 _Cryptdomainmgr_ erneuert die Schlüssel sowie DH-Parameter automatsich lückenlos ohne Downtime in drei Phasen: Prepare, Rollover, Cleanup. Auch negative Caching stellt dadurch kein Problem dar.
+
+## Aufbau
+
+![](cdmStruktur)
