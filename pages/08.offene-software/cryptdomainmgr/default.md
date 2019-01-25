@@ -17,4 +17,4 @@ _Cryptdomainmgr_ erneuert die Schlüssel sowie DH-Parameter automatsich lückenl
 
 ## Aufbau
 
-![](cdmStruktur)
+![](cdmStruktur.svg)
