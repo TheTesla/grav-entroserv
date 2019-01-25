@@ -17,6 +17,6 @@ _Cryptdomainmgr_ erneuert die Schlüssel sowie DH-Parameter automatsich lückenl
 
 ## Aufbau
 
-Der _Cryptdomainmgr_ wird auf dem System installiert, auf welchem der Web- oder Mailserver-Dienst läuft.
+Der _Cryptdomainmgr_ wird auf dem System installiert, auf welchem der Web- oder Mailserver-Dienst läuft. Softwaremodule kommunizieren mit den externen Komponenten. 
 
 ![](cdmStruktur.svg)
