@@ -3,8 +3,6 @@ title: Cryptdomainmgr
 visible: true
 ---
 
-# Cryptdomainmgr
-
 ![](cdmlogo.svg)
 
 _Cryptdomainmgr_ ist ein Python-Programm, welches TLS-Zertifikate, TLSA-Domaineinträge und DKIM-Schlüssel automatisch erneuert.
