@@ -55,3 +55,7 @@ Nun fehlt nur noch das eigentliche Programm:
 ```bash
 python2 -m pip install cryptdomainmgr
 ```
+
+## Nutzung
+
+Die gesamte Konfiguration erfolgt über Dateien im ini-Format. Die Einträge können über mehrere Dateien verteilt werden. Bei Konflikten gilt immer der Eintrag der letzten Datei.
