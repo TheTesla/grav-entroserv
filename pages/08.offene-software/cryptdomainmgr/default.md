@@ -59,3 +59,12 @@ python2 -m pip install cryptdomainmgr
 ## Nutzung
 
 Die gesamte Konfiguration erfolgt über Dateien im ini-Format. Die Einträge können über mehrere Dateien verteilt werden. Bei Konflikten gilt immer der Eintrag der letzten Datei.
+
+Für den Zugriff auf die API des Domainhosters müssen Zugangsdaten angegeben werden. Zumindest das Passwort sollte in einer extra Datei liegen. Bspw. die Datein _/etc/cryptdomainmgr/credentials.conf_
+
+```ìni
+[domain]
+handler = dnsuptools/inwx
+user = myUsename
+passwd = myPassword1234
+```
