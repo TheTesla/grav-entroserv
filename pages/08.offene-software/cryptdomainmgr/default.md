@@ -1,5 +1,6 @@
 ---
 title: Cryptdomainmgr
+media_order: cdmlogo.svg
 visible: true
 ---
 
