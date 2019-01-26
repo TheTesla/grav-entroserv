@@ -49,3 +49,9 @@ echo "deb-src [arch=amd64] http://rspamd.com/apt-stable/ $CODENAME main" >> /etc
 apt update
 apt install -y rspamd
 ```
+
+Nun fehlt nur noch das eigentliche Programm:
+
+```bash
+python2 -m pip install cryptdomainmgr
+```
