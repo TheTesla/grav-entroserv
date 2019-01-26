@@ -26,7 +26,7 @@ Um weitere DNS-Server, Zertifikatsanbieter und Dienste zu unterstützen kann _Cr
 
 ## Installation
 
-Auf Debian 9 oder Ubuntu 18.04 sind mehrere Installationsschritte erforderlich. Die Software wird über _pypi_ bereitgestellt. Da der zugehörige Paketmanager _pip_ keine Abhängigkeiten über _apt_ nachinstalliert, müssen diese zuerst manuell installiert werden:
+Auf _Debian 9_ oder _Ubuntu 18.04_ sind mehrere Installationsschritte erforderlich. Die Software wird über _pypi_ bereitgestellt. Da der zugehörige Paketmanager _pip_ keine Abhängigkeiten über _apt_ nachinstalliert, müssen diese zuerst manuell installiert werden:
 
 ```bash
 apt install -y libcurl4-openssl-dev libssl-dev
