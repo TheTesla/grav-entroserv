@@ -79,4 +79,4 @@ ip4 = auto
 ip6 = auto
 ```
 
-Die Minimalkonfiguration ist fertig. Sie hinterlegt die IPv4- und die IPv6-Adresse, über welche der Server extern erreichbar ist, automatisch im DNS. Die IP-Adressen werden durch Aufruf von [ip4.icanhazip.com] 
+Die Minimalkonfiguration ist fertig. Sie hinterlegt die IPv4- und die IPv6-Adresse, über welche der Server extern erreichbar ist, automatisch im DNS. Die IP-Adressen werden durch Aufruf von [ip4.icanhazip.com](ip4.icanhazip.com) bzw. [ip6.icanhazip.com](ip4.icanhazip.com) ermittelt.
