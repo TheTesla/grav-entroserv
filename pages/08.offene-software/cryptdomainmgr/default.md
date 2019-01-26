@@ -31,3 +31,9 @@ Auf Debian 9 oder Ubuntu 18.04 sind mehrere Installationsschritte erforderlich. 
 ```bash
 apt install -y libcurl4-openssl-dev libssl-dev
 ```
+
+Um Zertifikate bei _Let's Encrypt_ abzuholen wird _curl_ benötigt:
+
+```bash
+apt install -y curl
+```
