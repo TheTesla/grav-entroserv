@@ -62,7 +62,7 @@ Die gesamte Konfiguration erfolgt über Dateien im ini-Format. Die Einträge kö
 
 Für den Zugriff auf die API des Domainhosters müssen Zugangsdaten angegeben werden. Zumindest das Passwort sollte in einer extra Datei liegen. Bspw. die Datein _/etc/cryptdomainmgr/credentials.conf_
 
-```ìni
+```
 [domain]
 handler = dnsuptools/inwx
 user = myUsename
