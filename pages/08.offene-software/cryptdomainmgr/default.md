@@ -68,3 +68,5 @@ handler = dnsuptools/inwx
 user = myUsename
 passwd = myPassword1234
 ```
+
+Diese Angaben gelten grundsätzlich für alle verwalteten Domains. Abweichende Daten auch für jede Domain einzeln hinterlegt werden.
