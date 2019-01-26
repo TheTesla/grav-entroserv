@@ -37,3 +37,15 @@ Um Zertifikate bei _Let's Encrypt_ abzuholen wird _curl_ benötigt:
 ```bash
 apt install -y curl
 ```
+
+Für die Erzeugung der DKIM-Schlüssel und zur DKIM-Signierung muss noch _rspamd_ installiert werden:
+
+```bash
+apt install -y lsb-release wget # optional
+CODENAME=`lsb_release -c -s`
+wget -O- https://rspamd.com/apt-stable/gpg.key | apt-key add -
+echo "deb [arch=amd64] http://rspamd.com/apt-stable/ $CODENAME main" > /etc/apt/sources.list.d/rspamd.list
+echo "deb-src [arch=amd64] http://rspamd.com/apt-stable/ $CODENAME main" >> /etc/apt/sources.list.d/rspamd.list
+apt update
+apt install -y rspamd
+```
