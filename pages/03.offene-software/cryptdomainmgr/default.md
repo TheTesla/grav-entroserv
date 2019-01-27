@@ -1,6 +1,9 @@
 ---
 title: Cryptdomainmgr
 media_order: cdmlogo.svg
+process:
+    markdown: true
+    twig: true
 visible: true
 widget:
     areas:
