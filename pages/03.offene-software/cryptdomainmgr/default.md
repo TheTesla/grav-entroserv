@@ -1,6 +1,11 @@
 ---
 title: Cryptdomainmgr
 media_order: cdmlogo.svg
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 visible: true
 ---
 
