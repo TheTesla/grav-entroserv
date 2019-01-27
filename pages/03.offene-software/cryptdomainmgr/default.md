@@ -2,6 +2,15 @@
 title: Cryptdomainmgr
 media_order: cdmlogo.svg
 visible: true
+widget:
+    areas:
+        -
+            location: default
+            widgets:
+                -
+                    enabled: true
+    options:
+        key: val
 content:
     items: '@self.modular'
     order:
