@@ -5,34 +5,7 @@ visible: true
 ---
 
 ![](cdmlogo.svg)
-{{Infobox gemeinnützige Organisation
-| Name = 
-| Logo = 
-| Rechtsform = 
-| Gründung = 2014
-| Gründer = [[Electronic Frontier Foundation|EFF]], [[Mozilla Foundation|Mozilla]], [[University of Michigan|U-M]]
-| Hauptsitz = [[San Francisco]]
-| Breitengrad = 
-| Längengrad = 
-| ISO-Region = 
-| origins = 
-| Personen = 
-| Aktionsraum = weltweit
-| ZVR-Zahl = 
-| osgs_reg_number = 
-| Schwerpunkt = [[X.509]]-[[Zertifizierungsstelle]]
-| Methode = 
-| Budget = 3.600.000 US-Dollar (2019)<ref>{{Internetquelle |autor=Josh Aas, ISRG Executive Director |url=https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html |titel=Looking Forward to 2019 |werk= |hrsg=Let's Encrypt |datum=2018-12-31 |zugriff=2019-01-26 |sprache=en}}</ref>
-| Vermögen = 
-| Freiwilligenzahl = 
-| Angestelltenzahl = 10 (2017)<ref>{{Internetquelle |autor=Josh Aas |url=https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html |titel=What It Costs to Run Let's Encrypt |werk= |hrsg=Let's Encrypt |datum=2016-09-20 |zugriff=2019-01-26 |sprache=en}}</ref>
-| Mitgliederzahl = 
-| Eigentümer = [[Internet Security Research Group]]
-| Motto = encrypt the entire web
-| Website = [//letsencrypt.org/ letsencrypt.org]
-| Auflösung = 
-| Fußnoten = 
-}}
+
 _Cryptdomainmgr_ ist ein Python-Programm, welches TLS-Zertifikate, TLSA-Domaineinträge und DKIM-Schlüssel automatisch erneuert.
 
 Das Verfahren "DNS-Based Authentication of Named Entities" (DANE) koppelt TLS-Zertifikate über Hashwerte (TLSA-Einträge) an die DNS-Zone. Im Falle einer kompromittierten Zertifizierungsstelle (CA) kann über den DNS-Eintrag die Richtigkeit des Zertifikates nachgewiesen werden. An unberechtigte Dritte ausgestellte Zertifikate werden entlarvt. Die DNS-Zone darf jedoch nicht kompromittiert sein und sollte per DNSSEC abgesichert werden.
