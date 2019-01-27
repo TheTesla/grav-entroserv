@@ -26,8 +26,8 @@ content:
 
 |   |   |
 | ------------- | --------------------------------------------------------------- |
-| Quellcode | https://github.com/TheTesla/cryptdomainmgr |
-| Paket        | https://pypi.org/project/cryptdomainmgr/ |
+| Quellcode | [https://github.com/TheTesla/cryptdomainmgr](https://github.com/TheTesla/cryptdomainmgr) |
+| Paket        | [https://pypi.org/project/cryptdomainmgr/](https://pypi.org/project/cryptdomainmgr/) |
 | Lizenz       | AGPLv3 |
 
 _Cryptdomainmgr_ ist ein Python-Programm, welches TLS-Zertifikate, TLSA-Domaineinträge und DKIM-Schlüssel automatisch erneuert.
