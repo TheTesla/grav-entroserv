@@ -21,6 +21,6 @@ Hier werden deshalb Projekte präsentiert, die dieses Schnittstellenproblem lös
 
 ## Cryptdomainmgr
 
-Dieses Programm erneuert kryptographisches Schlüsselmaterial für Web- und E-Mail-Dienste automatisch. Es verbindet die CA, welche TLS-Zertifikate austellt, den eigentlich Web- oder E-Mail-Server, welcher die Zertifikate und DKIM-Schlüssel nutzt und das DNS, welches den öffentlichten DKIM-Schlüssel zur Signaturprüfung sowie den TLSA-Hashwert zur Prüfung des Zertifikates bereithält. 
+Dieses Programm erneuert kryptographisches Schlüsselmaterial für Web- und E-Mail-Dienste automatisch. Es verbindet die CA, welche TLS-Zertifikate austellt, den eigentlichen Web- oder E-Mail-Server, welcher die Zertifikate und DKIM-Schlüssel nutzt und das DNS, welches den öffentlichten DKIM-Schlüssel zur Signaturprüfung sowie den TLSA-Hashwert zur Prüfung des Zertifikates bereithält. 
 
 Mehr dazu [hier](cryptdomainmgr)
