@@ -24,6 +24,10 @@ content:
 
 ![](cdmlogo.svg)
 
+| Quellcode | https://github.com/TheTesla/cryptdomainmgr |
+| Paket        | https://pypi.org/project/cryptdomainmgr/ |
+| Lizenz       | AGPLv3 |
+
 _Cryptdomainmgr_ ist ein Python-Programm, welches TLS-Zertifikate, TLSA-Domaineinträge und DKIM-Schlüssel automatisch erneuert.
 
 Das Verfahren "DNS-Based Authentication of Named Entities" (DANE) koppelt TLS-Zertifikate über Hashwerte (TLSA-Einträge) an die DNS-Zone. Im Falle einer kompromittierten Zertifizierungsstelle (CA) kann über den DNS-Eintrag die Richtigkeit des Zertifikates nachgewiesen werden. An unberechtigte Dritte ausgestellte Zertifikate werden entlarvt. Die DNS-Zone darf jedoch nicht kompromittiert sein und sollte per DNSSEC abgesichert werden.
