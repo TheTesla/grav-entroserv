@@ -23,6 +23,7 @@ content:
 ---
 
 ![](cdmlogo.svg)
+
 |   |   |
 | ------------- | --------------------------------------------------------------- |
 | Quellcode | https://github.com/TheTesla/cryptdomainmgr |
