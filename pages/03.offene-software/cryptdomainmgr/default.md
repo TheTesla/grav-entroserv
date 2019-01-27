@@ -8,6 +8,7 @@ widget:
             location: default
             widgets:
                 -
+                    load: /widgets/_testwidget
                     enabled: true
     options:
         key: val
