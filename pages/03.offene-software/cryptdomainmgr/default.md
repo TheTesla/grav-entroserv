@@ -24,7 +24,7 @@ content:
 
 ![](cdmlogo.svg)
 
-| Projektdaten      |
+| Projektdaten |
 | ------------- | --------------------------------------------------------------- |
 | Quellcode | [https://github.com/TheTesla/cryptdomainmgr](https://github.com/TheTesla/cryptdomainmgr) |
 | Paket        | [https://pypi.org/project/cryptdomainmgr/](https://pypi.org/project/cryptdomainmgr/) |
