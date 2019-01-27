@@ -4,6 +4,7 @@ media_order: cdmlogo.svg
 process:
     markdown: true
     twig: true
+twig_first: true
 visible: true
 widget:
     areas:
