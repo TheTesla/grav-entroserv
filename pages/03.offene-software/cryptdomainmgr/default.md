@@ -12,7 +12,7 @@ widget:
             widgets:
                 -
                     load: /widgets/_testwidget
-                    enabled: '1'
+                    enabled: true
     options:
         key: val
 content:
