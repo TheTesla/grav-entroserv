@@ -84,7 +84,9 @@ python2 -m pip install cryptdomainmgr
 
 Die gesamte Konfiguration erfolgt über Dateien im ini-Format. Die Einträge können über mehrere Dateien verteilt werden. Bei Konflikten gilt immer der Eintrag der letzten Datei.
 
-Für den Zugriff auf die API des Domainhosters müssen Zugangsdaten angegeben werden. Zumindest das Passwort sollte in einer extra Datei liegen. Bspw. die Datein _/etc/cryptdomainmgr/credentials.conf_:
+### Eintragen von IP-Adressen im DNS
+
+Für den Zugriff auf die API des Domainhosters müssen Zugangsdaten angegeben werden. Zumindest das Passwort sollte in einer extra Datei liegen. Bspw. die Datei ``/etc/cryptdomainmgr/credentials.conf``:
 
 ```
 [domain]
@@ -95,7 +97,7 @@ passwd = myPassword1234
 
 Diese Angaben gelten grundsätzlich für alle verwalteten Domains. Abweichende Daten auch für jede Domain einzeln hinterlegt werden.
 
-Jetzt kann die Konfiguration für die erste Domain angelegt werden, bspw. die Datei _/etc/cryptdomainmgr/mydomains.conf_:
+Jetzt kann die Konfiguration für die erste Domain angelegt werden, bspw. die Datei ``/etc/cryptdomainmgr/mydomains.conf``:
 
 ```
 [domain:test1234.entroserv.de]
