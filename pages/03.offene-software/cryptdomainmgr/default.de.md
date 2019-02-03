@@ -201,3 +201,22 @@ Die Ausgabe bestätigt den Löschvorgang. Es wird auch nichts hinzugefügt:
 [2019-02-03 16:41:40,801]    INFO      delete A for test1234.entroserv.de : 92.60.36.246
 [2019-02-03 16:41:40,959]    INFO      delete A for test1234.entroserv.de : 6.5.4.3
 ```
+
+Für IPv6 sind die Beispiele equivalent anwendbar:
+
+```bash
+python2 -m cryptdomainmgr --update /etc/cryptdomainmgr/inwxcred.conf --config-content $'[domain:test1234.entroserv.de] \n handler=dnsuptools/inwx \n ip6=auto,abcd::ef'
+```
+
+Jetzt werden die AAAA-Records entsprechend gesetzt:
+
+```
+[2019-02-03 17:06:29,903]    INFO      Interpreting config sections
+[2019-02-03 17:06:29,903]    INFO        - cdm
+[2019-02-03 17:06:29,904]    INFO        - domain
+[2019-02-03 17:06:30,096]    INFO      Running phase: update
+[2019-02-03 17:06:30,097]    INFO      Create resource records for section "test1234.entroserv.de"
+[2019-02-03 17:06:32,029]    INFO      add (exists) AAAA for test1234.entroserv.de : 2a03:4000:33:f1:d8d0:f6ff:fec1:7039
+[2019-02-03 17:06:32,676]    INFO      add (new) AAAA for test1234.entroserv.de : abcd::ef
+[2019-02-03 17:06:33,846]    INFO      delete AAAA for test1234.entroserv.de : ef80::01
+```
