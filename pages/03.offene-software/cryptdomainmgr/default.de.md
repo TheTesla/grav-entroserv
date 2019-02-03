@@ -188,7 +188,7 @@ Es ist auch möglich einen Eintrag einfach nur zu löschen bzw. sicherzustellen,
 python2 -m cryptdomainmgr --update /etc/cryptdomainmgr/inwxcred.conf --config-content $'[domain:test1234.entroserv.de] \n handler=dnsuptools/inwx \n ip4=none'
 ```
 
-Die Ausgabe bestätigt den Löschvorgang. Es wird auch nicht hinzugefügt:
+Die Ausgabe bestätigt den Löschvorgang. Es wird auch nichts hinzugefügt:
 
 ```
 [2019-02-03 16:41:38,424]    INFO      Interpreting config sections
