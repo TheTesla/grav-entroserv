@@ -143,3 +143,9 @@ Sollte bereits ein alter, nicht mehr gültiger, Eintrag vorhanden sein, welcher 
 [2019-02-03 16:24:07,241]    INFO      add (new) A for test1234.entroserv.de : 92.60.36.246
 [2019-02-03 16:24:08,273]    INFO      delete A for test1234.entroserv.de : 1.2.3.4
 ```
+
+Es ist auch möglich einen Eintrag einfach nur zu löschen bzw. sicherzustellen, dass für diese Domain kein A-Record hinterlegt ist:
+
+```bash
+python2 -m cryptdomainmgr --update /etc/cryptdomainmgr/inwxcred.conf --config-content $'[domain:test1234.entroserv.de] \n handler=dnsuptools/inwx \n ip4=none'
+```
