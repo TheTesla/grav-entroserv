@@ -84,7 +84,7 @@ python2 -m pip install cryptdomainmgr
 
 Die gesamte Konfiguration erfolgt über Dateien im ini-Format. Die Einträge können über mehrere Dateien verteilt werden. Bei Konflikten gilt immer der Eintrag der letzten Datei.
 
-### Eintragen von IP-Adressen im DNS
+### Verwalten von IP-Adressen im DNS
 
 Für den Zugriff auf die API des Domainhosters müssen Zugangsdaten angegeben werden. Zumindest das Passwort sollte in einer extra Datei liegen. Bspw. die Datei ``/etc/cryptdomainmgr/credentials.conf``:
 
