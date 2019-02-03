@@ -95,7 +95,7 @@ user = myUsename
 passwd = myPassword1234
 ```
 
-Diese Angaben gelten grundsätzlich für alle verwalteten Domains. Abweichende Daten auch für jede Domain einzeln hinterlegt werden.
+Diese Angaben gelten grundsätzlich für alle verwalteten Domains. Abweichende Daten können auch für jede Domain einzeln hinterlegt werden.
 
 Jetzt kann die Konfiguration für die erste Domain angelegt werden, bspw. die Datei ``/etc/cryptdomainmgr/mydomains.conf``:
 
