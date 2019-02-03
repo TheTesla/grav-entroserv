@@ -131,3 +131,15 @@ Die Log-Ausgabe des Programms, sollte, wenn alles richtig funktioniert, ungefäh
 ```
 
 Es wird sogar angezeigt, dass der Eintrag in identischer From schon vorhanden ist. Beim erstmaligen Ausführen steht dort: ``add (new) ...``.
+
+Sollte bereits ein alter, nicht mehr gültiger, Eintrag vorhanden sein, welcher nun geändert werden soll, wird auch der Löschvorgang protokolliert:
+
+```
+[2019-02-03 16:24:04,441]    INFO      Interpreting config sections
+[2019-02-03 16:24:04,442]    INFO        - cdm
+[2019-02-03 16:24:04,442]    INFO        - domain
+[2019-02-03 16:24:04,598]    INFO      Running phase: update
+[2019-02-03 16:24:04,599]    INFO      Create resource records for section "test1234.entroserv.de"
+[2019-02-03 16:24:07,241]    INFO      add (new) A for test1234.entroserv.de : 92.60.36.246
+[2019-02-03 16:24:08,273]    INFO      delete A for test1234.entroserv.de : 1.2.3.4
+```
