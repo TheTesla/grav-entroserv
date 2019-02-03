@@ -143,6 +143,26 @@ Sollte bereits ein alter, nicht mehr gültiger, Eintrag vorhanden sein, welcher 
 [2019-02-03 16:24:07,241]    INFO      add (new) A for test1234.entroserv.de : 92.60.36.246
 [2019-02-03 16:24:08,273]    INFO      delete A for test1234.entroserv.de : 1.2.3.4
 ```
+Mehrere Einträge können mit Komma getrennt angegeben werden:
+
+```bash
+python2 -m cryptdomainmgr --update /etc/cryptdomainmgr/inwxcred.conf --config-content $'[domain:test1234.entroserv.de] \n handler=dnsuptools/inwx \n ip4=1.2.3.4,5.6.7.8,auto'
+```
+
+Die Einträge werden einzeln angelegt. Als letztes werden wieder alte Einträge entfernt:
+
+```
+[2019-02-03 16:35:18,958]    INFO      Interpreting config sections
+[2019-02-03 16:35:18,958]    INFO        - cdm
+[2019-02-03 16:35:18,959]    INFO        - domain
+[2019-02-03 16:35:19,108]    INFO      Running phase: update
+[2019-02-03 16:35:19,108]    INFO      Create resource records for section "test1234.entroserv.de"
+[2019-02-03 16:35:20,947]    INFO      add (exists) A for test1234.entroserv.de : 1.2.3.4
+[2019-02-03 16:35:21,774]    INFO      add (new) A for test1234.entroserv.de : 5.6.7.8
+[2019-02-03 16:35:22,878]    INFO      add (new) A for test1234.entroserv.de : 92.60.36.246
+[2019-02-03 16:35:24,237]    INFO      delete A for test1234.entroserv.de : 6.7.8.9
+```
+
 
 Es ist auch möglich einen Eintrag einfach nur zu löschen bzw. sicherzustellen, dass für diese Domain kein A-Record hinterlegt ist:
 
