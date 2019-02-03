@@ -30,15 +30,7 @@ content:
 | Paket        | [https://pypi.org/project/cryptdomainmgr/](https://pypi.org/project/cryptdomainmgr/) |
 | Lizenz       | AGPLv3 |
 
-{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}
-<div class="page-toc">
-    {% set table_of_contents = toc(page.content) %}
-    {% if table_of_contents is not empty %}
-    <h4>Table of Contents</h4>
-    {{ table_of_contents }}
-    {% endif %}
-</div>
-{% endif %}
+
 
 
 _Cryptdomainmgr_ ist ein Python-Programm, welches TLS-Zertifikate, TLSA-Domaineinträge und DKIM-Schlüssel automatisch erneuert.
