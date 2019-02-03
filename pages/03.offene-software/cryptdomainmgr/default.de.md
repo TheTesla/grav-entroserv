@@ -98,7 +98,7 @@ Diese Angaben gelten grundsätzlich für alle verwalteten Domains. Abweichende D
 Jetzt kann die Konfiguration für die erste Domain angelegt werden, bspw. die Datei _/etc/cryptdomainmgr/mydomains.conf_:
 
 ```
-[domain:entroserv.de]
+[domain:test1234.entroserv.de]
 ip4 = auto
 ip6 = auto
 ```
