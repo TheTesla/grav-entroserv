@@ -117,4 +117,4 @@ Alternativ kann der Inhalt der Konfiguration auch direkt als Argument übergeben
 python2 -m cryptdomainmgr --update /etc/cryptdomainmgr/inwxcred.conf --config-content $'[domain:test1234.entroserv.de] \n handler=dnsuptools/inwx \n ip4=auto'
 ```
 
-Wichtig ist das //$//-Zeichen, damit die //\n// als Zeilenumbruch interpretiert werden. In diesem Beispiel liegen die Zugangsdaten für _inwx_ in ///etc/cryptdomainmgr/inwxcred.conf//
+Wichtig ist das ``$``-Zeichen, damit die ``\n`` als Zeilenumbruch interpretiert werden. In diesem Beispiel liegen die Zugangsdaten für _inwx_ in ``/etc/cryptdomainmgr/inwxcred.conf``
