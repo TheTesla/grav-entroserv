@@ -117,4 +117,17 @@ Alternativ kann der Inhalt der Konfiguration auch direkt als Argument übergeben
 python2 -m cryptdomainmgr --update /etc/cryptdomainmgr/inwxcred.conf --config-content $'[domain:test1234.entroserv.de] \n handler=dnsuptools/inwx \n ip4=auto'
 ```
 
-Wichtig ist das ``$``-Zeichen, damit die ``\n`` als Zeilenumbruch interpretiert werden. In diesem Beispiel liegen die Zugangsdaten für _inwx_ in ``/etc/cryptdomainmgr/inwxcred.conf``
+Wichtig ist das ``$``-Zeichen, damit die ``\n`` als Zeilenumbruch interpretiert werden. In diesem Beispiel liegen die Zugangsdaten für _inwx_ in ``/etc/cryptdomainmgr/inwxcred.conf``.
+
+Die Log-Ausgabe des Programms, sollte, wenn alles richtig funktioniert, ungefähr so aussehen:
+
+```
+[2019-02-03 16:07:22,496]    INFO      Interpreting config sections
+[2019-02-03 16:07:22,496]    INFO        - cdm
+[2019-02-03 16:07:22,497]    INFO        - domain
+[2019-02-03 16:07:22,634]    INFO      Running phase: update
+[2019-02-03 16:07:22,634]    INFO      Create resource records for section "test1234.entroserv.de"
+[2019-02-03 16:07:24,144]    INFO      add (exists) A for test1234.entroserv.de : 92.60.36.246
+```
+
+Es wird sogar angezeigt, dass der Eintrag in identischer From schon vorhanden ist. Beim erstmaligen Ausführen steht dort: ``add (new) ...``.
