@@ -163,6 +163,22 @@ Die Einträge werden einzeln angelegt. Als letztes werden wieder alte Einträge 
 [2019-02-03 16:35:24,237]    INFO      delete A for test1234.entroserv.de : 6.7.8.9
 ```
 
+Soll ein Eintrag hinzugefügt werden, ohne schon vorhandene Einträge zu entfernen, muss der ``+=``-Operator verwendet werden:
+
+```
+python2 -m cryptdomainmgr --update /etc/cryptdomainmgr/inwxcred.conf --config-content $'[domain:test1234.entroserv.de] \n handler=dnsuptools/inwx \n ip4+=6.5.4.3'
+```
+
+Die Ausgabe bestätigt, es wird nichts gelöscht:
+
+```
+[2019-02-03 16:39:50,893]    INFO      Interpreting config sections
+[2019-02-03 16:39:50,894]    INFO        - cdm
+[2019-02-03 16:39:50,894]    INFO        - domain
+[2019-02-03 16:39:51,042]    INFO      Running phase: update
+[2019-02-03 16:39:51,043]    INFO      Create resource records for section "test1234.entroserv.de"
+[2019-02-03 16:39:53,004]    INFO      add (new) A for test1234.entroserv.de : 6.5.4.3
+```
 
 Es ist auch möglich einen Eintrag einfach nur zu löschen bzw. sicherzustellen, dass für diese Domain kein A-Record hinterlegt ist:
 
