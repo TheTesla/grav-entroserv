@@ -134,7 +134,7 @@ Die Log-Ausgabe des Programms, sollte, wenn alles richtig funktioniert, ungefäh
 
 Es wird sogar angezeigt, dass der Eintrag in identischer From schon vorhanden ist. Beim erstmaligen Ausführen steht dort: ``add (new) ...``.
 
-Sollte bereits ein alter, nicht mehr gültiger, Eintrag vorhanden sein, welcher nun geändert werden soll, wird auch der Löschvorgang protokolliert:
+Sollte bereits ein alter, nicht mehr gültiger, Eintrag vorhanden sein, wird auch der Löschvorgang protokolliert:
 
 ```
 [2019-02-03 16:24:04,441]    INFO      Interpreting config sections
