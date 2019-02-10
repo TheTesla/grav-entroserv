@@ -266,4 +266,4 @@ ip6 = auto
 cert = noocspcert
 ```
 
-
+Die beiden Domains _test1234.entroserv.de_ und _test4321.entroserv.de_ verwenden das Zertifikat mit OCSP. Das können bspw. Webdomains sein. Da ein Zertifikat für zwei Domains verwendet wird, müssen auch beide im Zertifikat eingetragen sein. Es entsteht daher automatisch ein sog. _SAN_-Zertifikat (_Subject Alternative Name_).
