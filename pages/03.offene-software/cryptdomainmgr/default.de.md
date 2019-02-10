@@ -314,3 +314,5 @@ python -m cryptdomainmgr --prepare /etc/cryptdomainmgr/mycert.conf /etc/cryptdom
 python -m cryptdomainmgr --rollover /etc/cryptdomainmgr/mycert.conf /etc/cryptdomainmgr/inwxcred.conf
 python -m cryptdomainmgr --cleanup /etc/cryptdomainmgr/mycert.conf /etc/cryptdomainmgr/inwxcred.conf
 ```
+
+Aber woher weiß Cryptdomainmgr welche die vorherige Phase war? Dafür gibt es die _state.json_-Datei standardmäßig unter ``/var/cryptdomainmgr/state.json``
