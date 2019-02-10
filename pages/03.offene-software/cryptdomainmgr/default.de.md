@@ -228,7 +228,7 @@ Jetzt werden die AAAA-Records entsprechend gesetzt:
 
 ### TLS-Zertifikate einrichten
 
-Wir haben bereits gelernt, wie alle Einstellungen über die ini-Datei(n) erfolgen. Hier werden auch die Zertifikate festgelegt. Soll ein Zertifikat für eine oder mehrere Doamin verwendet werden, muss dieses in einem Zertifikats-Abchnitt beschrieben und in den gewünschten Domain-Abschnitten referenziert werden. Das folgende Besipiel, nennen wir die Konfigurationsdatein ``/etc/cryptdomainmgr/mycert,conf``, erzeugt wzei Zertifikate _maincert_ und _noocspcert_:
+Wir haben bereits gelernt, wie alle Einstellungen über die ini-Datei(n) erfolgen. Hier werden auch die Zertifikate festgelegt. Soll ein Zertifikat für eine oder mehrere Doamin verwendet werden, muss dieses in einem Zertifikats-Abchnitt beschrieben und in den gewünschten Domain-Abschnitten referenziert werden. Das folgende Besipiel, nennen wir die Konfigurationsdatein ``/etc/cryptdomainmgr/mycert,conf``, erzeugt zwei Zertifikate mit den internen Bezeichnungen _maincert_ und _noocspcert_:
 
 ```
 [cert]
