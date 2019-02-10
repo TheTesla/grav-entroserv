@@ -245,3 +245,4 @@ extraflags = --ocsp
 extraflags = 
 ```
 
+Der Konfigruation legt für alle Zertifkate die Nutzung des Clients _dehydrated_ fest. Dieses Programm beantragt über die _acme_-Schnittstelle ein nes Zertifikat bei _Let's Encrypt_.
