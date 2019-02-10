@@ -270,4 +270,4 @@ Die beiden Domains _test1234.entroserv.de_ und _test4321.entroserv.de_ verwenden
 
 Es werden zwar die beiden Dateien ``/etc/cryptdomainmgr/test1234.entroserv.de/fullchain.pem`` und ``/etc/cryptdomainmgr/test4321.entroserv.de/fullchain.pem``. Es handelt sich jedoch um die gleiche Datei.
 
-Für unsere E-Mail-Domain ``imap1234.entroserv.de`` nutzen wir ein Zertifikat ohne OCSP, weil _Thunderbird_ kein OCSP unterstützt. Diese Zertifikat ist unter ``/etc/cryptdomainmgr/imap1234.entroserv.de/fullchain.pem`` zu finden.
+Für unsere E-Mail-Domain ``imap1234.entroserv.de`` nutzen wir ein Zertifikat ohne OCSP, weil _Thunderbird_ kein OCSP unterstützt. Dieses Zertifikat ist unter ``/etc/cryptdomainmgr/imap1234.entroserv.de/fullchain.pem`` zu finden.
