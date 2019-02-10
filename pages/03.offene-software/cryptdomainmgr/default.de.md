@@ -290,4 +290,13 @@ Die Konfiguration für _apache2_ ist dann bspw.:
 </VirtualHost>
 ```
 
-Die Konfiguration des Webservers benötigt nur die Domain und den zugehörigen Ordner. Jetzt ist offensichtlich warum Cryptdomainmgr die Zertifikate für jede Domain kopiert. 
+Die Konfiguration des Webservers benötigt nur die Domain und den zugehörigen Ordner. Jetzt ist offensichtlich, warum Cryptdomainmgr die Zertifikate für jede Domain kopiert.
+
+Natürlich muss der apache-Dienst die neuen Zertifikate laden. Deshalb muss die Konfiguration noch:
+
+```
+[service:apache2]
+dummy = dummy
+```
+
+enthalten. Der Parameter ``dummy`` ist nur erforderlich, weil die Programmbibliothek zum Lesen der ini-Datei immer mindestens einen Parameter je Abschnitt braucht. 
