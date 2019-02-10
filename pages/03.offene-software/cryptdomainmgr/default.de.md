@@ -228,7 +228,7 @@ Jetzt werden die AAAA-Records entsprechend gesetzt:
 
 ### TLS-Zertifikate einrichten
 
-Wir haben bereits gelernt, wie alle Einstellungen über die ini-Datei(n) erfolgen. Hier werden auch die Zertifikate festgelegt. Soll ein Zertifikat für eine oder mehrere Doamin verwendet werden, muss dieses in einem Zertifikats-Abchnitt beschrieben und in den gewünschten Domain-Abschnitten referenziert werden. Das folgende Besipiel, nennen wir die Konfigurationsdatei ``/etc/cryptdomainmgr/mycert.conf``, erzeugt zwei Zertifikate mit den internen Bezeichnungen _maincert_ und _noocspcert_:
+Wir haben bereits gelernt, wie alle Einstellungen über die ini-Datei(en) erfolgen. Hier werden auch die Zertifikate festgelegt. Soll ein Zertifikat für eine oder mehrere Doamin verwendet werden, muss dieses in einem Zertifikats-Abchnitt beschrieben und in den gewünschten Domain-Abschnitten referenziert werden. Das folgende Besipiel, nennen wir die Konfigurationsdatei ``/etc/cryptdomainmgr/mycert.conf``, erzeugt zwei Zertifikate mit den internen Bezeichnungen _maincert_ und _noocspcert_:
 
 ```
 [cert]
@@ -300,3 +300,17 @@ dummy = dummy
 ```
 
 enthalten. Der Parameter ``dummy`` ist nur erforderlich, weil die Programmbibliothek zum Lesen der ini-Datei immer mindestens einen Parameter je Abschnitt braucht. 
+
+Jetzt muss Cryptdomainmgr nur noch ausgeführt werden. Da die Zertifikate in drei Phasen _prepare_, _rollover_ und _cleanup_ übernommen werden, muss Cryptdomainmgr bei Neukonfiguration drei mal ausgeführt werden:
+
+```bash
+python -m cryptdomainmgr --next /etc/cryptdomainmgr/mycert.conf /etc/cryptdomainmgr/inwxcred.conf
+```
+
+Anstatt ``--update`` steht hier ``--next``. Dieses Flag führt die jeweils nächste Phase aus. Alternativ können die Phasen auch explizit ausgeführt werden:
+
+```bash
+python -m cryptdomainmgr --prepare /etc/cryptdomainmgr/mycert.conf /etc/cryptdomainmgr/inwxcred.conf
+python -m cryptdomainmgr --rollover /etc/cryptdomainmgr/mycert.conf /etc/cryptdomainmgr/inwxcred.conf
+python -m cryptdomainmgr --cleanup /etc/cryptdomainmgr/mycert.conf /etc/cryptdomainmgr/inwxcred.conf
+```
