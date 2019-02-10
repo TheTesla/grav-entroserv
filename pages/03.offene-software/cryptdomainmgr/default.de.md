@@ -225,3 +225,5 @@ Jetzt werden die AAAA-Records entsprechend gesetzt:
 [2019-02-03 17:06:32,676]    INFO      add (new) AAAA for test1234.entroserv.de : abcd::ef
 [2019-02-03 17:06:33,846]    INFO      delete AAAA for test1234.entroserv.de : ef80::01
 ```
+
+### TLS-Zertifikate einrichten
