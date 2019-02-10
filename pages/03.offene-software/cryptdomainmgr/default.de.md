@@ -247,12 +247,23 @@ extraflags =
 
 Der Konfigruation legt für alle Zertifkate die Nutzung des Clients _dehydrated_ fest. Dieses Programm beantragt über die _acme_-Schnittstelle ein nes Zertifikat bei _Let's Encrypt_. Es ist einen Alternative zum weitaus bekannteren _certbot_. Wir wollen zeitgemäße 4096-Bit-Schlüssel verwenden. Die Zertifikatsdatei soll _fullchain.pem_ heißen. Sie enthält alle erforderlichen Zwischenzertifikate und wird von Servern wie _apache_ oder _postix_ verwendet. Die E-Mail-Adresse bezieht sich auf das Konto bei _Let's Encrypt_. Im Zielpfad ``/etc/ssl`` werden automatisch Unterordner für die jeweilige Domain angelegt.
 
-Es wird ein Zertifikat _maincert_ mit _ocsp_-Eintrag erstellt und ein Zertifikat _noocspcert_ ohne _ocsp_-Eintrag. ie Zertifikate müssen jetzt noch den Domains zugeordnet werden:
+Es wird ein Zertifikat _maincert_ mit _ocsp_-Eintrag erstellt und ein Zertifikat _noocspcert_ ohne _ocsp_-Eintrag. Die Zertifikate müssen jetzt noch den Domains zugeordnet werden:
 
 ```
-[domain:www.entroserv.de]
+[domain:test1234.entroserv.de]
 ip4 = auto
 ip6 = auto
-tlsa.tcp = auto:3:1:1,auto:2:0:1
 cert = maincert
+
+[domain:test4321.entroserv.de]
+ip4 = auto
+ip6 = auto
+cert = maincert
+
+[domain:imap1234.entroserv.de]
+ip4 = auto
+ip6 = auto
+cert = noocspcert
 ```
+
+
