@@ -1,6 +1,7 @@
 ---
 title: Elektronik
 published: true
+visible: true
 ---
 
 # Elektronik
