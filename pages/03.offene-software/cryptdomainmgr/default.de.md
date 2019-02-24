@@ -319,5 +319,5 @@ Aber woher weiß Cryptdomainmgr welche die vorherige Phase war? Dafür gibt es d
 
 ### TLSA-Einträge veröffentlichen
 
-
+Der Hashwert des jeweiligen Zertifikates kann im DNS veröffentlicht werden. 
 
