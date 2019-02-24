@@ -316,3 +316,6 @@ python -m cryptdomainmgr --cleanup /etc/cryptdomainmgr/mycert.conf /etc/cryptdom
 ```
 
 Aber woher weiß Cryptdomainmgr welche die vorherige Phase war? Dafür gibt es die _state.json_-Datei standardmäßig unter ``/var/cryptdomainmgr/state.json``
+
+## TLSA-Einträge
+
