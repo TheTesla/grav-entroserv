@@ -319,5 +319,5 @@ Aber woher weiß Cryptdomainmgr welche die vorherige Phase war? Dafür gibt es d
 
 ### TLSA-Einträge veröffentlichen
 
-Der Hashwert des jeweiligen Zertifikates kann im DNS veröffentlicht werden. Die Echtheit des Zertifikats wird über die Schreibrechte auf die DNS-Zone nachgewiesen. Es kann dadurch zukünftig auf eine offizielle CA verzichtet werden.
+Der Hashwert des jeweiligen Zertifikates kann im DNS veröffentlicht werden. Die Echtheit des Zertifikats wird über die beschränkten Schreibrechte auf die DNS-Zone nachgewiesen. Es kann dadurch zukünftig auf eine offizielle CA verzichtet werden.
 
