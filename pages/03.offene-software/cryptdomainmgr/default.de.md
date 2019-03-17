@@ -321,3 +321,15 @@ Aber woher weiß Cryptdomainmgr welche die vorherige Phase war? Dafür gibt es d
 
 Der Hashwert des jeweiligen Zertifikates kann im DNS veröffentlicht werden. Die Echtheit des Zertifikats wird über die beschränkten Schreibrechte auf die DNS-Zone nachgewiesen. Es kann dadurch zukünftig auf eine offizielle CA verzichtet werden.
 
+Um die TLSA-Einträge im DNS zu veröffentlichen, ist ein Eintrag unter ``domain`` notwendig: 
+
+```
+[domain:test1234.entroserv.de]
+ip4 = auto
+ip6 = auto
+cert = maincert
+tlsa.tcp.443 = auto:3:1:1, auto:2:0:1
+```
+
+Der im Beispiel angegebene TLSA-Eintrag gilt für ``TCP``-Verbindungen über Port ``443``.  Er wird ``auto``matisch aus dem ``maincert``-Zertifikat generiert.
+
