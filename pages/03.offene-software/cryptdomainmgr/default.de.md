@@ -331,5 +331,5 @@ cert = maincert
 tlsa.tcp.443 = auto:3:1:1, auto:2:0:1
 ```
 
-Der im Beispiel angegebene TLSA-Eintrag gilt für ``TCP``-Verbindungen über Port ``443``.  Er wird ``auto``matisch aus dem ``maincert``-Zertifikat generiert.
+Der im Beispiel angegebene TLSA-Eintrag gilt für ``TCP``-Verbindungen über Port ``443``.  Er wird ``auto``matisch aus dem ``maincert``-Zertifikat generiert. Die Flags ``3:1:1`` bedeuten:
 
