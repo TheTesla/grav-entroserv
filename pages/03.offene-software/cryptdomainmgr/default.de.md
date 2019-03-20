@@ -353,3 +353,13 @@ handler = rspamd
 signingConfDestinationFile = /etc/rspamd/local.d/dkim_signing.conf
 ```
 
+Der öffentliche DKIM-Schlüssel soll im DNS veröffentlicht werden. Wir ergänzen daher unsere Domainkonfiguration, indem wir eine Verknüpfung zur DKIM-Konfiguration herstellen: ``dkim = maindkim``
+
+```
+[domain:test1234.entroserv.de]
+ip4 = auto
+ip6 = auto
+cert = maincert
+dkim = maindkim
+tlsa.tcp.443 = auto:3:1:1, auto:2:0:1
+```
