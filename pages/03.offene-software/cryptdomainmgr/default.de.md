@@ -335,4 +335,4 @@ Der im Beispiel angegebene TLSA-Eintrag gilt für ``TCP``-Verbindungen über Por
 
 Soll der TLSA-Eintrag für alle Ports gelten, dann kann die Portangabe einfach weggelassen werden.
 
-Die Veröffentlichung der TLSA-Einträge erfolgt bereits in der prepare-Phase. Die cleanup-Phase entfernt die alten Einträge. Im Beispiel werden dabei nur Einträge für das ``tcp``-Protokoll auf Port ``443`` entfernt. Diese Notation erlaubt es für unterschiedliche Dienste auf der selben Domain separate Instanzen des _cryptdomainmgr_ einzusetzen, z.~B. in getrennten Containern oder VMs.
+Die Veröffentlichung der TLSA-Einträge erfolgt bereits in der prepare-Phase. Die cleanup-Phase entfernt die alten Einträge. Im Beispiel werden dabei nur Einträge für das ``tcp``-Protokoll auf Port ``443`` entfernt. Diese Notation erlaubt es für unterschiedliche Dienste auf der selben Domain separate Instanzen des _cryptdomainmgr_ einzusetzen, z. B. in getrennten Containern oder VMs.
