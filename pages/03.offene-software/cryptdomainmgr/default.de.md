@@ -345,7 +345,7 @@ Der Schlüssel liegt allerdings nicht unmittelbar unter _entroserv.de_, sondern 
 
 Für die Konfoguration von DKIM ist wieder ein eigener Abschnitt ``[dkim]`` in die Konfiguration des _crryptdomainmgr_ einzufügen. Es sind, wie bereits bei den TLS-Zertifikaten, mehrere unterschiedliche benamte Konfigurationen erlaubt.
 
-Die DKIM-Schlüssel sollen von ``rspamd`` generiert und genutzt werden. 
+Die DKIM-Schlüssel sollen von ``rspamd`` generiert und genutzt werden. Der aktuelle Selektor soll in `` /etc/rspamd/local.d/dkim_signing.conf`` geschrieben werden. Diese Option kann weggellasen weren, da diese Einstellung die Grundeinstellung ist. 
 
 ```
 [dkim:maindkim]
