@@ -343,4 +343,13 @@ Ausgehende E-Mails sollen mit dem DKIM-Verfahren (DomainKeys Identified Mail) si
 
 Der Schlüssel liegt allerdings nicht unmittelbar unter _entroserv.de_, sondern bspw. unter _key\_1551615065.\_domainkey.entroserv.de_. Der Selektor _key\_1551615065_ erlaubt das lückenlose Wechseln der Schlüssel. Im DKIM-Header der E-Mail ist der Selektor eingetragen. Ist die E-Mail also mit dem einen Schlüssel signiert, der Schlüssel wird gerade gegen einen neuen ersetzt, und erst jetzt kommt die E-Mail beim empfangenden Server an, so kann dieser anhand des darin enthaltenen Selektors den passenden alten Schlüssel zuordnen.
 
-Für die Konfoguration von DKIM ist wieder ein eigener Abschnitt ``[dkim]`` in die Konfiguration des _crryptdomainmgr_ einzufügen. Es sind, wie bereits bei den TLS-Zertifikaten, mehrere unterschiedliche benamte Konfigurationen erlaubt. 
+Für die Konfoguration von DKIM ist wieder ein eigener Abschnitt ``[dkim]`` in die Konfiguration des _crryptdomainmgr_ einzufügen. Es sind, wie bereits bei den TLS-Zertifikaten, mehrere unterschiedliche benamte Konfigurationen erlaubt.
+
+Die DKIM-Schlüssel sollen von ``rspamd`` generiert und genutzt werden. 
+
+```
+[dkim:maindkim]
+handler = rspamd
+signingConfDestinationFile = /etc/rspamd/local.d/dkim_signing.conf
+```
+
