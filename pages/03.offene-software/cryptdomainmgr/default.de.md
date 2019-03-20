@@ -339,3 +339,4 @@ Die Veröffentlichung der TLSA-Einträge erfolgt bereits in der prepare-Phase. D
 
 ### DKIM einrichten
 
+Ausgehende E-Mails sollen mit dem DKIM-Verfahren (DomainKeys Identified Mail) signiert werden. Ein asymmetrisches Schlüsselpaar, bestehend aus einem öffentlichen und einem ptrivaten Schlüssel stellt die Korrektheit des sendenden Servers sicher. Der private Schlüssel signiert die E-Mail. Der zugehörige öffentliche Schlüssel liegt im DNS. 
