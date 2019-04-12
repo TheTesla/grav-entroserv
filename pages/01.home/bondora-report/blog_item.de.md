@@ -22,5 +22,7 @@ Du kannst den Quellcode hier einsehen: https://github.com/TheTesla/bondora-marke
 
 Du betreibst eine Blog über Finanzthemen  und willst die Anwendung oder deren Ausgaben auf deiner Webseite einbinden um Bondora zu bewerben? Setze dich einfach mit mir in Verbingung: mailto:info@entroserv.de Wir können uns für dich völlig risikolos auf eine Umsatzbeteiligung einigen. Ich helfe dir auch bei der Einrichtung.
 
-Du würdest gerne weitere Funktionen hinzufügen oder die Darstellung anpassen. Das ist sicher kein Problem. Schreib mich einfach an.  
+Du würdest gerne weitere Funktionen hinzufügen oder die Darstellung anpassen. Das ist sicher kein Problem. Schreib mich einfach an.
+
+Du möchtest unserer Community beitreten, über Neuigkeiten informatiert oder mitdiskutieren? Dann abonniere die Mailinglisten: https://www.lists.entroserv.de/listinfo/lounge Aktuell finden noch sehr wenige Diskussionen darüber statt.
 
