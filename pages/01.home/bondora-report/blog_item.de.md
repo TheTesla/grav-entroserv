@@ -20,7 +20,7 @@ Viele Webseiten sind werbefinanziert. Die Werbung ist meist schelcht umgesetzt: 
 
 Du kannst den Quellcode hier einsehen: https://github.com/TheTesla/bondora-marketing-app und diese Anwendung zu privaten Zwecken kostenfrei verwenden. Eine gewerbliche Nutzung erfordert meine Genehmigung.
 
-Du betreibst einen Blog über Finanzthemen  und willst die Anwendung oder deren Ausgaben auf deiner Webseite einbinden um Bondora zu bewerben? Setze dich einfach mit mir in Verbingung: mailto://info@entroserv.de Wir können uns für dich völlig risikolos auf eine Umsatzbeteiligung einigen. Ich helfe dir auch bei der Einrichtung.
+Du betreibst einen Blog über Finanzthemen  und willst die Anwendung oder deren Ausgaben auf deiner Webseite einbinden um Bondora zu bewerben? Setze dich einfach mit mir in Verbingung: []<info@entroserv.de> Wir können uns für dich völlig risikolos auf eine Umsatzbeteiligung einigen. Ich helfe dir auch bei der Einrichtung.
 
 Du würdest gerne weitere Funktionen hinzufügen oder die Darstellung anpassen. Das ist sicher kein Problem. Schreib mich einfach an.
 
