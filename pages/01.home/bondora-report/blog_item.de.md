@@ -24,5 +24,5 @@ Du betreibst einen Blog über Finanzthemen  und willst die Anwendung oder deren 
 
 Du würdest gerne weitere Funktionen hinzufügen oder die Darstellung anpassen. Das ist sicher kein Problem. Schreib mich einfach an.
 
-Du möchtest unserer Community beitreten, über Neuigkeiten informatiert werden oder mitdiskutieren? Dann abonniere die Mailinglisten: https://www.lists.entroserv.de/listinfo/lounge Aktuell finden noch sehr wenige Diskussionen darüber statt.
+Du möchtest unserer Community beitreten, über Neuigkeiten informatiert werden oder mitdiskutieren? Dann abonniere die Mailingliste: https://www.lists.entroserv.de/listinfo/lounge Aktuell finden noch sehr wenige Diskussionen darüber statt.
 
