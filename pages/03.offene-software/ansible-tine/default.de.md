@@ -17,4 +17,4 @@ Mailinglisten über mailman und das Flatfile-CMS Grav runden das Projekt ab.
 
 Teste die Software auf einen V-Server von netcup:
 
-[https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=36nc15480723169](5 € Gutschein)
+[5 € Netcup-Gutschein](https://www.netcup.de/bestellen/gutschein_einloesen.php?gutschein=36nc15480723169)
