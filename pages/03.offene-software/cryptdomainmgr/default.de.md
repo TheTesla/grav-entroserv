@@ -317,6 +317,16 @@ python -m cryptdomainmgr --cleanup /etc/cryptdomainmgr/mycert.conf /etc/cryptdom
 
 Aber woher weiß Cryptdomainmgr welche die vorherige Phase war? Dafür gibt es die _state.json_-Datei standardmäßig unter ``/var/cryptdomainmgr/state.json``
 
+Werden auch die Zertifikate für _Postfix_ und _Dovecot_ erneuert, müssen auch diese das jeweils neue Zeritifkat laden:
+
+```
+[service:postfix]
+dummy = dummy
+
+[service:dovecot]
+dummy = dummy
+```
+
 ### TLSA-Einträge veröffentlichen
 
 Der Hashwert des jeweiligen Zertifikates kann im DNS veröffentlicht werden. Die Echtheit des Zertifikats wird über die beschränkten Schreibrechte auf die DNS-Zone nachgewiesen. Es kann dadurch zukünftig auf eine offizielle CA verzichtet werden.
@@ -370,3 +380,5 @@ Rspamd signiert dieausgehenden E-Mails automatisch. Natürlich muss mit jedem Sc
 [service:rspamd]
 dummy = dummy
 ```
+
+
