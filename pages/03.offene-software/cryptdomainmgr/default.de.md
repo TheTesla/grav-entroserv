@@ -363,14 +363,14 @@ handler = rspamd
 signingConfDestinationFile = /etc/rspamd/local.d/dkim_signing.conf
 ```
 
-Der öffentliche DKIM-Schlüssel soll im DNS veröffentlicht werden. Wir ergänzen daher unsere Domainkonfiguration, indem wir eine Verknüpfung zur DKIM-Konfiguration herstellen: ``dkim = maindkim``
+Der öffentliche DKIM-Schlüssel soll im DNS veröffentlicht werden. Wir ergänzen daher unsere Domainkonfiguration, indem wir eine Verknüpfung zur DKIM-Konfiguration herstellen: ``dkim = auto:maindkim``
 
 ```
 [domain:test1234.entroserv.de]
 ip4 = auto
 ip6 = auto
 cert = maincert
-dkim = maindkim
+dkim = auto:maindkim
 tlsa.tcp.443 = auto:3:1:1, auto:2:0:1
 ```
 
@@ -383,5 +383,5 @@ dummy = dummy
 
 Leider hat Rspamd noch einen Fehler. Ein ``systemctl reload rspamd`` startet neue Prozesse anstatt die Konfiguration neu zu laden. Deshalb wird Rspamd mit ``systemctl restart rspamd`` neugestartet. Der Befehl ``rspamadm control reload`` lädt die Konfiguration auch nicht neu. Er hat keine Funktion und wird bald entfernt.
 
-Noch einmal zur Erinnerung: Der Konfigurationseintrag ``dkim = maindkim`` muss bei allen Domainkonfigurationen vorhanden sein, welche der Absender-E-Mail-Domains entsprechen. Beispiel: Der E-Mail-Server heißt _pserver.entroserv.de_, versendet aber eine E-Mail mit der Absenderadresse _info@entroserv.de_, dann muss _entroserv.de_ für DKIM konfiguriert sein. Cryptdomainmgr fügt dann den DKIM-Record für diese Domain hinzu: _key_1557831495._domainkey.entroserv.de_, wobei der Selektor im Beispiel zufällig gewählt ist.
+Noch einmal zur Erinnerung: Der Konfigurationseintrag ``dkim = auto:maindkim`` muss bei allen Domainkonfigurationen vorhanden sein, welche der Absender-E-Mail-Domains entsprechen. Beispiel: Der E-Mail-Server heißt _pserver.entroserv.de_, versendet aber eine E-Mail mit der Absenderadresse _info@entroserv.de_, dann muss _entroserv.de_ für DKIM konfiguriert sein. Cryptdomainmgr fügt dann den DKIM-Record für diese Domain hinzu: _key_1557831495._domainkey.entroserv.de_, wobei der Selektor im Beispiel zufällig gewählt ist.
 
