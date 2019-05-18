@@ -403,3 +403,5 @@ Leider hat Rspamd noch einen Fehler. Ein ``systemctl reload rspamd`` startet neu
 
 Noch einmal zur Erinnerung: Der Konfigurationseintrag ``dkim = auto:maindkim`` muss bei allen Domainkonfigurationen vorhanden sein, welche der Absender-E-Mail-Domains entsprechen. Beispiel: Der E-Mail-Server heißt _pserver.entroserv.de_, versendet aber eine E-Mail mit der Absenderadresse _info@entroserv.de_, dann muss _entroserv.de_ für DKIM konfiguriert sein. Cryptdomainmgr fügt dann den DKIM-Record für diese Domain hinzu: _key_1557831495._domainkey.entroserv.de_, wobei der Selektor im Beispiel zufällig gewählt ist.
 
+### Weitere Records für den E-Mail-Dienst
+
