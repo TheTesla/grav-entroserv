@@ -333,8 +333,16 @@ Schließlich entscheidet man sich für eine CA, welche ein Zertifikat für die D
 
 Cryptdomainmgr vereinfacht die Konfiguration:
 
+```
+[domain:pserver.entroserv.de]
+ip4 = auto
+ip6 = auto
+tlsa.tcp = auto:3:1:1,auto:2:0:1
+cert = maincert
+caa = auto
+```
 
-
+Weil wir mit ``cert = maincert`` bereits die Zertifikatskonfiguration verknüpft haben, braucht Cryptdomainmgr nur noch dort nachschauen, welcher handler bzw. welche CA verwendet wird und den passenden CAA-Eintrag hinzufügen. Er ist statisch und wird daher im Update-Zyklus veröffentlicht.
 
 
 ### TLSA-Einträge veröffentlichen
