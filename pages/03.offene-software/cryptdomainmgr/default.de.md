@@ -381,7 +381,7 @@ _Rspamd_ signiert die ausgehenden E-Mails automatisch. Natürlich muss mit jedem
 dummy = dummy
 ```
 
-Leider hat Rspamd noch einen Fehler. Ein ``systemctl reload rspamd`` startet neue Prozesse anstatt die Konfiguration neu zu laden. Deshalbt wird Rspamd mit ``systemctl restart rspamd`` neugestartet. Der Befehl ``rspamadm control reload`` lädt die Konfiguration auch nicht neu. Er hat keine Funktion und wird bald entfernt.
+Leider hat Rspamd noch einen Fehler. Ein ``systemctl reload rspamd`` startet neue Prozesse anstatt die Konfiguration neu zu laden. Deshalb wird Rspamd mit ``systemctl restart rspamd`` neugestartet. Der Befehl ``rspamadm control reload`` lädt die Konfiguration auch nicht neu. Er hat keine Funktion und wird bald entfernt.
 
 Noch einmal zur Erinnerung: Der Konfigurationseintrag ``dkim=maindkim`` muss bei allen Domainkonfigurationen vorhanden sein, welche der Absender-E-Mail-Domains entsprechen. Beispiel: Der E-Mail-Server heißt _pserver.entroserv.de_, versendet aber eine E-Mail mit der Absenderadresse _info@entroserv.de_, dann muss _entroserv.de_ für DKIM konfiguriert sein. Cryptdomainmgr fügt dann den DKIM-Record für diese Domain hinzu: _key_1557831495._domainkey.entroserv.de_, wobei der Selektor im Beispiel zufällig gewählt ist.
 
