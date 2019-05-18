@@ -327,6 +327,10 @@ dummy = dummy
 dummy = dummy
 ```
 
+### CA-Auswahl beschränken mit CAA
+
+Schließlich entscheidet man sich für eine CA, welche ein Zertifikat für die Domain ausstellt.
+
 ### TLSA-Einträge veröffentlichen
 
 Der Hashwert des jeweiligen Zertifikates kann im DNS veröffentlicht werden. Die Echtheit des Zertifikats wird über die beschränkten Schreibrechte auf die DNS-Zone nachgewiesen. Es kann dadurch zukünftig auf eine offizielle CA verzichtet werden.
