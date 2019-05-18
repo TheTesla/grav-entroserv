@@ -245,7 +245,7 @@ extraflags = --ocsp
 extraflags = 
 ```
 
-Der Konfigruation legt für alle Zertifkate die Nutzung des Clients _dehydrated_ fest. Dieses Programm beantragt über die _acme_-Schnittstelle ein nes Zertifikat bei _Let's Encrypt_. Es ist einen Alternative zum weitaus bekannteren _certbot_. Wir wollen zeitgemäße 4096-Bit-Schlüssel verwenden. Die Zertifikatsdatei soll _fullchain.pem_ heißen. Sie enthält alle erforderlichen Zwischenzertifikate und wird von Servern wie _apache_ oder _postix_ verwendet. Die E-Mail-Adresse bezieht sich auf das Konto bei _Let's Encrypt_. Im Zielpfad ``/etc/ssl`` werden automatisch Unterordner für die jeweilige Domain angelegt.
+Der Konfigruation legt für alle Zertifikate die Nutzung des Clients _dehydrated_ fest. Dieses Programm beantragt über die _acme_-Schnittstelle ein nes Zertifikat bei _Let's Encrypt_. Es ist einen Alternative zum weitaus bekannteren _certbot_. Wir wollen zeitgemäße 4096-Bit-Schlüssel verwenden. Die Zertifikatsdatei soll _fullchain.pem_ heißen. Sie enthält alle erforderlichen Zwischenzertifikate und wird von Servern wie _apache_ oder _postix_ verwendet. Die E-Mail-Adresse bezieht sich auf das Konto bei _Let's Encrypt_. Im Zielpfad ``/etc/ssl`` werden automatisch Unterordner für die jeweilige Domain angelegt.
 
 Es wird ein Zertifikat _maincert_ mit _ocsp_-Eintrag erstellt und ein Zertifikat _noocspcert_ ohne _ocsp_-Eintrag. Die Zertifikate müssen jetzt noch den Domains zugeordnet werden:
 
