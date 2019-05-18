@@ -329,7 +329,9 @@ dummy = dummy
 
 ### CA-Auswahl beschränken mit CAA
 
-Schließlich entscheidet man sich für eine CA, welche ein Zertifikat für die Domain ausstellt. Wir können daher einer CA das Ausstellen von Zertifikaten für diese Domain explizit erlauben und es allen anderen CAs verbieten. Dafür gibt es den sog. _CAA_-Record. 
+Schließlich entscheidet man sich für eine CA, welche ein Zertifikat für die Domain ausstellt. Wir können daher einer CA das Ausstellen von Zertifikaten für diese Domain explizit erlauben und es allen anderen CAs verbieten. Dafür gibt es den sog. _CAA_-Record. Um _Letsencrypt_ für _entroserv.de_ zu erlauben benötigen wir den CAA-Eintrag: ``entroserv.de.		600	IN	CAA	0 issue "letsencrypt.org"``
+
+
 
 ### TLSA-Einträge veröffentlichen
 
