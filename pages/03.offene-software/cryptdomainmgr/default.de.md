@@ -381,5 +381,5 @@ _Rspamd_ signiert dieausgehenden E-Mails automatisch. Natürlich muss mit jedem 
 dummy = dummy
 ```
 
-
+Leider hat Rspamd noch einen Fehler. Ein ``systemctl reload rspamd`` startet neue Prozesse anstatt die Konfiguration neu zu laden. Deshabt wird Rspamd mit ``systemctl restart rspamd`` neugestartet. Der Befehl ``rspamadm control reload`` lädt die Konfiguration auch nicht neu. Er hat keine Funktion und wird bald entfernt.
 
