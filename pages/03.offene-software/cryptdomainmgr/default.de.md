@@ -317,7 +317,7 @@ python -m cryptdomainmgr --cleanup /etc/cryptdomainmgr/mycert.conf /etc/cryptdom
 
 Aber woher weiß Cryptdomainmgr welche die vorherige Phase war? Dafür gibt es die _state.json_-Datei standardmäßig unter ``/var/cryptdomainmgr/state.json``
 
-Werden auch die Zertifikate für _Postfix_ und _Dovecot_ erneuert, müssen auch diese das jeweils neue Zeritifkat laden:
+Werden auch die Zertifikate für _Postfix_ und _Dovecot_ erneuert, müssen auch diese das jeweils neue Zertifikat laden:
 
 ```
 [service:postfix]
