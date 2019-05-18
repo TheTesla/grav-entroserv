@@ -341,7 +341,7 @@ cert = maincert
 tlsa.tcp.443 = auto:3:1:1, auto:2:0:1
 ```
 
-Der im Beispiel angegebene TLSA-Eintrag gilt für ``TCP``-Verbindungen über Port ``443``.  Er wird ``auto``matisch aus dem ``maincert``-Zertifikat generiert. Die Flags ``3:1:1`` bedeuten: ``3`` -- nur das Zertifikat ohne Trustchain soll geprüft werden, ``1`` -- nur der öffentliche Schlüssel fließt in den TLSA-Eintrag ein, ``1`` -- und zwar als sha256-Hashwert. Ein zweiter TLSA-Eintrag bestimmt das CA-Zertifikat (``2``), wobei das gesamte Zertifkat (``0``) einfließt, welches wieder in Form eines sha256-Hashwertes (``1``) repräsentiert ist.
+Der im Beispiel angegebene TLSA-Eintrag gilt für ``TCP``-Verbindungen über Port ``443``.  Er wird ``auto``matisch aus dem ``maincert``-Zertifikat generiert. Die Flags ``3:1:1`` bedeuten: ``3`` -- nur das Zertifikat ohne Trustchain soll geprüft werden, ``1`` -- nur der öffentliche Schlüssel fließt in den TLSA-Eintrag ein, ``1`` -- und zwar als sha256-Hashwert. Ein zweiter TLSA-Eintrag bestimmt das CA-Zertifikat (``2``), wobei das gesamte Zertifikat (``0``) einfließt, welches wieder in Form eines sha256-Hashwertes (``1``) repräsentiert ist.
 
 Soll der TLSA-Eintrag für alle Ports gelten, dann kann die Portangabe einfach weggelassen werden.
 
