@@ -363,3 +363,10 @@ cert = maincert
 dkim = maindkim
 tlsa.tcp.443 = auto:3:1:1, auto:2:0:1
 ```
+
+Rspamd signiert dieausgehenden E-Mails automatisch. Natürlich muss mit jedem Schlüsseltausch Rspamd neugestartet werden:
+
+```
+[service:rspamd]
+dummy = dummy
+```
