@@ -6,7 +6,7 @@ metadata:
 process:
     markdown: true
     twig: true
-twig_first: true
+twig_first: false
 visible: true
 widget:
     areas:
