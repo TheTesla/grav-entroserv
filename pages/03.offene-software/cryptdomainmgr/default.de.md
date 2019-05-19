@@ -405,3 +405,4 @@ Noch einmal zur Erinnerung: Der Konfigurationseintrag ``dkim = auto:maindkim`` m
 
 ### Weitere Records für den E-Mail-Dienst
 
+Einige wichtige DNS-Records wurden bisher noch nicht besprochen. Im vorangegangenen Beispiel hatten wir eine von der Serverdomain getrennte E-Mail-Domain. 
