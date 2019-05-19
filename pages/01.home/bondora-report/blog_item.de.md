@@ -14,7 +14,7 @@ Die automatische Aufteilung des anzulegenden Geldes erfolgt mit Hilfe des _Portf
 
 Bondora bietet eine API, über die aktuelle Investitionsdaten, aber auch der historische Verlauf der Investments, Buchungen, Zinszahlungen usw. abgerufen werden können. Ein kleines Python-Programm mit matplotlib-SVG-Export generiert schöne Diagramme, welche die Wertentwicklung des Kontos zeigen:
 
-![](/images/report.svg)
+![Diagramm über den Wertverlauf des Portfolios.](/images/report.svg)
 
 Die grüne Kurve zeigt den Wert der aktuellen Kredite. Die rote Kurve zeigt den Kontostand und die blaue Kurve die Zinszahlungen aus den Krediten. Einzahlungen werden durch gelbe Kreise dargestellt. Die grünen Kreise zeigen die Provisionen aus dem Freunde-Werben-Partnerprogramm.
 
