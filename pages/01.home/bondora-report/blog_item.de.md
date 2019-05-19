@@ -1,5 +1,7 @@
 ---
 title: 'Bondora Report - P2P-Kredit-Portfolio darstellen'
+metadata:
+    description: 'Bondora-Report visualisiert die Entwicklung des Portfolios deiner P2P-Kredit-Investments.'
 ---
 
 # Bondora die P2P-Kredit-Investment-Plattform
