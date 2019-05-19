@@ -1,5 +1,5 @@
 ---
-title: 'Cryptdomainmgr - Automatisierung von TLS-Zertifikaten, TLSA (DANE) und DKIM'
+title: 'Cryptdomainmgr - TLS, TLSA (DANE), DKIM'
 media_order: cdmlogo.svg
 metadata:
     description: 'Automatisierung von Domain-Updates für TLSA (DANE) und DKIM'
@@ -24,7 +24,7 @@ content:
         dir: ''
 ---
 
-# Cryptdomainmgr
+# Cryptdomainmgr - Automatisierung von TLS-Zertifikaten, TLSA (DANE) und DKIM
 
 
 | Projektdaten |
