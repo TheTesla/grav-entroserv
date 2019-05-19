@@ -1,5 +1,5 @@
 ---
-title: 'Bondora Report - Visualaisierung des Portfolios'
+title: 'Bondora Report - Visualisierung des P2P-Kredit-Portfolios'
 ---
 
 # Was macht Bondora Report?
