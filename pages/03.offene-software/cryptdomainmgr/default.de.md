@@ -449,3 +449,12 @@ Wir benötigen im Beispiel den Eintrag ``"v=spf1 +mx ?all"`` als ``TXT``-Record 
 [domain:entroserv.de]
 spf = mx, ?all
 ```
+
+Angenommen, wir haben noch einen Backup-Mailserver. Dieser hat die IPv4-Adresse _1.2.3.4_. Er soll nur bei Ausfall der Hauptserver E-Mails empfangen aber nie welche versenden. Falls er doch etwas verschickt, deutet dies auf einen Fehler hin. Wir ergänzen deshalb sicherheitshalber auch noch diesen Hinweis:
+
+```
+[domain:entroserv.de]
+spf = +mx, -ip4:1.2.3.4, ?all
+```
+
+Das ``-`` zeigt das Verbot an. Die Erlaubnis wird mit ``+`` angezeigt, was auch weggelassen werden kann.
