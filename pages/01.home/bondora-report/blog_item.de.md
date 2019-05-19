@@ -8,6 +8,8 @@ metadata:
 
 Bondora ist eine Investitionsplattform für P2P-Kredite. Als _Peer-to-Peer_-Kredite wird die direkte Vergabe von Krediten zwischen zwei Endkunden ohne Bank bezeichnet. Bondora teilt die Investitionssumme des Anlegers auf viele einzelne Kredite anteilig auf, wodurch das Risiko eines Totalverlustes erheblich reduziert wird. Bondora handelt hierbei nicht als klassische Bank, sondern als Vermittler. 
 
+Die automatische Aufteilung des anzulegenden Geldes erfolgt mit Hilfe des _Portfolio-Managers_. Der Kunde kann eine Risikoklasse einstellen, nach welcher der Portfolio-Manager die Kredite auswählt. _Portfolio Pro_ ist noch feingranularer einstellbar als der Portfolio-Manager. Z. B. können bestimmte Risikoklassen oder Laufzeiten ausgeschlossen werden. Über die API kann alternativ auch eine externe Verwaltungssoftware angebunden werden. Sie stellt auch Daten zur Auswertung zur Verfügung, welche durch die im Folgenden beschriebene Software verarbeitet werden.
+
 # Was macht Bondora Report?
 
 Bondora bietet eine API, über die aktuelle Investitionsdaten, aber auch der historische Verlauf der Investments, Buchungen, Zinszahlungen usw. abgerufen werden können. Ein kleines Python-Programm mit matplotlib-SVG-Export generiert schöne Diagramme, welche die Wertentwicklung des Kontos zeigen:
