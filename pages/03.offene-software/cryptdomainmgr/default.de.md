@@ -443,7 +443,7 @@ Nun ersetzen die Instanzen nur noch die MX-Records mit ihrer Priorität ``10`` o
 
 Wir haben bereits den MX-Record betrachtet. Er verknüpft der E-Mail-Domain mit der Server-Domain, allerdings nur für den Empfang. Wird eine der empfangenen E-Mails beantwortet, so versendet der Server mit der Server-Domain _pserver.entroserv.de_ eine E-Mail mit der Absenderadresse _info@entroserv.de_, also einer E-Mail-Domain _entroserv.de_. Woher soll nun der Spamfilter des Empfängers wissen, dass das kein Spam ist? Genauso könnte ja auch _evil.spamserver.de_ diese E-Mail verschicken. Der Spamfilter sollte daher den MX-Record anschauen, denn dieser ordnet den korrekten Server zu. Wir müssen dem Spamfilter noch sagen, dass er den MX-Record zurate ziehen soll. Dafür gibt es den _SPF_-Eintrag. Das steht für _Sender Policy Framework_.
 
-Wir benötigen im Beispiel den Eintrag ``"v=spf1 +mx ?all"`` als ``TXT``-Record unter ``entroserv.de``. Das ``+mx`` bedeutet, unser MX-Record zeigt den Server, der auch E-Mails für ``entroserv.de``versenden darf. Cryptdomainmgr benötigt den Eintrag:
+Wir benötigen im Beispiel den Eintrag ``"v=spf1 +mx ?all"`` als ``TXT``-Record unter ``entroserv.de``. Das ``+mx`` bedeutet, unser MX-Record zeigt den Server, der auch E-Mails für ``entroserv.de``versenden darf. Cryptdomainmgr benötigt dafür den Konfigurationseintrag:
 
 ```
 [domain:entroserv.de]
