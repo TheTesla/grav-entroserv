@@ -2,7 +2,7 @@
 title: 'Cryptdomainmgr - TLS, TLSA (DANE), DKIM'
 media_order: cdmlogo.svg
 metadata:
-    description: 'Automatische Erneuerung des Schlüsselmaterials für TLSA (DANE) und DKIM sowie Domainverwaltung inkl. SPF, SRV, A, AAAA, MX, CAA'
+    description: 'Cryptdomainmgr automatisiert die Erneuerung des Schlüsselmaterials für TLSA (DANE) und DKIM sowie Domainverwaltung inkl. SPF, SRV, A, AAAA, MX, CAA'
 process:
     markdown: true
     twig: true
