@@ -1,0 +1,70 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/2-col-left.png'
+  name: 2_column_-_left
+  timestamp: 1547397024
+layout:
+  /header/: {  }
+  /navigation/:
+    -
+      - 'logo-6325 15'
+      - 'menu-2437 85'
+  /container-main/:
+    -
+      -
+        'sidebar 25':
+          -
+            - custom-1321
+      -
+        'main 75':
+          -
+            - position-breadcrumbs
+          -
+            - system-messages-3346
+          -
+            - system-content-8281
+  /footer/:
+    -
+      - position-footer
+    -
+      - 'copyright-2350 40'
+      - 'spacer-4352 30'
+      - 'branding-8985 30'
+  offcanvas:
+    -
+      - mobile-menu-2694
+structure:
+  header:
+    attributes:
+      boxed: ''
+  navigation:
+    type: section
+    attributes:
+      boxed: ''
+  sidebar:
+    type: section
+    subtype: aside
+    block:
+      fixed: 1
+  container-main:
+    attributes:
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+content:
+  logo-6325:
+    attributes:
+      url: ''
+      svg: "<svg height=\"30\" width=\"200\">\n  <text x=\"0\" y=\"15\" fill=\"white\">entro</text><text x=\"37\" y=\"15\" fill=\"lightblue\">py</text> <text x=\"60\" y=\"15\" fill=\"white\">serv</text><text x=\"90\" y=\"15\" fill=\"lightblue\">ice</text>\n</svg>\n"
+  custom-1321:
+    title: TOC
+    attributes:
+      html: "{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}\n{% set table_of_contents = toc(page.content) %}\n{% if table_of_contents is not empty %}\n    <h4>Inhaltsverzeichnis</h4>\n    {{ toc(page.content) }}\n    {% endif %}\n{% endif %}"
+      twig: '1'
+  position-breadcrumbs:
+    attributes:
+      key: breadcrumbs
+  position-footer:
+    attributes:
+      key: footer
