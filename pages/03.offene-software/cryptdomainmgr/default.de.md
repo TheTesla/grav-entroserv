@@ -1,6 +1,8 @@
 ---
 title: Cryptdomainmgr
 media_order: cdmlogo.svg
+metadata:
+    description: 'Automatisierung von Domain-Updates für TLSA (DANE) und DKIM'
 process:
     markdown: true
     twig: true
