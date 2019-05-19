@@ -27,7 +27,7 @@ content:
 
 # Cryptdomainmgr - Automatisierung von TLS-Zertifikaten, TLSA (DANE) und DKIM
 
-{{ printfriendly(page.route) }}
+{{ printfriendly(page.route) | raw }}
 
 | Projektdaten |
 | ------------- | --------------------------------------------------------------- |
