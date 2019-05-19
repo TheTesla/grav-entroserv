@@ -413,3 +413,10 @@ Diese Minimalkonfiguration legt einen MX-Record mit der Priorität ``10`` für u
 [domain:entroserv.de]
 mx = pserver.entroserv.de:10
 ```
+
+Für höhere Redundanz und Lastverteilung sind mehrere gleichwertige Server und ein zusätzlicher Backup-Server sinnvoll:
+
+```
+[domain:entroserv.de]
+mx = mail1.entroserv.de:10, mail2.entroserv.de:10, mail3.entroserv.de:10, backupmail.entroserv.de:20
+```
