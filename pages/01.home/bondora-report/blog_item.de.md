@@ -2,6 +2,10 @@
 title: 'Bondora Report - P2P-Kredit-Portfolio darstellen'
 ---
 
+# Bondora die P2P-Kredit-Investment-Plattform
+
+Bondora ist eine Investitionsplattform für P2P-Kredite. Als _Pear-to-Pear_-Kredite wird die direkte Vergabe von Krediten zwischen zwei Endkunden ohne Bank bezeichnet. Bondora teilt die Investitionssumme des Anlegers auf viele einzelne Kredite anteilig auf, wodurch das Risiko eines Totalverlustes erheblich reduziert wird. Bondora handelt hierbei nicht als klassische Bank, sondern als Vermittler. 
+
 # Was macht Bondora Report?
 
 Bondora bietet eine API, über die aktuelle Investitionsdaten, aber auch der historische Verlauf der Investments, Buchungen, Zinszahlungen usw. abgerufen werden können. Ein kleines Python-Programm mit matplotlib-SVG-Export generiert schöne Diagramme, welche die Wertentwicklung des Kontos zeigen:
