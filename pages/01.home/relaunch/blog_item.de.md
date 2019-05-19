@@ -1,5 +1,6 @@
 ---
 title: Relaunch
+visible: true
 ---
 
 Nach Serverumzug, neuer CMS-, CRM-, Datenbank-, Mailserver-, Mailinglisten, Spamfilter-Software, Certificate-, TLSA-, DKIM-Automatisierung und DSGVO geht nun [entroserv.de](https://www.entroserv.de) wieder online. 
