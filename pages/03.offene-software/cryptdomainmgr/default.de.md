@@ -420,3 +420,19 @@ Für höhere Redundanz und Lastverteilung sind mehrere gleichwertige Server und 
 [domain:entroserv.de]
 mx = mail1.entroserv.de:10, mail2.entroserv.de:10, mail3.entroserv.de:10, backupmail.entroserv.de:20
 ```
+
+Nehmen wir an, der Backup-Server ist vollständig von unserer Hauptkonfiguration getrennt. Er besitzt auch eine eigene Cryptdomainmgr-Instanz mit unabhängiger Konfiguration. Diese weiß nicht von den drei Hauptservern. Sie darf diese Einträge aber nicht aus dem DNS entfernen, wenn sie den Backup-Eintrag hinzufügt. Auch die Haupserver-Instanz darf unseren Backup nicht entfernen. Wir maskieren daher die Ersetzen-Funktion, für die Haupt-Instanz:
+
+```
+[domain:entroserv.de]
+mx.10 = mail1.entroserv.de, mail2.entroserv.de, mail3.entroserv.de
+```
+
+... für die Backup-Instanz:
+
+```
+[domain:entroserv.de]
+mx.20 = backupmail.entroserv.de
+```
+
+Nun ersetzen die Instanzen nur noch die MX-Records mit ihrer Priorität ``10`` oder ``20``.
