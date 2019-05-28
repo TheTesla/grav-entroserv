@@ -57,10 +57,14 @@ content:
     attributes:
       url: ''
       svg: "<svg height=\"30\" width=\"200\">\n  <text x=\"0\" y=\"15\" fill=\"white\">entro</text><text x=\"37\" y=\"15\" fill=\"lightblue\">py</text> <text x=\"60\" y=\"15\" fill=\"white\">serv</text><text x=\"90\" y=\"15\" fill=\"lightblue\">ice</text>\n</svg>\n"
+  menu-2437:
+    attributes:
+      renderTitles: '1'
+      forceTarget: '0'
   custom-1321:
     title: TOC
     attributes:
-      html: "{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}\n{% set table_of_contents = toc(page.content) %}\n{% if table_of_contents is not empty %}\n    <h4>Inhaltsverzeichnis</h4>\n    {{ toc(page.content) }}\n    {% endif %}\n{% endif %}"
+      html: "{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}\n{% set table_of_contents = toc(page.content) %}\n{% if table_of_contents is not empty %}\n    <b>Inhaltsverzeichnis</b>\n    {{ toc(page.content) }}\n    {% endif %}\n{% endif %}"
       twig: '1'
   position-breadcrumbs:
     attributes:

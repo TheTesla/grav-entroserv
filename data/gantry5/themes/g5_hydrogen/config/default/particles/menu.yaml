@@ -3,7 +3,7 @@ menu: ''
 base: /
 startLevel: '1'
 maxLevels: '0'
-renderTitles: '0'
+renderTitles: '1'
 hoverExpand: '1'
 mobileTarget: '0'
 forceTarget: '0'
