@@ -32,8 +32,8 @@ content:
 | Projektdaten |
 | ------------- | --------------------------------------------------------------- |
 | Logo | ![Logo für das Projekt Cryptfdomaingmgr](cdmlogo.svg) |
-| Quellcode | [https://github.com/TheTesla/cryptdomainmgr](https://github.com/TheTesla/cryptdomainmgr) |
-| Paket        | [https://pypi.org/project/cryptdomainmgr/](https://pypi.org/project/cryptdomainmgr/) |
+| Quellcode | [Cryptdomainmgr auf Github](https://github.com/TheTesla/cryptdomainmgr) |
+| Paket        | [Cryptdomainmgr auf Pypi](https://pypi.org/project/cryptdomainmgr/) |
 | Lizenz       | AGPLv3 |
 
 
