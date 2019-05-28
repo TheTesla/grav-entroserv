@@ -55,7 +55,7 @@ Der _Cryptdomainmgr_ wird auf das System installiert, auf welchem der Web- oder 
 
 Um weitere DNS-Server, Zertifikatsanbieter und Dienste zu unterstützen kann _Crypdomainmgr_, ohne Änderungen am Hauptprogramm vornehmen zu müssen, mit entsprechenden Softwaremodulen erweitert werden. 
 
-![](cdmStruktur.svg)
+![Diagramm welches den Datenfluss zwischen Cryptdomainmgr und externen Diensten zeigt](cdmStruktur.svg)
 
 ## Installation
 
