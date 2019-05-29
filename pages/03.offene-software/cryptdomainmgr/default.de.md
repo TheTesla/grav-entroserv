@@ -27,8 +27,6 @@ content:
 
 # Cryptdomainmgr - Automatisierung von TLS-Zertifikaten, TLSA (DANE) und DKIM
 
-{{ printfriendly(page.route) | raw }}
-
 | Projektdaten |
 | ------------- | --------------------------------------------------------------- |
 | Logo | ![Logo für das Projekt Cryptdomainmgr](cdmlogo.svg "Cryptdomainmgr-Logo") |

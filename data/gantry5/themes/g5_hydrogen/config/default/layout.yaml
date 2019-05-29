@@ -68,7 +68,14 @@ content:
       twig: '1'
   position-breadcrumbs:
     attributes:
+      enabled: 0
       key: breadcrumbs
   position-footer:
     attributes:
       key: footer
+  copyright-2350:
+    attributes:
+      owner: 'Stefan Helmert'
+  branding-8985:
+    attributes:
+      enabled: 0
