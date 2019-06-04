@@ -8,6 +8,7 @@ visible: true
 | Projektdaten |
 | --------- | ------- |
 | Quellcode | https://github.com/TheTesla/ansible-tine |
+| Vortrag | [Ansible-Projekt: Mailserver, Mailingliste, CMS. Groupware](https://media.ccc.de/v/eh19-130-ansible-projekt-fr-mailserver-mailingliste-cms-und-groupware-mit-nutzerverwaltung) | 
 
 Wer kennt das nicht? Man möchte einen Webauftritt bereitstellen, welcher neben einer Webseite mit Content-Management-System auch noch ein E-Mail-Postfach inklusive Spamfilter bietet. Eine Mailingliste ist auch noch wünschenswert. Die E-Mail-Postfächer sollten per Webinterface erreichbar sein und ein E-Mail-Programm sollte alle Einstellungen selbst herausfinden.
 
