@@ -33,6 +33,7 @@ content:
 | Quellcode | [Cryptdomainmgr auf Github](https://github.com/TheTesla/cryptdomainmgr) |
 | Paket        | [Cryptdomainmgr auf Pypi](https://pypi.org/project/cryptdomainmgr/) |
 | Lizenz       | AGPLv3 |
+| Vortrag | [Domain-Automatisierung mit Cryptdomaimgr](https://media.ccc.de/v/eh19-129-domain-automatisierung-mit-cryptdomainmgr) |
 
 
 

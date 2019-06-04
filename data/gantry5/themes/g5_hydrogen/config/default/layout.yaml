@@ -64,7 +64,7 @@ content:
   custom-1321:
     title: TOC
     attributes:
-      html: "{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}\n{% set table_of_contents = toc(page.content) %}\n{% if table_of_contents is not empty %}\n    <b>Inhaltsverzeichnis</b>\n    {{ toc(page.content) }}\n    {% endif %}\n{% endif %}"
+      html: "{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}\n{% set table_of_contents = toc(page.content) %}\n{% if table_of_contents is not empty %}\n    <strong>Inhaltsverzeichnis</strong>\n    {{ toc(page.content) }}\n    {% endif %}\n{% endif %}"
       twig: '1'
   position-breadcrumbs:
     attributes:
