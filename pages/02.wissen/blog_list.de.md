@@ -14,4 +14,6 @@ content:
     url_taxonomy_filters: true
 ---
 
+# Wissen
+
 Diese Kategorien ist kein kleines Wiki, welches das Ziel hat allgemein bekannte Sachverhalten möglichst verständlich zu erklären.
