@@ -1,5 +1,7 @@
 ---
 title: TLS-Zertifikate
+metadata:
+    description: 'TLS-Zertifikate stellen einen Identitätsnachweis eines Kommunikationpartners dar. Sie sind eine Art elektronischer Personalausweis.'
 visible: true
 ---
 
