@@ -1,6 +1,6 @@
 ---
 title: 'Asymmetrisches Kryptosystem'
-media_order: asymetricCrypto.svg
+media_order: 'asymetricCrypto.svg,asymetricDecrypt.svg,asymetricEncrypt.svg'
 visible: true
 ---
 
@@ -18,7 +18,12 @@ Wir können das anhand eines Vorhängeschlosses veranschaulichen. Der öffentlic
 
 Das gelbe Vorhängeschloss ist öffentlich zugänglich. Will jemand dem Besitzer des blauen Schlüssels eine Nachricht verschlüsselt zukommen lassen, legt er die Nachricht in eine Kiste, welche er mit dem Vorhängeschloss verschließt. Im Set mit dem Schloss ist zwar auch ein gelber Schlüssel enthalten, dieser kann das Schloss aber nicht aufschließen. Mathematisch ist der gelbe Schlüssel das selbe Objekt wie das gelbe Vorhängeschloss. Beide Symbole beschreiben nur eine unterschiedliche Verwendung. 
 
+![Asymetrisch Verschlüsseln](asymetricEncrypt.svg)
+
 Der Empfänger öffnet das Schloss mit seinem blauen Schlüssel und kann die Nachricht lesen.
+
+![Asymetrisch Entschlüsseln](asymetricDecrypt.svg)
+
 
 ## Digitale Unterschrift
 
