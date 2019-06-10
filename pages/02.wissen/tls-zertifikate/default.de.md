@@ -1,7 +1,7 @@
 ---
 title: 'TLS-Zertifikate - digitaler Nachweis der Identität'
 metadata:
-    description: 'Ein TLS-Zertifikate ist ein Identitätsnachweis eines Kommunikationpartners, eine Art elektronischer Ausweis, der von einer Zertifizierungsstelle ausgestellt wird.'
+    description: 'Ein TLS-Zertifikate ist ein Identitätsnachweis eines Kommunikationpartners, ein elektronischer Ausweis, der von einer Zertifizierungsstelle ausgestellt wird.'
 visible: true
 ---
 
