@@ -14,4 +14,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-Dieser Kategorien ist kein kleines Wiki, welches das Ziel hat allgemein bekannte Sachverhalten möglichst verständlich zu erklären.
+Diese Kategorien ist kein kleines Wiki, welches das Ziel hat allgemein bekannte Sachverhalten möglichst verständlich zu erklären.
