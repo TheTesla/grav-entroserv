@@ -1,5 +1,6 @@
 ---
 title: 'Asymmetrisches Kryptosystem'
+media_order: asymetricCrypto.svg
 visible: true
 ---
 
