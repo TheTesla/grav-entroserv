@@ -1,6 +1,8 @@
 ---
 title: 'Asymmetrisches Kryptosystem'
 media_order: 'asymetricCrypto.svg,asymetricDecrypt.svg,asymetricEncrypt.svg'
+metadata:
+    description: 'Das Asymmetrische Kryptosystem auch als Public-Private-Key-Verfahren bekannt wird für die verschlüsselte Nachrichtenübermittlung oder für digitale Unterschriften verwendet.'
 visible: true
 ---
 
