@@ -11,3 +11,5 @@ Das Asymmetrische Kryptosystem auch als Public-Private-Key-Verfahren bekannt wir
 Die Idee ist nun einen der beiden Schlüssel zu veröffentlichen. Diesen kann nun jeder nutzen um eine Nachricht an den Inhaber des zugehörigen privaten Schlüssels zu verschlüsseln. Nur dieser kann die Nachricht wieder entschlüsseln. Nicht einmal der Versender der Nachricht kann sie wieder entschlüsseln. Es ist daher ratsam den Klartext der Nachricht aufzubewahren!
 
 ![Asymetrische Schlüssel](asymetricCrypto.svg)
+
+Wir können das anhand eines Vorhängeschlosses veranschaulichen. Der öffentliche Schlüssel ist das Gegenstück zum private Schlüssel. In unserem Beispiel ist der öffentliche Schlüssel gelb. Der private Schlüssel hat die Komplementärfarbe Blau. Beide Farben zusammen heben sich gegenseitig auf, die Nachricht ist entschlüsselt. 
