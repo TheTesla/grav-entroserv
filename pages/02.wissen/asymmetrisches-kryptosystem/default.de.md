@@ -10,4 +10,4 @@ Das Asymmetrische Kryptosystem auch als Public-Private-Key-Verfahren bekannt wir
 
 Die Idee ist nun einen der beiden Schlüssel zu veröffentlichen. Diesen kann nun jeder nutzen um eine Nachricht an den Inhaber des zugehörigen privaten Schlüssels zu verschlüsseln. Nur dieser kann die Nachricht wieder entschlüsseln. Nicht einmal der Versender der Nachricht kann sie wieder entschlüsseln. Es ist daher ratsam den Klartext der Nachricht aufzubewahren!
 
-!(Asymetrische Schlüssel)]symetricCrypto.svg]
+![Asymetrische Schlüssel](symetricCrypto.svg)
