@@ -1,5 +1,5 @@
 ---
-title: Neuigkeiten
+title: News
 body_classes: 'title-center title-h1h2'
 content:
     items:
