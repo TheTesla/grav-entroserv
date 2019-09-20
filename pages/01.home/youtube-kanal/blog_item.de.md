@@ -1,9 +1,9 @@
 ---
-title: YouTube-Kanal
+title: '-YouTube-Kanal'
 visible: true
 ---
 
-# Mein YouTube Kanal
+# Mein YouTube-Kanal
 
 Ich habe einige Videos zu den Themen Technik und Programmierung erstellt:
 
