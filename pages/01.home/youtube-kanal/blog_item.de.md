@@ -1,5 +1,5 @@
 ---
-title: '-YouTube-Kanal'
+title: YouTube-Kanal
 visible: true
 ---
 
