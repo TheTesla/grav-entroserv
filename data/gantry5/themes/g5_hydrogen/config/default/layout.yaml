@@ -71,7 +71,7 @@ content:
   custom-6997:
     title: 'Custom HTML'
     attributes:
-      html: '<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=3&p=22&l=ur1&category=audible&banner=0C2JR64405ZJF9KT5HG2&f=ifr&linkID=2625ffe467dc51ef9e90316cdb067621&t=entroserv08-21&tracking_id=entroserv08-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>'
+      html: '<a href="https://amzn.to/31i7JwZ"><img src="/user/pages/ads/160104_audible_gif_MAXI_250x250_Rand.gif" /></a>'
   position-breadcrumbs:
     attributes:
       enabled: 0
