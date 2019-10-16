@@ -15,6 +15,8 @@ layout:
         'sidebar 25':
           -
             - custom-1321
+          -
+            - custom-6997
       -
         'main 75':
           -
@@ -66,6 +68,10 @@ content:
     attributes:
       html: "{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}\n{% set table_of_contents = toc(page.content) %}\n{% if table_of_contents is not empty %}\n    <strong>Inhaltsverzeichnis</strong>\n    {{ toc(page.content) }}\n    {% endif %}\n{% endif %}"
       twig: '1'
+  custom-6997:
+    title: 'Custom HTML'
+    attributes:
+      html: '<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=3&p=22&l=ur1&category=audible&banner=0C2JR64405ZJF9KT5HG2&f=ifr&linkID=2625ffe467dc51ef9e90316cdb067621&t=entroserv08-21&tracking_id=entroserv08-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>'
   position-breadcrumbs:
     attributes:
       enabled: 0

@@ -1,5 +1,5 @@
 name: default
-timestamp: 1559094305
+timestamp: 1571266910
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/2-col-left.png'
@@ -22,6 +22,7 @@ particles:
     menu-2437: Menu
   custom:
     custom-1321: TOC
+    custom-6997: 'Custom HTML'
   position:
     position-breadcrumbs: Breadcrumbs
     position-footer: Footer
