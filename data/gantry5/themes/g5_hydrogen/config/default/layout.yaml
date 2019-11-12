@@ -71,7 +71,7 @@ content:
   custom-6997:
     title: 'Custom HTML'
     attributes:
-      html: '<a href="https://amzn.to/31i7JwZ"><img src="/user/pages/ads/160104_audible_gif_MAXI_250x250_Rand.gif" /></a>'
+      html: "<center>- Anzeige -</center>\n<a href=\"https://amzn.to/31i7JwZ\"><img src=\"/user/pages/invisible/160104_audible_gif_MAXI_250x250_Rand.gif\" /></a>"
   position-breadcrumbs:
     attributes:
       enabled: 0
