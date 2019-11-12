@@ -9,7 +9,7 @@ process:
 twig_first: false
 visible: true
 routes:
-    canonical: /4.offene-software/cryptdomainmgr
+    canonical: /04.offene-software/cryptdomainmgr
 widget:
     areas:
         -
