@@ -2,7 +2,6 @@
 title: Ansible-tine
 visible: true
 routes:
-    canonical: /de/offene-software/ansible-tine
     aliases:
         - /de/offene-software/ansible-tine
 ---
