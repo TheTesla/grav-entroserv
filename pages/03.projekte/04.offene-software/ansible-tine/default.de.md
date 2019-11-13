@@ -5,7 +5,7 @@ visible: true
 routes:
     aliases:
         - /de/offene-software/ansible-tine
-        - test
+        - /test
 ---
 
 # Ansible-tine
