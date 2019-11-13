@@ -2,6 +2,8 @@
 title: 'ATXMega128a4u USB BO'
 media_order: 'XMega128a4u_USB_BO.jpg,Xmega128a4u_USB_BO_f.jpg'
 visible: true
+routes:
+    canonical: /openhardware/atxmega128a4u-usb-bo
 ---
 
 # Xmega128a4u USB Breakout Board
