@@ -4,8 +4,7 @@ routable: true
 visible: true
 routes:
     aliases:
-        - /de/offene-software/ansible-tine
-        - /test
+        - /offene-software/ansible-tine
 ---
 
 # Ansible-tine
