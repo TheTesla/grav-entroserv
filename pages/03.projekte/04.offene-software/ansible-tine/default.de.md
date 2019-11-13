@@ -1,5 +1,6 @@
 ---
 title: Ansible-tine
+routable: true
 visible: true
 routes:
     aliases:
