@@ -11,6 +11,7 @@ visible: true
 routes:
     aliases:
         - /04.offene-software/cryptdomainmgr
+        - /offene-software/cryptdomainmgr
 widget:
     areas:
         -
