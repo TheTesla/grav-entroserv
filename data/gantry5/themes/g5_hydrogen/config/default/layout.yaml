@@ -69,9 +69,9 @@ content:
       html: "{% if config.get('plugins.page-toc.active') or attribute(page.header, 'page-toc').active %}\n{% set table_of_contents = toc(page.content) %}\n{% if table_of_contents is not empty %}\n    <strong>Inhaltsverzeichnis</strong>\n    {{ toc(page.content) }}\n    {% endif %}\n{% endif %}"
       twig: '1'
   custom-6997:
-    title: 'Custom HTML'
+    title: Banners
     attributes:
-      html: "<center>- Anzeige -</center>\n<a href=\"https://amzn.to/31i7JwZ\"><img src=\"/user/pages/invisible/160104_audible_gif_MAXI_250x250_Rand.gif\" /></a>"
+      html: "<center>- Anzeige -</center>\n<a href=\"https://amzn.to/31i7JwZ\"><img src=\"/user/pages/invisible/160104_audible_gif_MAXI_250x250_Rand.gif\" /></a>\n\n\n<a href=\"https://katuhus.com/g/tyolah8e8z72fee1af983c853da261/?i=4&subid=entroservweb\"><img src=\"/user/pages/invisible/letyshops.jpg\" /></a>\n"
   position-breadcrumbs:
     attributes:
       enabled: 0
