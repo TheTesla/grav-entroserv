@@ -16,4 +16,10 @@ Dabei ist unklar, ob es sich um geplante Obsoleszenz handelt oder einfach nur um
 
 ## Designschwächen
 
-Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträglich sind.  
+Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträglich sind:
+
+* minderwertiges Material, z. B. PVC mit schlechtem Weichmacher
+* zu dünne Folie
+* Verbundstoffe (beschichtetes Polyester-Gewebe) mit zu dünner gasdichter Beschichtung meist sogar aus minderwertigem PVC
+* geklebte Nähte aus ungeeignetem Klebstoff
+* zu dünne Schweißnähte
