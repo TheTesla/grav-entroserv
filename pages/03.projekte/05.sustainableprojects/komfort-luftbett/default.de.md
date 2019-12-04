@@ -21,5 +21,7 @@ Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträgl
 * minderwertiges Material, z. B. PVC mit schlechtem Weichmacher
 * zu dünne Folie
 * Verbundstoffe (beschichtetes Polyester-Gewebe) mit zu dünner gasdichter Beschichtung meist sogar aus minderwertigem PVC
+* Beschichtung des Polyestergewebes ist zu schlecht verbunden und löst sich ab
 * geklebte Nähte aus ungeeignetem Klebstoff
 * zu dünne Schweißnähte
+* harter Übergang zu festen Elementen wie Ventilen
