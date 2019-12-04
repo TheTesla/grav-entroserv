@@ -13,3 +13,5 @@ Die Bewertungen von Luftbetten und Camping-Matratzen auf Marktportalen ähneln h
 * "Beschichtung gelöst"
 
 Dabei ist unklar, ob es sich um geplante Obsoleszenz handelt oder einfach nur um schlechte Qualität, vielleicht aus Kostengründen.
+
+## Designschwächen
