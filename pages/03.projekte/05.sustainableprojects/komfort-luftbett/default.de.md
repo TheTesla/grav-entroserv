@@ -16,4 +16,4 @@ Dabei ist unklar, ob es sich um geplante Obsoleszenz handelt oder einfach nur um
 
 ## Designschwächen
 
-Viele Luftbetten haben mehrere Designschwächen, welche der Lebendauer abträglich sind.  
+Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträglich sind.  
