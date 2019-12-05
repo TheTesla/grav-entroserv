@@ -5,6 +5,8 @@ visible: true
 
 # Komfort-Luftbett ohne geplante Obsoleszenz
 
+Hast Du dir schon einmal eine dieser teuren Camping-Luftmatratzen gekauft, bist auf den Zeltplatz gefahren und hast versucht einige Nächte darauf zu schlafen? 
+
 Die Bewertungen von Luftbetten und Camping-Matratzen auf Marktportalen ähneln häufig einer Badewannenkurve. Die 5-Sterne-Bewertungen sind nichtssagend neutral und klingen wie gekauft. Die 1-Sterne-Bewertungen zeigen, dass das Produkt **Schrott** ist:
 
 * "sehr starker chemischer Geruch"
