@@ -1,5 +1,6 @@
 ---
 title: Komfort-Luftbett
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg'
 visible: true
 ---
 
@@ -28,4 +29,4 @@ Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträgl
 * zu dünne Schweißnähte
 * harter Übergang zu festen Elementen wie Ventilen, dadurch hohe Bruchgefahr des Materials
 
-
+![](plannedobsolescence_composite.svg)
