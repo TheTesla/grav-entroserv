@@ -33,4 +33,4 @@ Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewe
 
 ![](plannedobsolescence_composite.svg)
 
-Das Material ist im Beispiel rechtwinklig nach außen gebogen. 
+Das Material ist im Beispiel rechtwinklig nach außen gebogen. Der äußere Biegeradius befindet sich innen, d. h. auf der Seite der Schweißnaht bzw. TPU-Schicht. 
