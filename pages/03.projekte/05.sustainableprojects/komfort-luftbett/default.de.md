@@ -40,3 +40,5 @@ Auch in der Schweißnaht konzentriert sich die gesamte Kraft auf eine kleine Fl�
 ![](plannedobsolescence_broken.svg)
 
 Wird anstelle des Verbundmaterials nur eine dicke TPU-Folie verwendet, wird vielleicht nicht die gleiche Kratzfestigkeit der Oberfläche erreicht. Auch die allgemeine Zugfestigkeit ist bei gleicher Materialdicke geringer. Jedoch ist die Schweißnaht die Schwachstelle. Sie wird entlastet, weil das Grundmaterial elastischer ist. Die Kraft verteilt sich auf eine größere Fläche innerhalb der Schweißnaht. (grüne Ellipse)
+
+![](plannedobsolescence_tpu.svg)
