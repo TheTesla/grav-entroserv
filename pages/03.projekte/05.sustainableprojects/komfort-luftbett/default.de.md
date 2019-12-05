@@ -29,4 +29,6 @@ Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträgl
 * zu dünne Schweißnähte
 * harter Übergang zu festen Elementen wie Ventilen, dadurch hohe Bruchgefahr des Materials
 
+Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewebe (1 und 4) mit einer dünnen TPU-Beschichtung (2 und 3) wird verschweißt. (organge Linie zeigt Schweißnaht)
+
 ![](plannedobsolescence_composite.svg)
