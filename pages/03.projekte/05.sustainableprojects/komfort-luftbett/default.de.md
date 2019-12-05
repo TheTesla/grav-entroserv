@@ -33,4 +33,4 @@ Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewe
 
 ![](plannedobsolescence_composite.svg)
 
-Das Material ist im Beispiel rechtwinklig nach außen gebogen. Der äußere Biegeradius befindet sich innen, d. h. auf der Seite der Schweißnaht bzw. TPU-Schicht. 
+Das Material ist im Beispiel rechtwinklig nach außen gezogen. Der äußere Biegeradius befindet sich innen, d. h. auf der Seite der Schweißnaht bzw. TPU-Schicht. Weil TPU sehr elastisch ist, nimmt diese Schicht nur wenig der Zugkraft auf. Die meiste Kraft nimmt das Polyestergewebe. Da dieses Gewebe eine sehr geringe Elastizität hat, konzentriert sich fast die gesamte Kraft auf der längeren Seite der Biegung, da dort das Material am stärksten gedehnt ist. 
