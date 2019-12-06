@@ -59,6 +59,6 @@ Dadurch wird das Material spröde. Es zerknittert:
 
 ![](roughPVC.jpg)
 
-Wird es dann stark gebogen, kann es brechen wie die Naht des transparentem PVC:
+Wird es dann stark gebogen, kann es brechen wie die Naht des transparenten PVC:
 
 ![](brokenseam.jpg)
