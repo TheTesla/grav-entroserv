@@ -1,6 +1,6 @@
 ---
 title: Komfort-Luftbett
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg'
 visible: true
 ---
 
@@ -63,4 +63,4 @@ Dadurch wird das Material spröde. Es zerknittert:
 
 Wird es dann stark gebogen, kann es brechen wie die Naht des transparenten PVC:
 
-![](brokenseam.jpg)
+![](plannedobsolescence_brokenpvc.svg) ![](brokenseam.jpg)
