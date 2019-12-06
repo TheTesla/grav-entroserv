@@ -1,6 +1,6 @@
 ---
 title: Komfort-Luftbett
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg'
 visible: true
 ---
 
