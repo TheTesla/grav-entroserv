@@ -48,3 +48,17 @@ Häufig ist jedoch die Verbindung zwischen dem Polyestergewebe und der TPU-Schic
 Wird anstelle des Verbundmaterials nur eine dicke TPU-Folie verwendet, wird vielleicht nicht die gleiche Kratzfestigkeit der Oberfläche erreicht. Auch die allgemeine Zugfestigkeit ist bei gleicher Materialdicke geringer. Jedoch ist die Schweißnaht die Schwachstelle. Sie wird entlastet, weil das Grundmaterial elastischer ist. Die Kraft verteilt sich auf eine größere Fläche innerhalb der Schweißnaht. (grüne Ellipse)
 
 ![](plannedobsolescence_tpu.svg)
+
+### PVC
+
+Auch dicke PVC-Folie sollte lange halten. Damit PVC ausreichend elastisch wird, müssen Weichmacher eingebracht werden. Diese Weichmache können z. B. bei Kontakt mit Fett aus dem Material austreten. Folgendes Foto zeigt den glänzenden Weichmacher, der aus der blauen PVC-Folie ausgetreten ist:
+
+![](plasticizerrelease.jpg)
+
+Dadurch wird das Material spröde. Es zerknittert:
+
+![](roughPVC.jpg)
+
+Wird es dann stark gebogen, kann es brechen wie die Naht des transparentem PVC:
+
+![](brokenseam.jpg)
