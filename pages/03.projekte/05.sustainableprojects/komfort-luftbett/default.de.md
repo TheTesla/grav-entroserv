@@ -1,6 +1,6 @@
 ---
 title: Komfort-Luftbett
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg'
 visible: true
 ---
 
@@ -38,6 +38,10 @@ Das Material ist im Beispiel rechtwinklig nach außen gezogen. Der äußere Bieg
 Auch in der Schweißnaht konzentriert sich die gesamte Kraft auf eine kleine Fläche. (rote Ellipse) Die Schweißnaht besteht zwar aus elastischem TPU, da die Schicht aber sehr dünn ist, kann sie sich nicht weit genugt dehnen, damit sich die Kraft auf eine größere Fläche verteilen kann. Wegen der geringeren Zufestigkeit, reißt die TPU-Schicht dort auf, wie folgendes Bild zeigt:
 
 ![](plannedobsolescence_broken.svg)
+
+Häufig ist jedoch die Verbindung zwischen dem Polyestergewebe und der TPU-Schicht schwächer als die TPU-Schicht selbst. In diesem Fall löst sich die TPU-Schicht vom Polyestergewebe:
+
+![](plannedobsolescence_detached.svg)
 
 Wird anstelle des Verbundmaterials nur eine dicke TPU-Folie verwendet, wird vielleicht nicht die gleiche Kratzfestigkeit der Oberfläche erreicht. Auch die allgemeine Zugfestigkeit ist bei gleicher Materialdicke geringer. Jedoch ist die Schweißnaht die Schwachstelle. Sie wird entlastet, weil das Grundmaterial elastischer ist. Die Kraft verteilt sich auf eine größere Fläche innerhalb der Schweißnaht. (grüne Ellipse)
 
