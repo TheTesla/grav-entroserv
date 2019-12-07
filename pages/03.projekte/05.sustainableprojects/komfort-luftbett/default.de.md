@@ -64,3 +64,9 @@ Dadurch wird das Material spröde. Es zerknittert:
 Wird es dann stark gebogen, kann es brechen wie die Naht des transparenten PVC:
 
 ![](plannedobsolescence_brokenpvc.svg) ![](brokenseam.jpg)
+
+## Weitere konstruktive Mängel
+
+Neben der künstlichen verkürzten Haltbarkeit haben viele Luftbetten noch weitere Mängel, welche die Nutzung erschweren:
+
+
