@@ -8,7 +8,7 @@ visible: true
 
 ![](inflated.png)
 
-Zur Indiegogo-Kampagne: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
+Zur Indiegogo-Prelaunch-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
 ## Bisher nur minderwertige Luftbetten verfügbar
 
