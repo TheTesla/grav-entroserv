@@ -79,5 +79,6 @@ Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere
 
 Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 
-* hochwertiges Material: weichmacherfreies TPU, 0,35 mm dicke Folie
+* hochwertiges Material: weichmacher- und farbstofffreies TPU, 0,35 mm dicke Folie
+* 
 
