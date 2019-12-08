@@ -10,6 +10,8 @@ visible: true
 
 Zur Indiegogo-Prelaunch-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
+Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
+
 ## Bisher nur minderwertige Luftbetten verfügbar
 
 Hast Du dir schon einmal eine dieser teuren Camping-Luftmatratzen gekauft, bist auf den Zeltplatz gefahren und hast versucht einige Nächte darauf zu schlafen? Neben der Tatsache, dass die meisten Camping-Luftmatratze einfach zu klein und unbequem sind, halte sie selten lange. Einige verlieren schon nach einer Nacht erheblich Luft. Das trift häufig auch auf die schwereren Luftbetten, welche eher als Gästebetten bestimmt sind, zu. 
@@ -103,4 +105,6 @@ Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innent
 
 ![](valvesdraw.png)
 
-Zur Indiegogo-Kampagne: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
+Zur Indiegogo-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
+
+Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
