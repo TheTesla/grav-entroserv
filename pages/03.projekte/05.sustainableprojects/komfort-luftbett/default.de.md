@@ -1,5 +1,5 @@
 ---
-title: Komfort-Luftbett
+title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
 media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png'
 visible: true
 ---
