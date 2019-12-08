@@ -95,6 +95,6 @@ Aufgepumpt werden dolgende Maße erreicht:
 
 ![](inflated.png)
 
-Die ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innenteil geöffnet werden:
+Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innenteil geöffnet werden:
 
 ![](valvesdraw.png)
