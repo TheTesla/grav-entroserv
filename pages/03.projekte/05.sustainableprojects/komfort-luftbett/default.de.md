@@ -79,7 +79,8 @@ Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere
 
 Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 
-* hochwertiges Material: weichmacher- und farbstofffreies TPU, 0,35 mm dicke Folie, dadurch längere Lebensdauer
+* hochwertiges Material: weichmacher- und farbstofffreies TPU, 0,35 mm dicke Folie, lange Lebensdauer
+* Ecken abgerundet: höhere Belastbarkeit und Lebensdauer
 * 5 einzelne Luftkammern: stabilere Lage
 * große Ventile: kurze Aufpumpzeit
 * Ventile lassen sich vollständig öffnen: leichter zu entleeren, keine Schimmelbildung
