@@ -84,6 +84,6 @@ Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 * 5 einzelne Luftkammern: stabilere Lage
 * große Ventile: kurze Aufpumpzeit
 * Ventile lassen sich vollständig öffnen: leichter zu entleeren und austrocknen, keine Schimmelbildung
-* hohes Kopfkissen
+* ausreichend hohes Kopfkissen
 * glatte Oberfläche: leichter zu reinigen
 
