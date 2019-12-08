@@ -98,3 +98,5 @@ Aufgepumpt werden dolgende Maße erreicht:
 Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innenteil geöffnet werden:
 
 ![](valvesdraw.png)
+
+Zur Indiegogo-Kampagne: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
