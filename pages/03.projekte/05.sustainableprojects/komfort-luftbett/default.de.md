@@ -83,7 +83,7 @@ Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 * Ecken abgerundet: höhere Belastbarkeit und Lebensdauer
 * 5 einzelne Luftkammern: stabilere Lage
 * große Ventile: kurze Aufpumpzeit
-* Ventile lassen sich vollständig öffnen: leichter zu entleeren, keine Schimmelbildung
+* Ventile lassen sich vollständig öffnen: leichter zu entleeren und austrocknen, keine Schimmelbildung
 * hohes Kopfkissen
 * glatte Oberfläche: leichter zu reinigen
 
