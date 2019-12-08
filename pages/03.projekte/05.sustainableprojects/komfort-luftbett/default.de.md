@@ -73,3 +73,4 @@ Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere
 * kein Ablasseventil: Luft ist schwer wieder herauszubekommen
 * nur eine Luftkammer: unbequem, man liegt in der Mitte durch
 * kein Kopfkissen: unbequem
+* Gewebeoberfläche: schwer zu reinigen
