@@ -74,3 +74,7 @@ Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere
 * nur eine Luftkammer: unbequem, man liegt in der Mitte durch
 * kein Kopfkissen: unbequem
 * Gewebeoberfläche: schwer zu reinigen
+
+## Behebung der Mängel
+
+
