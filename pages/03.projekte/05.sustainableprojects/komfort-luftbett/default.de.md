@@ -1,6 +1,6 @@
 ---
 title: Komfort-Luftbett
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png'
 visible: true
 ---
 
@@ -87,3 +87,10 @@ Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 * ausreichend hohes Kopfkissen
 * glatte Oberfläche: leichter zu reinigen
 
+Folgendes Bild zeigt die Rückseite des leeren Luftbettes. Die schwarzen Kreise sind die Ventile:
+
+![](empty.png)
+
+Aufgepumpt werden dolgende Maße erreicht:
+
+![](inflated.png)
