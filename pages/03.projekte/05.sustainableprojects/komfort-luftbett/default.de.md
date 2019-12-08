@@ -10,6 +10,8 @@ visible: true
 
 Zur Indiegogo-Kampagne: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
+## Bisher nur schelchte Luftbetten verfügbar
+
 Hast Du dir schon einmal eine dieser teuren Camping-Luftmatratzen gekauft, bist auf den Zeltplatz gefahren und hast versucht einige Nächte darauf zu schlafen? Neben der Tatsache, dass die meisten Camping-Luftmatratze einfach zu klein und unbequem sind, halte sie selten lange. Einige verlieren schon nach einer Nacht erheblich Luft. Das trift häufig auch auf die schwereren Luftbetten, welche eher als Gästebetten bestimmt sind, zu. 
 
 Die Bewertungen von Luftbetten und Camping-Matratzen auf Marktportalen ähneln häufig einer Badewannenkurve. Die 5-Sterne-Bewertungen sind nichtssagend neutral und klingen wie gekauft. Die 1-Sterne-Bewertungen zeigen, dass das Produkt **Schrott** ist:
