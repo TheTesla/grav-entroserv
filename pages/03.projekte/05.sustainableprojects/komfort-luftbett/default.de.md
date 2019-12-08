@@ -70,7 +70,7 @@ Wird es dann stark gebogen, kann es brechen wie die Naht des transparenten PVC:
 Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere Mängel, welche die Nutzung erschweren:
 
 * zu kleine Ventile: Aufpumpen dauert sehr lange
-* kein Ablasseventil: Luft ist schwer wieder herauszubekommen, ebenso Feuchtigkeit, dadurch Schimmelbildung im Inneren
+* kein Ablassventil: Luft ist schwer wieder herauszubekommen, ebenso Feuchtigkeit, dadurch Schimmelbildung im Inneren
 * nur eine Luftkammer: unbequem, man liegt in der Mitte durch
 * kein Kopfkissen: unbequem
 * Gewebeoberfläche: schwer zu reinigen
