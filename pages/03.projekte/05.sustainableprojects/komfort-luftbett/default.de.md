@@ -75,6 +75,7 @@ Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere
 * kein Kopfkissen: unbequem
 * Gewebeoberfläche: schwer zu reinigen
 
-## Behebung der Mängel
+## Mängelfreie Konstruktion
+
 
 
