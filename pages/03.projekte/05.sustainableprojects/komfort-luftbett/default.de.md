@@ -143,4 +143,4 @@ Das sind Luftbetten mit eingebauter elektrischer Pumpe. Dadurch gilt das gesamte
 
 ### Warum sind keine bunten Aufdrucke darauf?
 
-Die verwendeten Farben müssten alle auf Umweltverträglichkeit und gesundheitliche Unbedenklichkeitgeprüft werden. Außerdem sollten sie sich nicht ablösen. Des Weiteren kann von der Behörden nachträglich vermutet werden, dass das Produkt anhand des Aufdrucks als Kinderspielzeug einzustufen ist. Dann müssten entsprechende Warnhinweise aufgebracht werden sowie ein CE-Zeichen zwingend angebracht werden, des Anbringung ansonsten verboten wäre.
+Die verwendeten Farben müssten alle auf Umweltverträglichkeit und gesundheitliche Unbedenklichkeit geprüft werden. Außerdem sollten sie sich nicht ablösen. Des Weiteren kann von der Behörden nachträglich vermutet werden, dass das Produkt anhand des Aufdrucks als Kinderspielzeug einzustufen ist. Dann müssten entsprechende Warnhinweise aufgebracht werden sowie ein CE-Zeichen zwingend angebracht werden, des Anbringung ansonsten verboten wäre.
