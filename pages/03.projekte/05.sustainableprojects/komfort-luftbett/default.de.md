@@ -118,3 +118,29 @@ Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du di
 ### Es gibt doch schon viele Luftbetten. Der Markt ist doch schon gesättigt. Warum dann noch eins?
 
 Das stimmt nur zum Teil. Der Markt ist mit minderwertigen Luftbetten gesättigt. Es gibt nahezu kein Luftbett, welches ausschließlich aus TPU besteht. Meist wird es aus PVC hergestellt oder aus Nylongewebe mit sehr dünner TPU-Beschichtung. Des Weiteren gibt es nahezu kein Luftbett, welches aus mehreren separate Kammern besteht. 
+
+### Was kostet die Produktion?
+
+Bei Abnahme von 1000 Stück (Mindestmenge) kostet ein Stück 12,98 USD. Die Qualitätskontrolle kostet 2.750,- USD für die Initialprüfung.
+
+### Wie hoch muss der Verkaufpreis sein?
+
+Das absolute Minimum liegt bei 48,- USD (~ 45,- EUR). Der Richtwert liegt bei Faktor 3 zu den Produktionskosten. Das liegt an Kosten für Marketing, Versicherungen, Verwaltung, Entsorgung der Verpackung, Versand bzw. Fracht, Service, Support, IT, Abwicklung des Rückgaberechts, Garantie/Gewährleistung, Abwicklung des Verkaufs, Lagergebühren, Kommunikation, Steuern, Steuerberatung. Dieser Mindestwert kann nicht garantiert werden. Viel mehr als 70 € werden es sicher nicht werden, wenn mehr als 1000 Stück abgesetzt werden.
+
+### Was hat der Prototyp gekostet?
+
+240 USD
+
+### Warum ist das nur ein Luftbett? Könnte man die Luftmatratze nicht auch im Schwimmbad verwenden? Und warum ist kein CE-Zeichen aufgedruckt?
+
+Diese Erklärung ist etwas komplizierter. Es gibt sogenannte Produktkategorien. Als Schwimmhilfe müssten mehrere Vorgaben der Norm EN71 eingehalten werden. D. h. es müssten Warnhinweise, sinngemäß: "Im Wasser kann man ertrinken." auf das Produkt aufdrucken. Das wäre viel Tinte, welche ebenfalls auf Schadstoffe geprüft werden muss. Diese darf sich auch nicht ablösen oder abfärben. Zusätzlich wäre eine CE-Kennzeichnungen zwingend erforderlich sowie eine EG-Konformitätserklärung beizulegen.
+
+Als Luftbett der Camping-Luftmatratze sind diese Aufdrucke nicht erforderlich. Das Anbringen eines CE-Zeichens ist sogar verboten.
+
+### Aber auf anderen Luftbetten sind auch CE-Zeichen. Warum?
+
+Das sind Luftbetten mit eingebauter elektrischer Pumpe. Dadurch gilt das gesamte Produkt als Elektrogerät. Daher ist die Anbringung des CE-Zeichen zwingend erforderlich.
+
+### Warum sind keine bunten Aufdrucke darauf?
+
+Die verwendeten Farben müssten alle auf Umweltverträglichkeit und gesundheitliche Unbedenklichkeitgeprüft werden. Außerdem sollten sie sich nicht ablösen. Des Weiteren kann von der Behörden nachträglich vermutet werden, dass das Produkt anhand des Aufdrucks als Kinderspielzeug einzustufen ist. Dann müssten entsprechende Warnhinweise aufgebracht werden sowie ein CE-Zeichen zwingend angebracht werden, des Anbringung ansonsten verboten wäre.
