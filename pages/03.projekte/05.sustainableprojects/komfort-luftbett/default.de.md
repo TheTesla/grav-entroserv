@@ -112,3 +112,9 @@ Zur Indiegogo-Seite: https://www.indiegogo.com/projects/high-quality-durable-com
 Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
 
 Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
+
+## FAQ
+
+### Es gibt doch schon viele Luftbetten. Der Markt ist doch schon gesättigt. Warum dann noch eins?
+
+Das stimmt nur zum Teil. Der Markt ist mit minderwertigen Luftbetten gesättigt. Es gibt nahezu kein Luftbett, welches ausschließlich aus TPU besteht. Meist wird es aus PVC hergestellt oder aus Nylongewebe mit sehr dünner TPU-Beschichtung. Des Weiteren gibt es nahezu kein Luftbett, welches aus mehreren separate Kammern besteht. 
