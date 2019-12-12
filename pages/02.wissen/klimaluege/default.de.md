@@ -3,6 +3,6 @@ title: 'Klimalüge?'
 visible: true
 ---
 
-# Klimalügel?
+# Klimalüge?
 
 Gibt es nun den menschenverursachten Klimawandel oder nicht?
