@@ -45,8 +45,10 @@ Wir suchen mit Google nach [https://www.google.com/search?q=climate+model+source
 
 Eine problemlose Registrierung ist beim Max-Planck-Institut für Meteorologie möglich: https://www.mpimet.mpg.de/en/science/models/license/ Ich hatte bereits nach 24 Stunden die Antwort erhalten. Für den internen Bereich gibt es ein neues Passwort per E-Mail. Login und Download des gesamten Modells funktionierte problemlos. Man muss dazu nicht als Wissenschaftler registriert sein. Die Anmeldung funktioniert auch mit E-Mail-Adressen, welche keiner Forschungseinrichtung zugeordnet sind.
 
-## Aber Klimaforscher verdienen ja Geld und es heißt ja bekanntlich: "Wessen Brt ich ess, dessen Lied ich sing!"
+## Aber Klimaforscher verdienen ja Geld und es heißt ja bekanntlich: "Wessen Brot ich ess, dessen Lied ich sing!"
 
-Ja, Klimaforscher verdienen tatsächlich Geld. Klimaforschung ist nämlich ihr Beruf. Allerdings ist das Tarif-Gehalt nicht außergewöhnlich hoch. Unter https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2020&g=E_13&s=3&zv=VBL&z=100&zulage=&stj=2019&stkl=1&r=0&zkf=0&kk=15.5%25 sehen wir: Das Brutto-Jahresgehalt liegt bei 59.644,71 € im Jahr 2020 nach 3 Jahren Berufserfahrung.
+Ja, Klimaforscher verdienen tatsächlich Geld. Klimaforschung ist nämlich ihr Beruf. Allerdings ist das Tarif-Gehalt nicht außergewöhnlich hoch. Unter https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2020&g=E_13&s=3&zv=VBL&z=100&zulage=&stj=2019&stkl=1&r=0&zkf=0&kk=15.5%25 sehen wir: Das Brutto-Jahresgehalt liegt bei einer 40-Stunden-Woche bei 59.644,71 € im Jahr 2020 nach 3 Jahren Berufserfahrung.
 
-Die Tarif-Gehälter für Forscher in der Verbrennungsmotoren- oder Flugzeugturbinenkonstruktion bei einem privaten Unternehmen sind dagegen mit über 76.000 € Brutto-Jahresgehalt etwas höher: https://www.igmetall.de/download/20181008_bayern_7037e22942b8eee48b425904dff39ae90d825ea1.pdf 
+Die Tarif-Gehälter für Forscher in der Verbrennungsmotoren- oder Flugzeugturbinenkonstruktion bei einem privaten Unternehmen sind dagegen bei einer 35-Stunden-Woche mit über 76.000 € Brutto-Jahresgehalt etwas höher: https://www.igmetall.de/download/20181008_bayern_7037e22942b8eee48b425904dff39ae90d825ea1.pdf 
+
+Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wenn er noch nicht einmal mit dem Inhalt seiner Arbeit einverstanden ist?
