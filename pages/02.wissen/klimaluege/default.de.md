@@ -27,4 +27,6 @@ Fangen wir mit einer trivialen Google-Suche an, nach: [https://www.google.com/se
 
 Zunächst sehen die Ergebnisse wenig aussagekräftig aus. U. a. ist ein Dokument über den Vergleich der Klima-Modelle su finden: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwjlzqessrPmAhX6ThUIHSrWAwIQFjANegQIAxAC&url=https%3A%2F%2Fwww.ipcc.ch%2Fsite%2Fassets%2Fuploads%2F2018%2F02%2FWG1AR5_Chapter09_FINAL.pdf&usg=AOvVaw2uY2z8yGQAQh9TQbDr1yW1
 
-Interessant ist der Wikipedia-Eintrag, denn dort gibt es eine Diskussion über den Artikel unter _Talk_: https://en.wikipedia.org/wiki/Talk:Climate_model
+Interessant ist der Wikipedia-Eintrag https://en.wikipedia.org/wiki/Climate_model, denn dort gibt es eine Diskussion über den Artikel unter _Talk_: https://en.wikipedia.org/wiki/Talk:Climate_model
+
+OK, die Inhalte sehen zunächst nicht nach Debatte aus, sondern eher nach aufbereitete Inhalte für den Konsumenten. 
