@@ -22,3 +22,4 @@ Nun stelle Dir eine Plenarsitzung vor, welche live übertragen wird, in der Spez
 ## Aber wo ist denn jetzt diese öffentliche Debatte?
 
 Leider ist es etwas aufwendig die relevanten Beiträge zu finden. Viele Dokumente beschäftigen sich mit der Auswirkung des Klimawandels auf die Insektenpopulation usw. 
+
