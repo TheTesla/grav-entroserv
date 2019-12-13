@@ -34,3 +34,7 @@ OK, die Inhalte sehen zunächst nicht nach Debatte aus, sondern eher nach aufber
 Wir suchen kritische Beiträge, daher schauen wir uns https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL085378 an. Das war der zweite Eintrag zum Zeitpunkt der Erstellung dieses Artikels. Unter "Supporting Information" ist übrigens der Volltext versteckt. Dieser Beitrag greift einige Klimamodelle auf und bewertet sie. 
 
 OK, ein deutscher Beitrag soll es auch noch sein? Dann suchen wir nach: [https://www.google.com/search?q=dissertation+klimamodelle](_dissertation klimamodelle_) und finden die Doktorarbeit: https://publications.ub.uni-mainz.de/theses/volltexte/2018/100002484/pdf/100002484.pdf
+
+Es empfiehlt sich, auch das Literaturverzeichnis des jeweiligen Dokuments anzuschauen.
+
+## Aber die Klimamodelle werden doch alle geheim gehalten! Die kann ja niemand unabhängig prüfen!
