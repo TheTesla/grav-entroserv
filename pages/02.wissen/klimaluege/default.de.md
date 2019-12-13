@@ -41,4 +41,6 @@ Es empfiehlt sich, auch das Literaturverzeichnis des jeweiligen Dokuments anzusc
 
 Auch das stimmt nicht. Einige Klimamodelle mögen leider noch geheim sein, weil sie noch nicht fertiggestellt und geprüft sind oder weil die Forschungseinrichtungen sie kostenpflichtig anbieten wollen. Es gibt aber Modelle, welche der Öffentlichkeit zugänglich sind. Leider ist häufig eine Registrierung erforderlich.
 
-Wir suchen mit Google nach [https://www.google.com/search?q=climate+model+source+code](_climate model source code_) und finden sofort eine Übersichtsseite: https://www.easterbrook.ca/steve/2009/06/getting-the-source-code-for-climate-models/ 
+Wir suchen mit Google nach [https://www.google.com/search?q=climate+model+source+code](_climate model source code_) und finden sofort eine Übersichtsseite: https://www.easterbrook.ca/steve/2009/06/getting-the-source-code-for-climate-models/
+
+Eine problemlose Registrierung ist beim Max-Planck-Institut für Meteorologie möglich: https://www.mpimet.mpg.de/en/science/models/license/ Ich hatte bereits nach 24 Stunden die Antwort erhalten. Für den internen Bereich gibt es ein neues Passwort per E-Mail. Login und Download des gesamten Modells funktionierte problemlos. Man muss dazu nicht als Wissenschaftler registriert sein. Die Anmeldung funktioniert auch mit E-Mail-Adressen, welche keiner Forschungseinrichtung zugeordnet sind.
