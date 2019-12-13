@@ -19,3 +19,6 @@ Diese Formen der Debatte sind auch nicht wirklich zielführend. Die öffentliche
 
 Nun stelle Dir eine Plenarsitzung vor, welche live übertragen wird, in der Spezialisten Dinge sagen wie: "Aber haben Sie den Korrekturfaktor für den Adiabatenexponenten in der Gasschichten-Strömungs-Zustands-Gleichung Nummer 114 auf Seite 257 in Ihrer Veröffentlichung berücksichtigt?" - Wer würde sich das anschauen? Wer könnte da überhaupt mitreden?
 
+## Aber wo ist denn jetzt diese öffentliche Debatte?
+
+Leider ist es etwas aufwendig die relevanten Beiträge zu finden. Viele Dokumente beschäftigen sich mit der Auswirkung des Klimawandels auf die Insektenpopulation usw. 
