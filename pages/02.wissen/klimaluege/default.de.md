@@ -24,3 +24,7 @@ Nun stelle Dir eine Plenarsitzung vor, welche live übertragen wird, in der Spez
 Leider ist es etwas aufwendig die relevanten Beiträge zu finden. Viele Dokumente beschäftigen sich mit der Auswirkung des Klimawandels auf die Insektenpopulation usw. 
 
 Fangen wir mit einer trivialen Google-Suche an, nach: [https://www.google.com/search?q=climate+models](_climate models_)
+
+Zunächst sehen die Ergebnisse wenig aussagekräftig aus. U. a. ist ein Dokument über den Vergleich der Klima-Modelle su finden: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwjlzqessrPmAhX6ThUIHSrWAwIQFjANegQIAxAC&url=https%3A%2F%2Fwww.ipcc.ch%2Fsite%2Fassets%2Fuploads%2F2018%2F02%2FWG1AR5_Chapter09_FINAL.pdf&usg=AOvVaw2uY2z8yGQAQh9TQbDr1yW1
+
+Interessant ist der Wikipedia-Eintrag, denn dort gibt es eine Diskussion über den Artikel unter _Talk_: https://en.wikipedia.org/wiki/Talk:Climate_model
