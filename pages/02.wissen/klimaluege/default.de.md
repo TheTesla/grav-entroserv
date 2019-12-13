@@ -44,3 +44,7 @@ Auch das stimmt nicht. Einige Klimamodelle mögen leider noch geheim sein, weil 
 Wir suchen mit Google nach [https://www.google.com/search?q=climate+model+source+code](_climate model source code_) und finden sofort eine Übersichtsseite: https://www.easterbrook.ca/steve/2009/06/getting-the-source-code-for-climate-models/
 
 Eine problemlose Registrierung ist beim Max-Planck-Institut für Meteorologie möglich: https://www.mpimet.mpg.de/en/science/models/license/ Ich hatte bereits nach 24 Stunden die Antwort erhalten. Für den internen Bereich gibt es ein neues Passwort per E-Mail. Login und Download des gesamten Modells funktionierte problemlos. Man muss dazu nicht als Wissenschaftler registriert sein. Die Anmeldung funktioniert auch mit E-Mail-Adressen, welche keiner Forschungseinrichtung zugeordnet sind.
+
+## Aber Klimaforscher verdienen ja Geld und es heißt ja bekanntlich: "Wessen Brt ich ess, dessen Lied ich sing!"
+
+Ja, Klimaforscher verdienen tatsächlich Geld. Klimaforschung ist nämlich ihr Beruf. Allerdings ist das Gehalt nicht außergewöhnlich hoch. Unter https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2020&g=E_13&s=3&zv=VBL&z=100&zulage=&stj=2019&stkl=1&r=0&zkf=0&kk=15.5%25 sehen wir: Das Brutto-Jahresgehalt liegt bei 59644,71 € im Jahr 2020 nach 3 Jahren Berufserfahrung.
