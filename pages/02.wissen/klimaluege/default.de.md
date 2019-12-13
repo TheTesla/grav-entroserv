@@ -39,4 +39,6 @@ Es empfiehlt sich, auch das Literaturverzeichnis des jeweiligen Dokuments anzusc
 
 ## Aber die Klimamodelle werden doch alle geheim gehalten! Die kann ja niemand unabhängig prüfen!
 
-Auch das stimmt nicht. Einige Klimamodelle mögen leider noch geheim sein, weil sie noch nicht fertiggestellt und geprüft sind oder weil die Forschungseinrichtungen sie kostenpflichtig anbieten wollen. Es gibt aber Modelle, welche der Öffentlichkeit zugänglich sind. Leider ist häufig eine Registrierung erforderlich. 
+Auch das stimmt nicht. Einige Klimamodelle mögen leider noch geheim sein, weil sie noch nicht fertiggestellt und geprüft sind oder weil die Forschungseinrichtungen sie kostenpflichtig anbieten wollen. Es gibt aber Modelle, welche der Öffentlichkeit zugänglich sind. Leider ist häufig eine Registrierung erforderlich.
+
+Wir suchen mit Google nach [https://www.google.com/search?q=climate+model+source+code](_climate model source code_) und finden sofort eine Übersichtsseite: https://www.easterbrook.ca/steve/2009/06/getting-the-source-code-for-climate-models/ 
