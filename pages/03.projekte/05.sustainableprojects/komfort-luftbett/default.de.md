@@ -115,7 +115,7 @@ Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur um
 
 Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
 
-### FAQ
+### FAQ zum Luftbett-Projekt
 
 #### Es gibt doch schon viele Luftbetten. Der Markt ist doch schon gesättigt. Warum dann noch eins?
 
