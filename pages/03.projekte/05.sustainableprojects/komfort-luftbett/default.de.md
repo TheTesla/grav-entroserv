@@ -8,7 +8,7 @@ visible: true
 
 # Komfort-Luftbett ohne geplante Obsoleszenz
 
-![](inflated.png)
+![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png)
 
 Zur Indiegogo-Prelaunch-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
@@ -45,7 +45,7 @@ Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträgl
 
 Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewebe (1 und 4) mit einer dünnen TPU-Beschichtung (2 und 3) wird verschweißt. (organge Linie zeigt Schweißnaht) Die dünne TPU-Schicht ist zwar sehr elastisch, aber nicht sehr zugfest. Das dickere Polyestergewebe ist zwar sehr zugfest aber wenig elastisch. Der Verbundstoff soll idealerweise elastisch und zugfest sein. In der Praxis funktioniert die Kombination nicht immer.
 
-![](plannedobsolescence_composite.svg)
+![Zeichnung Kräfte im Verbundmaterial nahe der Schweißnaht](plannedobsolescence_composite.svg)
 
 Das Material an einer Außennaht des Luftbetts ist im Beispiel rechtwinklig nach außen gezogen. Der äußere Biegeradius befindet sich innen, d. h. auf der Seite der Schweißnaht bzw. TPU-Schicht. Weil TPU sehr elastisch ist, nimmt diese Schicht nur wenig der Zugkraft auf. Die meiste Kraft nimmt das Polyestergewebe. Da dieses Gewebe eine sehr geringe Elastizität hat, konzentriert sich fast die gesamte Kraft auf der längeren Seite der Biegung, da dort das Material am stärksten gedehnt ist. Die hohe Zugspannung ist im Bild mit langen Pfeilen visualisiert.
 
