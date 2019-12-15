@@ -1,7 +1,7 @@
 ---
 title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
 metadata:
-    description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Diese Crowdfuning-Kampagne beabsichtigt die Fertigung eines hochwertigen Luftbetts ohne geplante Obsoleszenz'
+    description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding wollen wir ein hochwertiges Luftbetts ohne geplante Obsoleszenz fertigen.'
 media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png'
 visible: true
 ---
