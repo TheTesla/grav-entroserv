@@ -29,7 +29,7 @@ Die Bewertungen von Luftbetten und Camping-Matratzen auf Marktportalen ähneln h
 
 Dabei ist unklar, ob es sich um geplante Obsoleszenz handelt oder einfach nur um schlechte Qualität, vielleicht aus Kostengründen.
 
-## Kurze Lebensdauer wegen Konstruktionsfehlern
+### Kurze Lebensdauer wegen Konstruktionsfehlern
 
 Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträglich sind:
 
@@ -41,7 +41,7 @@ Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträgl
 * zu dünne Schweißnähte
 * harter Übergang zu festen Elementen wie Ventilen, dadurch hohe Bruchgefahr des Materials
 
-### Luftbetten aus Verbundmaterial
+#### Luftbetten aus Verbundmaterial
 
 Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewebe (1 und 4) mit einer dünnen TPU-Beschichtung (2 und 3) wird verschweißt. (organge Linie zeigt Schweißnaht) Die dünne TPU-Schicht ist zwar sehr elastisch, aber nicht sehr zugfest. Das dickere Polyestergewebe ist zwar sehr zugfest aber wenig elastisch. Der Verbundstoff soll idealerweise elastisch und zugfest sein. In der Praxis funktioniert die Kombination nicht immer.
 
@@ -61,7 +61,7 @@ Wird anstelle des Verbundmaterials nur eine dicke TPU-Folie verwendet, wird viel
 
 ![](plannedobsolescence_tpu.svg)
 
-### Luftbetten aus PVC
+#### Luftbetten aus PVC
 
 Auch dicke PVC-Folie sollte lange halten. Damit PVC ausreichend elastisch wird, müssen Weichmacher eingebracht werden. Diese Weichmacher können z. B. bei Kontakt mit Fett aus dem Material austreten. Folgendes Foto zeigt den glänzenden Weichmacher, der aus der blauen PVC-Folie ausgetreten ist:
 
@@ -75,7 +75,7 @@ Wird es dann stark gebogen, kann es brechen wie die Naht des transparenten PVC:
 
 ![](plannedobsolescence_brokenpvc.svg) ![](brokenseam.jpg)
 
-## Weitere konstruktive Mängel
+### Weitere konstruktive Mängel
 
 Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere Mängel, welche die Nutzung erschweren:
 
@@ -85,7 +85,7 @@ Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere
 * kein Kopfkissen: unbequem
 * Gewebeoberfläche: schwer zu reinigen
 
-## Mängelfreie Konstruktion
+## Mängelfreies Luftbett
 
 Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 
@@ -115,34 +115,34 @@ Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur um
 
 Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
 
-## FAQ
+### FAQ
 
-### Es gibt doch schon viele Luftbetten. Der Markt ist doch schon gesättigt. Warum dann noch eins?
+#### Es gibt doch schon viele Luftbetten. Der Markt ist doch schon gesättigt. Warum dann noch eins?
 
 Das stimmt nur zum Teil. Der Markt ist mit minderwertigen Luftbetten gesättigt. Es gibt nahezu kein Luftbett, welches ausschließlich aus TPU besteht. Meist wird es aus PVC hergestellt oder aus Nylongewebe mit sehr dünner TPU-Beschichtung. Des Weiteren gibt es nahezu kein Luftbett, welches aus mehreren separate Kammern besteht. 
 
-### Was kostet die Produktion?
+#### Was kostet die Produktion?
 
 Bei Abnahme von 1000 Stück (Mindestmenge) kostet ein Stück 12,98 USD. Die Qualitätskontrolle kostet 2.750,- USD für die Initialprüfung.
 
-### Wie hoch muss der Verkaufpreis sein?
+#### Wie hoch muss der Verkaufpreis sein?
 
 Das absolute Minimum liegt bei 48,- USD (~ 45,- EUR). Der Richtwert liegt bei Faktor 3 zu den Produktionskosten. Das liegt an Kosten für Marketing, Versicherungen, Verwaltung, Entsorgung der Verpackung, Versand bzw. Fracht, Service, Support, IT, Abwicklung des Rückgaberechts, Garantie/Gewährleistung, Abwicklung des Verkaufs, Lagergebühren, Kommunikation, Steuern, Steuerberatung. Dieser Mindestwert kann nicht garantiert werden. Viel mehr als 70 € werden es sicher nicht werden, wenn mehr als 1000 Stück abgesetzt werden.
 
-### Was hat der Prototyp gekostet?
+#### Was hat der Prototyp gekostet?
 
 240 USD
 
-### Warum ist das nur ein Luftbett? Könnte man die Luftmatratze nicht auch im Schwimmbad verwenden? Und warum ist kein CE-Zeichen aufgedruckt?
+#### Warum ist das nur ein Luftbett? Könnte man die Luftmatratze nicht auch im Schwimmbad verwenden? Und warum ist kein CE-Zeichen aufgedruckt?
 
 Diese Erklärung ist etwas komplizierter. Es gibt sogenannte Produktkategorien. Als Schwimmhilfe müssten mehrere Vorgaben der Norm EN71 eingehalten werden. D. h. es müssten Warnhinweise, sinngemäß: "Im Wasser kann man ertrinken." auf das Produkt aufdrucken. Das wäre viel Tinte, welche ebenfalls auf Schadstoffe geprüft werden muss. Diese darf sich auch nicht ablösen oder abfärben. Zusätzlich wäre eine CE-Kennzeichnungen zwingend erforderlich sowie eine EG-Konformitätserklärung beizulegen.
 
 Als Luftbett der Camping-Luftmatratze sind diese Aufdrucke nicht erforderlich. Das Anbringen eines CE-Zeichens ist sogar verboten.
 
-### Aber auf anderen Luftbetten sind auch CE-Zeichen. Warum?
+#### Aber auf anderen Luftbetten sind auch CE-Zeichen. Warum?
 
 Das sind Luftbetten mit eingebauter elektrischer Pumpe. Dadurch gilt das gesamte Produkt als Elektrogerät. Daher ist die Anbringung des CE-Zeichen zwingend erforderlich.
 
-### Warum sind keine bunten Aufdrucke darauf?
+#### Warum sind keine bunten Aufdrucke darauf?
 
 Die verwendeten Farben müssten alle auf Umweltverträglichkeit und gesundheitliche Unbedenklichkeit geprüft werden. Außerdem sollten sie sich nicht ablösen. Des Weiteren kann von Behörden nachträglich vermutet werden, dass das Produkt anhand des Aufdrucks als Kinderspielzeug einzustufen ist. Dann müssten entsprechende Warnhinweise aufgebracht werden sowie ein CE-Zeichen zwingend angebracht werden, dessen Anbringung ansonsten verboten wäre.
