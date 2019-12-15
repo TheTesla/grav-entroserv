@@ -65,15 +65,15 @@ Wird anstelle des Verbundmaterials nur eine dicke TPU-Folie verwendet, wird viel
 
 Auch dicke PVC-Folie sollte lange halten. Damit PVC ausreichend elastisch wird, müssen Weichmacher eingebracht werden. Diese Weichmacher können z. B. bei Kontakt mit Fett aus dem Material austreten. Folgendes Foto zeigt den glänzenden Weichmacher, der aus der blauen PVC-Folie ausgetreten ist:
 
-![](plasticizerrelease.jpg)
+![Foto von austretendem Weichmacher](plasticizerrelease.jpg)
 
 Dadurch wird das Material spröde. Es zerknittert:
 
-![](roughPVC.jpg)
+![Foto von sprödem PVC](roughPVC.jpg)
 
 Wird es dann stark gebogen, kann es brechen wie die Naht des transparenten PVC:
 
-![](plannedobsolescence_brokenpvc.svg) ![](brokenseam.jpg)
+![Zeichnung gebrochene Schweißnaht PVC](plannedobsolescence_brokenpvc.svg) ![Foto gebrpchene Schweißnaht PVC](brokenseam.jpg)
 
 ### Weitere konstruktive Mängel
 
@@ -99,15 +99,15 @@ Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 
 Folgendes Bild zeigt die Rückseite des leeren Luftbettes. Die schwarzen Kreise sind die Ventile:
 
-![](empty.png)
+![Luftbett im leeren Zustand](empty.png)
 
 Aufgepumpt werden dolgende Maße erreicht:
 
-![](inflated.png)
+![Luftbett im aufgepumpten Zustand](inflated.png)
 
 Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innenteil geöffnet werden:
 
-![](valvesdraw.png)
+![Zeichnung der Ventile](valvesdraw.png)
 
 Zur Indiegogo-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
