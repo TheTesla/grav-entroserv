@@ -41,7 +41,7 @@ Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträgl
 * zu dünne Schweißnähte
 * harter Übergang zu festen Elementen wie Ventilen, dadurch hohe Bruchgefahr des Materials
 
-### Verbundmaterial
+### Luftbetten aus Verbundmaterial
 
 Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewebe (1 und 4) mit einer dünnen TPU-Beschichtung (2 und 3) wird verschweißt. (organge Linie zeigt Schweißnaht) Die dünne TPU-Schicht ist zwar sehr elastisch, aber nicht sehr zugfest. Das dickere Polyestergewebe ist zwar sehr zugfest aber wenig elastisch. Der Verbundstoff soll idealerweise elastisch und zugfest sein. In der Praxis funktioniert die Kombination nicht immer.
 
@@ -61,7 +61,7 @@ Wird anstelle des Verbundmaterials nur eine dicke TPU-Folie verwendet, wird viel
 
 ![](plannedobsolescence_tpu.svg)
 
-### PVC
+### Luftbetten aus PVC
 
 Auch dicke PVC-Folie sollte lange halten. Damit PVC ausreichend elastisch wird, müssen Weichmacher eingebracht werden. Diese Weichmacher können z. B. bei Kontakt mit Fett aus dem Material austreten. Folgendes Foto zeigt den glänzenden Weichmacher, der aus der blauen PVC-Folie ausgetreten ist:
 
