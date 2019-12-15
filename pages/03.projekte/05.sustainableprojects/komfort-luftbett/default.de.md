@@ -1,8 +1,8 @@
 ---
 title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png'
 metadata:
     description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding fertigen wir ein hochwertiges Luftbett ohne geplante Obsoleszenz.'
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png'
 visible: true
 ---
 
@@ -47,7 +47,7 @@ Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewe
 
 ![](plannedobsolescence_composite.svg)
 
-Das Material ist im Beispiel rechtwinklig nach außen gezogen. Der äußere Biegeradius befindet sich innen, d. h. auf der Seite der Schweißnaht bzw. TPU-Schicht. Weil TPU sehr elastisch ist, nimmt diese Schicht nur wenig der Zugkraft auf. Die meiste Kraft nimmt das Polyestergewebe. Da dieses Gewebe eine sehr geringe Elastizität hat, konzentriert sich fast die gesamte Kraft auf der längeren Seite der Biegung, da dort das Material am stärksten gedehnt ist. Die hohe Zugspannung ist im Bild mit langen Pfeilen visualisiert.
+Das Material an einer Außennaht des Luftbetts ist im Beispiel rechtwinklig nach außen gezogen. Der äußere Biegeradius befindet sich innen, d. h. auf der Seite der Schweißnaht bzw. TPU-Schicht. Weil TPU sehr elastisch ist, nimmt diese Schicht nur wenig der Zugkraft auf. Die meiste Kraft nimmt das Polyestergewebe. Da dieses Gewebe eine sehr geringe Elastizität hat, konzentriert sich fast die gesamte Kraft auf der längeren Seite der Biegung, da dort das Material am stärksten gedehnt ist. Die hohe Zugspannung ist im Bild mit langen Pfeilen visualisiert.
 
 Auch in der Schweißnaht konzentriert sich die gesamte Kraft auf eine kleine Fläche. (rote Ellipse) Die Schweißnaht besteht zwar aus elastischem TPU, da die Schicht aber sehr dünn ist, kann sie sich nicht weit genugt dehnen, damit sich die Kraft auf eine größere Fläche verteilen kann. Wegen der geringeren Zufestigkeit, reißt die TPU-Schicht dort auf, wie folgendes Bild zeigt:
 
