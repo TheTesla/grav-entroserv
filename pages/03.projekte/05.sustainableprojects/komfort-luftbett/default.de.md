@@ -6,7 +6,7 @@ metadata:
 visible: true
 ---
 
-# Komfort-Luftbett ohne geplante Obsoleszenz
+# Schadstoffreies Komfort-Luftbett ohne geplante Obsoleszenz (Material: TPU)
 
 ![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png)
 
