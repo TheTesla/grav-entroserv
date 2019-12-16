@@ -16,7 +16,7 @@ Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur um
 
 Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
 
-## Bisher nur minderwertige Luftbetten verfügbar
+## Bisher nur fast minderwertige Luftbetten verfügbar
 
 Hast Du dir schon einmal eine dieser teuren Camping-Luftmatratzen gekauft, bist auf den Zeltplatz gefahren und hast versucht einige Nächte darauf zu schlafen? Neben der Tatsache, dass die meisten Camping-Luftmatratze einfach zu klein und unbequem sind, halte sie selten lange. Einige verlieren schon nach einer Nacht erheblich Luft. Das trift häufig auch auf die schwereren Luftbetten, welche eher als Gästebetten bestimmt sind, zu. 
 
@@ -114,6 +114,13 @@ Zur Indiegogo-Seite: https://www.indiegogo.com/projects/high-quality-durable-com
 Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
 
 Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
+
+## Bereits verfügbare Alternativen
+
+Auf Amazon gibt es einzelne Luftbetten, welche vollständig aus dickem TPU hergestellt sind. Diese sind für die Übernachtung in Fahrzeugen konzipiert und bestehen nur aus einer oder zwei Kammern:
+
+https://amzn.to/2EqjdWa
+
 
 ### FAQ zum Luftbett-Projekt
 
