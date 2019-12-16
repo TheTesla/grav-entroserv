@@ -119,8 +119,8 @@ Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du di
 
 Auf Amazon gibt es einzelne Luftbetten, welche vollständig aus dickem TPU hergestellt sind. Diese sind für die Übernachtung in Fahrzeugen konzipiert und bestehen nur aus einer oder zwei Kammern:
 
-https://amzn.to/2EqjdWa
-
+* https://amzn.to/2EqjdWa
+* https://amzn.to/36FwYMN
 
 ### FAQ zum Luftbett-Projekt
 
