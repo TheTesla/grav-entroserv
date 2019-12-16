@@ -85,6 +85,13 @@ Neben der künstlich verkürzten Haltbarkeit haben viele Luftbetten noch weitere
 * kein Kopfkissen: unbequem
 * Gewebeoberfläche: schwer zu reinigen
 
+## Bereits verfügbare Alternativen
+
+Auf Amazon gibt es einzelne Luftbetten, welche vollständig aus dickem TPU hergestellt sind. Diese sind für die Übernachtung in Fahrzeugen konzipiert und bestehen nur aus einer oder zwei Kammern:
+
+* https://amzn.to/2EqjdWa
+* https://amzn.to/36FwYMN
+
 ## Mängelfreies Luftbett
 
 Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
@@ -114,13 +121,6 @@ Zur Indiegogo-Seite: https://www.indiegogo.com/projects/high-quality-durable-com
 Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
 
 Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
-
-## Bereits verfügbare Alternativen
-
-Auf Amazon gibt es einzelne Luftbetten, welche vollständig aus dickem TPU hergestellt sind. Diese sind für die Übernachtung in Fahrzeugen konzipiert und bestehen nur aus einer oder zwei Kammern:
-
-* https://amzn.to/2EqjdWa
-* https://amzn.to/36FwYMN
 
 ### FAQ zum Luftbett-Projekt
 
