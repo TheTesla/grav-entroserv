@@ -157,4 +157,4 @@ Die verwendeten Farben müssten alle auf Umweltverträglichkeit und gesundheitli
 
 #### Wie sieht die Verpackung aus, wenn das Luftbett in den Handel kommt?
 
-Verpackungsaufdruck Version 1](airbedpackprint.pdf)
+[Verpackungsaufdruck Version 1](airbedpackprint.pdf)
