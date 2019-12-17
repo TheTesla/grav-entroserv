@@ -13,7 +13,7 @@ Fragen nach der Notwendigkeit und eine gesunde Skepsis sind immer berechtig. Lei
 
 ## Infragestellung des Klimawandels
 
-Es werden unterschieldiche Aspekte des menschengemachten Klimawandels infrage gestellt. 
+Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage gestellt. 
 
 ### Es gibt gar keine öffentliche Debatte!
 
