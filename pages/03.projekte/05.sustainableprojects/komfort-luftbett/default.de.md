@@ -1,6 +1,6 @@
 ---
 title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf'
 metadata:
     description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding fertigen wir ein hochwertiges Luftbett ohne geplante Obsoleszenz.'
 visible: true
@@ -154,3 +154,7 @@ Das sind Luftbetten mit eingebauter elektrischer Pumpe. Dadurch gilt das gesamte
 #### Warum sind keine bunten Aufdrucke darauf?
 
 Die verwendeten Farben müssten alle auf Umweltverträglichkeit und gesundheitliche Unbedenklichkeit geprüft werden. Außerdem sollten sie sich nicht ablösen. Des Weiteren kann von Behörden nachträglich vermutet werden, dass das Produkt anhand des Aufdrucks als Kinderspielzeug einzustufen ist. Dann müssten entsprechende Warnhinweise aufgebracht werden sowie ein CE-Zeichen zwingend angebracht werden, dessen Anbringung ansonsten verboten wäre.
+
+#### Wie sieht die Verpackung aus, wenn das Luftbett in den Handel kommt?
+
+Verpackungsaufdruck Version 1](airbedpackprint.pdf)
