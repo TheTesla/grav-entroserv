@@ -9,9 +9,13 @@ Gibt es nun den menschenverursachten Klimawandel oder nicht?
 
 Es gibt heftige Debatten auf YouTube, Facebook, in Foren etc. ob der menschengemachte Klimawandel wirklich existiert. Es stehen große Interessensgruppen, wie die Windkraft- und Solarindustrie, aber auch  Kohle- und Automobileindustrie dahinter. Die Regierung droht mit der Einführung einer CO2-Steuer. Autofahren und Fliegen werden teurer, aber auch alle anderen Waren und Dienstleistungen für deren Herstellung und Transport fossile Brennstoffe verbrannt werden.
 
-Fragen nach der Notwendigkeit und eine gesunde Skepsis sind immer berechtig. Leide werden diese Fragen unzureichend beantwortet. Auf Zweifel wird viel zu wenig eingegangen. Diese Beitrag soll das ändern. Hier entsteht eine Sammlung aus Fragen und Zweifeln am menschengemschten Klimawandel. Das Ziel dieses Beitrags ist die Vermittlung von Fähigkeiten, damit Du lernst dir selbst eine Meinung zu bilden. Ich zeige Dir Schritt für Schritt, wie und wo du weitere Informationen findest, die auf YouTube etc. überhaupt nicht diskutiert werden. Die häufigsten Aussagen zum Thema sind:
+Fragen nach der Notwendigkeit und eine gesunde Skepsis sind immer berechtig. Leide werden diese Fragen unzureichend beantwortet. Auf Zweifel wird viel zu wenig eingegangen. Diese Beitrag soll das ändern. Hier entsteht eine Sammlung aus Fragen und Zweifeln am menschengemschten Klimawandel. Das Ziel dieses Beitrags ist die Vermittlung von Fähigkeiten, damit Du lernst dir selbst eine Meinung zu bilden. Ich zeige Dir Schritt für Schritt, wie und wo du weitere Informationen findest, die auf YouTube etc. überhaupt nicht diskutiert werden.
 
-## Es gibt gar keine öffentliche Debatte!
+## Infragestellung des Klimawandels
+
+Es werden unterschieldiche Aspekte des menschengemachten Klimawadnels infrage gestellt. 
+
+### Es gibt gar keine öffentliche Debatte!
 
 Falsch! Es gibt eine sehr umfangreiche öffentliche Debatte. Was tatsächlich selten ist, ist eine mündliche Diskussion in Form einer Talkshow. Was es nicht gibt, ist ein öffentliches Plenum mit gesetzgebender Wirkung, welches sich aus IPCC-Klimaforschern, Klimawandelkritikern, Politikern, Unternehmern, Lehrern, Friseuren und der Fleischerei Fachverkäuferind Gudrun Maier von der Wursttheke im Edeka im Zentrum von Morgenröthe-Rautenkranz.
 
@@ -19,7 +23,7 @@ Diese Formen der Debatte sind auch nicht wirklich zielführend. Die öffentliche
 
 Nun stelle Dir eine Plenarsitzung vor, welche live übertragen wird, in der Spezialisten Dinge sagen wie: "Aber haben Sie den Korrekturfaktor für den Adiabatenexponenten in der Gasschichten-Strömungs-Zustands-Gleichung Nummer 114 auf Seite 257 in Ihrer Veröffentlichung berücksichtigt?" - Wer würde sich das anschauen? Wer könnte da überhaupt mitreden?
 
-## Aber wo ist denn jetzt diese öffentliche Debatte?
+### Aber wo ist denn jetzt diese öffentliche Debatte?
 
 Leider ist es etwas aufwendig die relevanten Beiträge zu finden. Viele Dokumente beschäftigen sich mit der Auswirkung des Klimawandels auf die Insektenpopulation usw. 
 
@@ -37,7 +41,7 @@ OK, ein deutscher Beitrag soll es auch noch sein? Dann suchen wir nach: [https:/
 
 Es empfiehlt sich, auch das Literaturverzeichnis des jeweiligen Dokuments anzuschauen.
 
-## Aber die Klimamodelle werden doch alle geheim gehalten! Die kann ja niemand unabhängig prüfen!
+### Aber die Klimamodelle werden doch alle geheim gehalten! Die kann ja niemand unabhängig prüfen!
 
 Auch das stimmt nicht. Einige Klimamodelle mögen leider noch geheim sein, weil sie noch nicht fertiggestellt und geprüft sind oder weil die Forschungseinrichtungen sie kostenpflichtig anbieten wollen. Es gibt aber Modelle, welche der Öffentlichkeit zugänglich sind. Leider ist häufig eine Registrierung erforderlich.
 
@@ -45,10 +49,14 @@ Wir suchen mit Google nach [https://www.google.com/search?q=climate+model+source
 
 Eine problemlose Registrierung ist beim Max-Planck-Institut für Meteorologie möglich: https://www.mpimet.mpg.de/en/science/models/license/ Ich hatte bereits nach 24 Stunden die Antwort erhalten. Für den internen Bereich gibt es ein neues Passwort per E-Mail. Login und Download des gesamten Modells funktionierte problemlos. Man muss dazu nicht als Wissenschaftler registriert sein. Die Anmeldung funktioniert auch mit E-Mail-Adressen, welche keiner Forschungseinrichtung zugeordnet sind.
 
-## Aber Klimaforscher verdienen ja Geld und es heißt ja bekanntlich: "Wessen Brot ich ess, dessen Lied ich sing!"
+### Aber Klimaforscher verdienen ja Geld und es heißt ja bekanntlich: "Wessen Brot ich ess, dessen Lied ich sing!"
 
 Ja, Klimaforscher verdienen tatsächlich Geld. Klimaforschung ist nämlich ihr Beruf. Allerdings ist das Tarif-Gehalt nicht außergewöhnlich hoch. Unter https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2020&g=E_13&s=3&zv=VBL&z=100&zulage=&stj=2019&stkl=1&r=0&zkf=0&kk=15.5%25 sehen wir: Das Brutto-Jahresgehalt liegt bei einer 40-Stunden-Woche bei 59.644,71 € im Jahr 2020 nach 3 Jahren Berufserfahrung.
 
 Die Tarif-Gehälter für Forscher in der Verbrennungsmotoren- oder Flugzeugturbinenkonstruktion bei einem privaten Unternehmen sind dagegen bei einer 35-Stunden-Woche mit über 76.000 € Brutto-Jahresgehalt etwas höher: https://www.igmetall.de/download/20181008_bayern_7037e22942b8eee48b425904dff39ae90d825ea1.pdf 
 
 Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wenn er noch nicht einmal mit dem Inhalt seiner Arbeit einverstanden ist?
+
+## Gegenfragen an die Skeptiker
+
+##
