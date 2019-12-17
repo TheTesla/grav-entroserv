@@ -91,6 +91,7 @@ Auf Amazon gibt es einzelne Luftbetten, welche vollständig aus dickem TPU herge
 
 * https://amzn.to/2EqjdWa
 * https://amzn.to/36FwYMN
+* https://amzn.to/2S13nJI
 
 ## Mängelfreies Luftbett
 
