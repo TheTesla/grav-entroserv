@@ -71,7 +71,7 @@ content:
   custom-6997:
     title: Banners
     attributes:
-      html: "<center>- Anzeige -</center>\n<a href=\"https://amzn.to/31i7JwZ\"><img src=\"/user/pages/invisible/160104_audible_gif_MAXI_250x250_Rand.gif\" /></a>\n\n\n<a href=\"https://katuhus.com/g/tyolah8e8z72fee1af983c853da261/?i=4&subid=entroservweb\"><img src=\"/user/pages/invisible/letyshops.jpg\" /></a>\n"
+      html: "<center>- Anzeige -</center>\n<a href=\"https://amzn.to/31i7JwZ\"><img alt=\"Audible Probemonat\" src=\"/user/pages/invisible/160104_audible_gif_MAXI_250x250_Rand.gif\" /></a>\n\n\n<a href=\"https://katuhus.com/g/tyolah8e8z72fee1af983c853da261/?i=4&subid=entroservweb\"><img alt=\"Letyshops Cashback\" src=\"/user/pages/invisible/letyshops.jpg\" /></a>\n"
   position-breadcrumbs:
     attributes:
       enabled: 0
