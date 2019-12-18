@@ -13,7 +13,11 @@ Fragen nach der Notwendigkeit und eine gesunde Skepsis sind immer berechtig. Lei
 
 ## Infragestellung des Klimawandels
 
-Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage gestellt. 
+Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage gestellt. Des Weiteren entstehen Diskussionen auf der Metaebene.
+
+### CO2 ist kein Treibhausgas!
+
+### Der Mensch hat einen vernachlässigbar kleinen Anteil!
 
 ### Es gibt gar keine öffentliche Debatte!
 
