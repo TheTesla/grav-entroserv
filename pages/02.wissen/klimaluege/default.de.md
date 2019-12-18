@@ -61,11 +61,11 @@ Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wen
 
 Leider entsteht der öffentliche Eindruck, Klimaforscher befänden sich in einer ständigen Verteidigungshaltung. Scheibar sitzen sie auf der Anklagebank vor Gericht und sind fortwährend mit dem Dementieren ihres Lügengebäudes beschäftigt. Dagegen sieht es so aus, als ob niemand die Konzepte der Klimawandelleugner infrage stellt. Doch versuchen wir das doch einmal:
 
-## Wo sind eure Klimamodelle?
+### Wo sind eure Klimamodelle?
 
 Tatsächlich werden keine Klimamodelle benannte, mit denen Forscher, welche den Klimawandel für nicht existent erklären, zeigen, dass die Erwärmung viel geringer ist oder stattdessen eine Temperatursenkung stattfindet. Nenne mir den Namen eines Klimamodells, mit dem genau das vorhersagt!
 
-## Klimaleugner bekommen Geld von der Industrie, welche von fossilen Energieträgern abhängig ist!
+### Klimaleugner bekommen Geld von der Industrie, welche von fossilen Energieträgern abhängig ist!
 
 Das stimmt zum Teil. Einige Klimaleugner sind bei Arbeitgebern angestellt, welche fossile Energieträger nutzen. Insbesondere Personen, welche im Rahmen öffentlicher Auftritte die Existenz des Klimawandels infrage stellen, erhalten ein erhebliches Einkommen von Arbeitgebern, welche an diesem Ergebnis ein Interesse hätten.
 
