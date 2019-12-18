@@ -59,4 +59,6 @@ Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wen
 
 ## Gegenfragen an die Skeptiker
 
+Leider entsteht der öffentliche Eindruck, Klimaforscher befänden sich in einer ständigen Verteidigungshaltung. Scheibar sitzen sie auf der Anklagebank vor Gericht und sind fortwährend mit dem Dementieren ihres Lügengebäudes beschäftigt. Dagegen sieht es so aus, als ob niemand die Konzepte der Klimawandelleugner infrage stellt. 
+
 ##
