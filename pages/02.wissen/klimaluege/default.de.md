@@ -69,4 +69,4 @@ Tatsächlich werden keine Klimamodelle benannte, mit denen Forscher, welche den 
 
 Das stimmt zum Teil. Einige Klimaleugner sind bei Arbeitgebern angestellt, welche fossile Energieträger nutzen. Insbesondere Personen, welche im Rahmen öffentlicher Auftritte die Existenz des Klimawandels infrage stellen, erhalten ein erhebliches Einkommen von Arbeitgebern, welche an diesem Ergebnis ein Interesse hätten.
 
-Tatsächlich gibt es viele Menschen, welche nicht an einem menschenverursachten Klimawandel glauben, weil der Staat aufgrund der CO2-Steuer daran ein Interesse hätte.
+Tatsächlich gibt es viele Menschen, welche nicht an einem menschenverursachten Klimawandel glauben, weil der Staat aufgrund der CO2-Steuer daran ein Interesse hätte. Sie sind als Konsumenten indirekt von den fossilen Energieträgern bzw. den Unternehmen, welche selbige nutzen, abhängig.
