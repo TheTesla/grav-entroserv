@@ -67,4 +67,6 @@ Tatsächlich werden keine Klimamodelle benannte, mit denen Forscher, welche den 
 
 ## Klimaleugner bekommen Geld von der Industrie, welche von fossilen Energieträgern abhängig ist!
 
-Das stimmt zum Teil. Einige Klimaleugner sind bei Arbeitgebern angestellt, welche fossile Energieträger nutzen. 
+Das stimmt zum Teil. Einige Klimaleugner sind bei Arbeitgebern angestellt, welche fossile Energieträger nutzen. Insbesondere Personen, welche im Rahmen öffentlicher Auftritte die Existenz des Klimawandels infrage stellen, erhalten ein erhebliches Einkommen von Arbeitgebern, welche an diesem Ergebnis ein Interesse hätten.
+
+Tatsächlich gibt es viele Menschen, welche nicht an einem menschenverursachten Klimawandel glauben, weil der Staat aufgrund der CO2-Steuer daran ein Interesse hätte.
