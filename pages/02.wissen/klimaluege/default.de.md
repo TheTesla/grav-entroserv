@@ -19,6 +19,8 @@ Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage ge
 
 ### Der Mensch hat einen vernachlässigbar kleinen Anteil!
 
+## Erwärmung um 1,5°C ist irrelevant!
+
 ### Es gibt gar keine öffentliche Debatte!
 
 Falsch! Es gibt eine sehr umfangreiche öffentliche Debatte. Was tatsächlich selten ist, ist eine mündliche Diskussion in Form einer Talkshow. Was es nicht gibt, ist ein öffentliches Plenum mit gesetzgebender Wirkung, welches sich aus IPCC-Klimaforschern, Klimawandelkritikern, Politikern, Unternehmern, Lehrern, Friseuren und der Fleischerei Fachverkäuferind Gudrun Maier von der Wursttheke im Edeka im Zentrum von Morgenröthe-Rautenkranz.
