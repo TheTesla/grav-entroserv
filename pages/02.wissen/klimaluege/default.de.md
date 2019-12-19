@@ -13,7 +13,7 @@ Fragen nach der Notwendigkeit und eine gesunde Skepsis sind immer berechtig. Lei
 
 ## Infragestellung des Klimawandels
 
-Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage gestellt. Es geht also nicht um eine generelle Ablehnung. Einige meinen, auch CO2 habe keinen oder einen vernachlässigbaren Einfluss auf das Klima. Andere meinen, der Anteil des durch Menschen verursachten CO2-Anteils sei vernachlässigbar gering. Es gibt auch die Meinung, die geringe globale Erwärmung sei harmlos. Des Weiteren entstehen Diskussionen auf der Metaebene, wodurch die Sachebene verlassen wird.
+Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage gestellt. Es geht also nicht um eine generelle Ablehnung. Einige meinen, auch CO2 habe keinen oder einen vernachlässigbaren Einfluss auf das Klima. Andere meinen, der Anteil des durch Menschen verursachten CO2-Anteils sei vernachlässigbar gering. Es gibt auch die Meinung, die relativ geringe globale Erwärmung von nur 1,5°C sei harmlos. Des Weiteren entstehen Diskussionen auf der Metaebene, wodurch die Sachebene verlassen wird.
 
 ### CO2 ist kein Treibhausgas!
 
