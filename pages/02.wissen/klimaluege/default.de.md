@@ -19,7 +19,7 @@ Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage ge
 
 ### Der Mensch hat einen vernachlässigbar kleinen Anteil!
 
-## Erwärmung um 1,5°C ist irrelevant!
+### Erwärmung um 1,5°C ist irrelevant!
 
 ### Es gibt gar keine öffentliche Debatte!
 
