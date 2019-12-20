@@ -75,7 +75,7 @@ Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wen
 
 ### Das ist doch alles Abzocke mit dem "Klimaschutz"! Es wird doch alles immer teurer mit der CO2-Steuer, EEG-Umlage und Netzausbau!
 
-
+### Einige Klimaforscher erhalten Morddrohungen von besorgten Skeptikern. Wenn man bereits Morddrohungen erhalten hat, sollte man sich da nicht einmal Gedanken darüber machen, ob man nicht vielleicht doch etwas falsch gemacht hat?
 
 ## Gegenfragen an die Skeptiker
 
