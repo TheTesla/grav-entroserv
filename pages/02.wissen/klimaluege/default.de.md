@@ -31,9 +31,11 @@ Diese Formen der Debatte sind auch nicht wirklich zielführend. Die öffentliche
 
 Nun stelle Dir eine Plenarsitzung vor, welche live übertragen wird, in der Spezialisten Dinge sagen wie: "Aber haben Sie den Korrekturfaktor für den Adiabatenexponenten in der Gasschichten-Strömungs-Zustands-Gleichung Nummer 114 auf Seite 257 in Ihrer Veröffentlichung berücksichtigt?" - Wer würde sich das anschauen? Wer könnte da überhaupt mitreden?
 
-### Es gibt keinen "Klimaschutz", weil "Klima" etwas abstraktes ist, das man nicht schuützen kann!
+### Es gibt keinen "Klimaschutz", weil "Klima" etwas abstraktes ist, das man nicht schützen kann!
 
 Diese Aussage ist ein rhetorischer Trick. Klima ist eine Beschreibung des Durchschnitts des Wetters. Es ist also ein Ergebnis von Messungen und Berechnungen. Richtig ist, man kann keine Beschreibung, kein Berechnungsergebnis oder Messergebnis in diesem Sinne schützen. Der Begriff "Klimaschutz" bzw. "Klima" ist in diesem Zusammenhang eine Synekdoche. Das Wort steht im übertragenen Sinne für die zugrundeliegenden atmospärischen Bedingungen.
+
+Das Verschieben der Diskussion auf eine rhetorsiche Ebene ist ein beliebter Trick, um nicht über den eigentlichen Inhalt diskutieren zu müssen.
 
 ### Aber wo ist denn jetzt diese öffentliche Debatte?
 
