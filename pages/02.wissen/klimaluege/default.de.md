@@ -63,6 +63,8 @@ Die Tarif-Gehälter für Forscher in der Verbrennungsmotoren- oder Flugzeugturbi
 
 Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wenn er noch nicht einmal mit dem Inhalt seiner Arbeit einverstanden ist?
 
+### Das ist doch alles Abzocke mit dem "Klimaschutz"! Es wird doch alles immer teurer mit der CO2-Steuer!
+
 ## Gegenfragen an die Skeptiker
 
 Leider entsteht der öffentliche Eindruck, Klimaforscher befänden sich in einer ständigen Verteidigungshaltung. Scheibar sitzen sie auf der Anklagebank vor Gericht und sind fortwährend mit dem Dementieren ihres Lügengebäudes beschäftigt. Dagegen sieht es so aus, als ob niemand die Konzepte der Klimawandelleugner infrage stellt. Doch versuchen wir das doch einmal:
