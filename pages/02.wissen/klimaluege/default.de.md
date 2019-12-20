@@ -17,7 +17,9 @@ Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage ge
 
 ### CO2 ist kein Treibhausgas!
 
-Auch wenn Luft durchsichtig aussieht, ist sie das nicht für alle Wellenlängen. Das sichtbare Licht deckt nur einen kleinen Teil des Spektrums ab: 780 nm bis herunter zu 380 nm. Das entspricht einem Frequenzbereich von 384 THz bis 784 Thz.
+Auch wenn Luft durchsichtig aussieht, ist sie das nicht für alle Wellenlängen. Das sichtbare Licht deckt nur einen kleinen Teil des Spektrums ab: 780 nm bis herunter zu 380 nm. Das entspricht einem Frequenzbereich von 384 THz bis 789 THz. https://www.leifiphysik.de/optik/elektromagnetisches-spektrum/grundwissen/sichtbares-licht
+
+Wärmestrahlung deckt einen viel größeren Bereich ab.
 
 ### CO2 ist zwar ein Treibhausgas, aber der Einfluss ist zu gering!
 
