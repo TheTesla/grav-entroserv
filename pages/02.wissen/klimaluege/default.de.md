@@ -31,6 +31,10 @@ Diese Formen der Debatte sind auch nicht wirklich zielführend. Die öffentliche
 
 Nun stelle Dir eine Plenarsitzung vor, welche live übertragen wird, in der Spezialisten Dinge sagen wie: "Aber haben Sie den Korrekturfaktor für den Adiabatenexponenten in der Gasschichten-Strömungs-Zustands-Gleichung Nummer 114 auf Seite 257 in Ihrer Veröffentlichung berücksichtigt?" - Wer würde sich das anschauen? Wer könnte da überhaupt mitreden?
 
+### Es gibt keinen "Klimaschutz", weil "Klima" etwas abstraktes ist, das man nicht schuützen kann!
+
+Diese Aussage ist ein rhetorischer Trick. Klima ist eine Beschreibung des Durchschnitts des Wetters. Es ist also ein Ergebnis von Messungen und Berechnungen. Richtig ist, man kann keine Beschreibung, kein Berechnungsergebnis oder Messergebnis in diesem Sinne schützen. 
+
 ### Aber wo ist denn jetzt diese öffentliche Debatte?
 
 Leider ist es etwas aufwendig die relevanten Beiträge zu finden. Viele Dokumente beschäftigen sich mit der Auswirkung des Klimawandels auf die Insektenpopulation usw. 
@@ -57,6 +61,8 @@ Wir suchen mit Google nach [https://www.google.com/search?q=climate+model+source
 
 Eine problemlose Registrierung ist beim Max-Planck-Institut für Meteorologie möglich: https://www.mpimet.mpg.de/en/science/models/license/ Ich hatte bereits nach 24 Stunden die Antwort erhalten. Für den internen Bereich gibt es ein neues Passwort per E-Mail. Login und Download des gesamten Modells funktionierte problemlos. Man muss dazu nicht als Wissenschaftler registriert sein. Die Anmeldung funktioniert auch mit E-Mail-Adressen, welche keiner Forschungseinrichtung zugeordnet sind.
 
+### Eisbohrkerne beweisen nichts!
+
 ### Aber Klimaforscher verdienen ja Geld und es heißt ja bekanntlich: "Wessen Brot ich ess, dessen Lied ich sing!"
 
 Ja, Klimaforscher verdienen tatsächlich Geld. Klimaforschung ist nämlich ihr Beruf. Allerdings ist das Tarif-Gehalt nicht außergewöhnlich hoch. Unter https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2020&g=E_13&s=3&zv=VBL&z=100&zulage=&stj=2019&stkl=1&r=0&zkf=0&kk=15.5%25 sehen wir: Das Brutto-Jahresgehalt liegt bei einer 40-Stunden-Woche bei 59.644,71 € im Jahr 2020 nach 3 Jahren Berufserfahrung.
@@ -66,6 +72,8 @@ Die Tarif-Gehälter für Forscher in der Verbrennungsmotoren- oder Flugzeugturbi
 Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wenn er noch nicht einmal mit dem Inhalt seiner Arbeit einverstanden ist?
 
 ### Das ist doch alles Abzocke mit dem "Klimaschutz"! Es wird doch alles immer teurer mit der CO2-Steuer, EEG-Umlage und Netzausbau!
+
+
 
 ## Gegenfragen an die Skeptiker
 
