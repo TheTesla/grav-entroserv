@@ -63,7 +63,7 @@ Die Tarif-Gehälter für Forscher in der Verbrennungsmotoren- oder Flugzeugturbi
 
 Warum sollte sich jemand für weniger Einkommen und mehr Arbeit entscheiden, wenn er noch nicht einmal mit dem Inhalt seiner Arbeit einverstanden ist?
 
-### Das ist doch alles Abzocke mit dem "Klimaschutz"! Es wird doch alles immer teurer mit der CO2-Steuer!
+### Das ist doch alles Abzocke mit dem "Klimaschutz"! Es wird doch alles immer teurer mit der CO2-Steuer, EEG-Umlage und Netzausbau!
 
 ## Gegenfragen an die Skeptiker
 
