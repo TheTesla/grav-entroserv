@@ -33,7 +33,7 @@ Nun stelle Dir eine Plenarsitzung vor, welche live übertragen wird, in der Spez
 
 ### Es gibt keinen "Klimaschutz", weil "Klima" etwas abstraktes ist, das man nicht schuützen kann!
 
-Diese Aussage ist ein rhetorischer Trick. Klima ist eine Beschreibung des Durchschnitts des Wetters. Es ist also ein Ergebnis von Messungen und Berechnungen. Richtig ist, man kann keine Beschreibung, kein Berechnungsergebnis oder Messergebnis in diesem Sinne schützen. 
+Diese Aussage ist ein rhetorischer Trick. Klima ist eine Beschreibung des Durchschnitts des Wetters. Es ist also ein Ergebnis von Messungen und Berechnungen. Richtig ist, man kann keine Beschreibung, kein Berechnungsergebnis oder Messergebnis in diesem Sinne schützen. Der Begriff "Klimaschutz" bzw. "Klima" ist in diesem Zusammenhang eine Synekdoche. Das Wort steht im übertragenen Sinne für die zugrundeliegenden atmospärischen Bedingungen.
 
 ### Aber wo ist denn jetzt diese öffentliche Debatte?
 
