@@ -17,6 +17,8 @@ Es werden unterschiedliche Aspekte des menschengemachten Klimawandels infrage ge
 
 ### CO2 ist kein Treibhausgas!
 
+### CO2 ist zwar ein Treibhausgas, aber der Einfluss ist zu gering!
+
 ### Der Mensch hat einen vernachlässigbar kleinen Anteil!
 
 ### Erwärmung um 1,5°C ist irrelevant!
