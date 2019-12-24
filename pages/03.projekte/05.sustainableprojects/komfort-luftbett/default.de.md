@@ -117,6 +117,8 @@ Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innent
 
 ![Zeichnung der Ventile](valvesdraw.png)
 
+![](valveclosedphoto.jpg)![](valveinflatephoto.jpg)![](valveopenedphoto.jpg)
+
 Zur Indiegogo-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
 Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
