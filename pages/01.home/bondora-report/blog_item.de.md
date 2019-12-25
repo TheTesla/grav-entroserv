@@ -6,8 +6,6 @@ metadata:
 visible: true
 ---
 
-![dummy image fixed bondora graph](bondorareport.png)
-
 # Bondora die P2P-Kredit-Investment-Plattform
 
 Bondora ist eine Investitionsplattform für P2P-Kredite. Als _Peer-to-Peer_-Kredite wird die direkte Vergabe von Krediten zwischen zwei Endkunden ohne Bank bezeichnet. Bondora teilt die Investitionssumme des Anlegers auf viele einzelne Kredite anteilig auf, wodurch das Risiko eines Totalverlustes erheblich reduziert wird. Bondora handelt hierbei nicht als klassische Bank, sondern als Vermittler. 
