@@ -6,7 +6,7 @@ metadata:
 visible: true
 ---
 
-![dummy image fixed bondora graph](bondorareport.png?resize=1,1)
+![dummy image fixed bondora graph](bondorareport.png)
 
 # Bondora die P2P-Kredit-Investment-Plattform
 
