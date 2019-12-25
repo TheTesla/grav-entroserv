@@ -1,5 +1,5 @@
 name: default
-timestamp: 1576605948
+timestamp: 1577226174
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/2-col-left.png'
@@ -20,12 +20,12 @@ particles:
     logo-6325: Logo
   menu:
     menu-2437: Menu
-  custom:
-    custom-1321: TOC
-    custom-6997: Banners
   position:
     position-breadcrumbs: Breadcrumbs
     position-footer: Footer
+  custom:
+    custom-1321: TOC
+    custom-6997: Banners
   messages:
     system-messages-3346: 'System Messages'
   content:

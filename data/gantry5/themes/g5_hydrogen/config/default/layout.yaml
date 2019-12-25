@@ -9,6 +9,8 @@ layout:
     -
       - 'logo-6325 15'
       - 'menu-2437 85'
+    -
+      - position-breadcrumbs
   /container-main/:
     -
       -
@@ -19,8 +21,6 @@ layout:
             - custom-6997
       -
         'main 75':
-          -
-            - position-breadcrumbs
           -
             - system-messages-3346
           -
@@ -63,6 +63,10 @@ content:
     attributes:
       renderTitles: '1'
       forceTarget: '0'
+  position-breadcrumbs:
+    attributes:
+      key: breadcrumbs
+      chrome: ''
   custom-1321:
     title: TOC
     attributes:
@@ -72,10 +76,6 @@ content:
     title: Banners
     attributes:
       html: "<center>- Anzeige -</center>\n<a href=\"https://amzn.to/31i7JwZ\"><img alt=\"Audible Probemonat\" src=\"/user/pages/invisible/160104_audible_gif_MAXI_250x250_Rand.gif\" /></a>\n\n\n<a href=\"https://katuhus.com/g/tyolah8e8z72fee1af983c853da261/?i=4&subid=entroservweb\"><img alt=\"Letyshops Cashback\" src=\"/user/pages/invisible/letyshops.jpg\" /></a>\n<a href=\"http://www.emailknecht.de/?ref=entroserv\"><img alt=\"Emailknecht: kostenloses E-Mail-Marketing\" src=\"/user/pages/invisible/banner_blau_234x60.gif\" /> </a>"
-  position-breadcrumbs:
-    attributes:
-      enabled: 0
-      key: breadcrumbs
   position-footer:
     attributes:
       key: footer
