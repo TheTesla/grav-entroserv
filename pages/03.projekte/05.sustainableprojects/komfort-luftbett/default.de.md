@@ -8,7 +8,7 @@ visible: true
 
 # Schadstofffreies Komfort-Luftbett ohne geplante Obsoleszenz (Material: TPU)
 
-![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png?resize=(768,512))
+![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png?resize=768,512)
 
 Zur Indiegogo-Prelaunch-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
