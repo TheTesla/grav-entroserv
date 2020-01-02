@@ -1,6 +1,6 @@
 ---
 title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf,valveclosedphoto.jpg,valveinflatephoto.jpg,valveopenedphoto.jpg,bedvsairbed.jpg'
 metadata:
     description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding fertigen wir ein hochwertiges Luftbett ohne geplante Obsoleszenz.'
 visible: true
@@ -8,7 +8,7 @@ visible: true
 
 # Schadstofffreies Komfort-Luftbett ohne geplante Obsoleszenz (Material: TPU)
 
-![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png)
+![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png?resize=(768,512))
 
 Zur Indiegogo-Prelaunch-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
