@@ -1,5 +1,5 @@
 ---
-title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
+title: 'olKomfort-Luftbett ohne geplante Obsoleszenz'
 media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf,valveclosedphoto.jpg,valveinflatephoto.jpg,valveopenedphoto.jpg,bedvsairbed.jpg'
 metadata:
     description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding fertigen wir ein hochwertiges Luftbett ohne geplante Obsoleszenz.'
@@ -111,7 +111,7 @@ Folgendes Bild zeigt die Rückseite des leeren Luftbettes. Die schwarzen Kreise 
 
 ![Luftbett im leeren Zustand](empty.png?resize=640,480)
 
-Aufgepumpt werden dolgende Maße erreicht:
+Aufgepumpt werden folgende Maße erreicht:
 
 ![Luftbett im aufgepumpten Zustand](inflated.png?resize=640,480)
 
