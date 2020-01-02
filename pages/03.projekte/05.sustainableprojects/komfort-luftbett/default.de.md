@@ -67,15 +67,15 @@ Wird anstelle des Verbundmaterials nur eine dicke TPU-Folie verwendet, wird viel
 
 Auch dicke PVC-Folie sollte lange halten. Damit PVC ausreichend elastisch wird, müssen Weichmacher eingebracht werden. Diese Weichmacher können z. B. bei Kontakt mit Fett aus dem Material austreten. Folgendes Foto zeigt den glänzenden Weichmacher, der aus der blauen PVC-Folie ausgetreten ist:
 
-![Foto von austretendem Weichmacher](plasticizerrelease.jpg)
+![Foto von austretendem Weichmacher](plasticizerrelease.jpg?resize=512,512)
 
 Dadurch wird das Material spröde. Es zerknittert:
 
-![Foto von sprödem PVC](roughPVC.jpg)
+![Foto von sprödem PVC](roughPVC.jpg?resize=512,512)
 
 Wird es dann stark gebogen, kann es brechen wie die Naht des transparenten PVC:
 
-![Zeichnung gebrochene Schweißnaht PVC](plannedobsolescence_brokenpvc.svg) ![Foto gebrpchene Schweißnaht PVC](brokenseam.jpg)
+![Zeichnung gebrochene Schweißnaht PVC](plannedobsolescence_brokenpvc.svg) ![Foto gebrpchene Schweißnaht PVC](brokenseam.jpg?resize=512,512)
 
 ### Weitere konstruktive Mängel
 
