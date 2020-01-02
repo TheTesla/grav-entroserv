@@ -45,7 +45,7 @@ Viele Luftbetten haben mehrere Designschwächen, welche der Lebensdauer abträgl
 
 #### Luftbetten aus Verbundmaterial
 
-Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewebe (1 und 4) mit einer dünnen TPU-Beschichtung (2 und 3) wird verschweißt. (organge Linie zeigt Schweißnaht) Die dünne TPU-Schicht ist zwar sehr elastisch, aber nicht sehr zugfest. Das dickere Polyestergewebe ist zwar sehr zugfest aber wenig elastisch. Der Verbundstoff soll idealerweise elastisch und zugfest sein. In der Praxis funktioniert die Kombination nicht immer.
+Folgendes Bild zeigt das Problem der Verbundstoffe. Nehmen wir an, Polyestergewebe (1 und 4) mit einer dünnen TPU-Beschichtung (2 und 3) wird verschweißt. (orange Linie zeigt Schweißnaht) Die dünne TPU-Schicht ist zwar sehr elastisch, aber nicht sehr zugfest. Das dickere Polyestergewebe ist zwar sehr zugfest aber wenig elastisch. Der Verbundstoff soll idealerweise elastisch und zugfest sein. In der Praxis funktioniert die Kombination nicht immer.
 
 ![Zeichnung Kräfte im Verbundmaterial nahe der Schweißnaht](plannedobsolescence_composite.svg)
 
