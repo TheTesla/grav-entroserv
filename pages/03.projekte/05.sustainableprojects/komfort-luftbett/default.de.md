@@ -109,11 +109,11 @@ Mit minimalem Aufwand ist eine mängelfreie Konstruktion möglich:
 
 Folgendes Bild zeigt die Rückseite des leeren Luftbettes. Die schwarzen Kreise sind die Ventile:
 
-![Luftbett im leeren Zustand](empty.png?resize=512,512)
+![Luftbett im leeren Zustand](empty.png?resize=640,480)
 
 Aufgepumpt werden dolgende Maße erreicht:
 
-![Luftbett im aufgepumpten Zustand](inflated.png?resize=512,512)
+![Luftbett im aufgepumpten Zustand](inflated.png?resize=640,480)
 
 Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innenteil geöffnet werden:
 
