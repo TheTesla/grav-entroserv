@@ -117,7 +117,7 @@ Aufgepumpt werden folgende Maße erreicht:
 
 Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innenteil geöffnet werden:
 
-![Zeichnung der Ventile](valvesdraw.png)
+![Zeichnung der Ventile](valvesdraw.png?resize=640,480)
 
 ![Foto Ventil offen zum Aufpumpen](valveinflatephoto.jpg?resize=400,300)![Foto Ventil offen zum Luftablassen](valveopenedphoto.jpg?resize=400,300)
 
