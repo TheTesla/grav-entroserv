@@ -12,6 +12,8 @@ visible: true
 
 ![Foto des aufgepumpten Luftbetts](bedvsairbed.jpg?resize=768,512)
 
+Video: https://youtu.be/zQKNOrybAm8
+
 Zur Indiegogo-Prelaunch-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
 
 Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
