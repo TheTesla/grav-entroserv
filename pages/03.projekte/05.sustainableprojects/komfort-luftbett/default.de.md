@@ -127,10 +127,6 @@ Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innent
 
 Zur Indiegogo-Seite: https://igg.me/at/tpuairbed
 
-Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
-
-Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
-
 ### FAQ zum Luftbett-Projekt
 
 #### Es gibt doch schon viele Luftbetten. Der Markt ist doch schon gesättigt. Warum dann noch eins?
