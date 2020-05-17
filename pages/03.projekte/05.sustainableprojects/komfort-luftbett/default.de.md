@@ -1,6 +1,6 @@
 ---
 title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf,valveclosedphoto.jpg,valveinflatephoto.jpg,valveopenedphoto.jpg,bedvsairbed.jpg'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf,valveclosedphoto.jpg,valveinflatephoto.jpg,valveopenedphoto.jpg,bedvsairbed.jpg,20W-002992.pdf'
 metadata:
     description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding fertigen wir ein hochwertiges Luftbett ohne geplante Obsoleszenz.'
 visible: true
@@ -14,7 +14,7 @@ visible: true
 
 Video: https://youtu.be/zQKNOrybAm8
 
-Zur Indiegogo-Prelaunch-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
+Zur Indiegogo-Seite: https://igg.me/at/tpuairbed
 
 Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
 
@@ -125,7 +125,7 @@ Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innent
 
 ![Foto Ventil geschlossen](valveclosedphoto.jpg?resize=400,300)
 
-Zur Indiegogo-Seite: https://www.indiegogo.com/projects/high-quality-durable-comfort-airbed-with-pillow/coming_soon
+Zur Indiegogo-Seite: https://igg.me/at/tpuairbed
 
 Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
 
