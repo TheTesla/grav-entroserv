@@ -16,9 +16,9 @@ Video: https://youtu.be/zQKNOrybAm8
 
 Zur Indiegogo-Seite: https://igg.me/at/tpuairbed
 
-Trage dort bei Interesse bitte deine E-Mail-Adresse ein. Das Projekt kann nur umgesetzt werden, wenn es genügend Interessenten gibt.
+## Update - Prüfbericht von Qima fertig gestellt
 
-Wenn du deine E-Mail-Adresse nicht Indiegogo anvertrauen möchtest, kannst du dich auf meiner allgemeinen Projekt-Mailingliste eintragen: https://www.lists.entroserv.de/listinfo/projects
+[QIMA Prüfbericht](20W-002992.pdf)
 
 ## Bisher fast nur minderwertige Luftbetten verfügbar
 
