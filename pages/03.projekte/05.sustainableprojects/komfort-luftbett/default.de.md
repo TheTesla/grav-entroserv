@@ -14,7 +14,7 @@ visible: true
 
 Video: https://youtu.be/zQKNOrybAm8
 
-Zur Indiegogo-Seite: https://igg.me/at/tpuairbed
+Das Crowdfunding ist beendet. Das Produkt ist nun regulär über eBay erhältlich: https://ebay.to/33wltt0
 
 ## Update - Prüfbericht von Qima fertig gestellt
 
@@ -125,7 +125,7 @@ Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innent
 
 ![Foto Ventil geschlossen](valveclosedphoto.jpg?resize=400,300)
 
-Zur Indiegogo-Seite: https://igg.me/at/tpuairbed
+eBay: https://ebay.to/33wltt0
 
 ### FAQ zum Luftbett-Projekt
 
@@ -135,11 +135,11 @@ Das stimmt nur zum Teil. Der Markt ist mit minderwertigen Luftbetten gesättigt.
 
 #### Was kostet die Produktion?
 
-Bei Abnahme von 1000 Stück (Mindestmenge) kostet ein Stück 12,98 USD. Die Qualitätskontrolle kostet 2.750,- USD für die Initialprüfung.
+Bei Abnahme von 1000 Stück kostet ein Stück 12,98 USD, bei 250 Stück  (Mindestmenge), sind es 15,85 USD. Die Qualitätskontrolle kostet 2.750,- USD für die Initialprüfung.
 
 #### Wie hoch muss der Verkaufpreis sein?
 
-Das absolute Minimum liegt bei 48,- USD (~ 45,- EUR). Der Richtwert liegt bei Faktor 3 zu den Produktionskosten. Das liegt an Kosten für Marketing, Versicherungen, Verwaltung, Entsorgung der Verpackung, Versand bzw. Fracht, Service, Support, IT, Abwicklung des Rückgaberechts, Garantie/Gewährleistung, Abwicklung des Verkaufs, Lagergebühren, Kommunikation, Steuern, Steuerberatung. Dieser Mindestwert kann nicht garantiert werden. Viel mehr als 70 € werden es sicher nicht werden, wenn mehr als 1000 Stück abgesetzt werden.
+Das absolute Minimum liegt bei 60,- USD (~ 51,- EUR). Der Richtwert liegt bei Faktor 3 bis 4 zu den Produktionskosten. Das liegt an Kosten für Marketing, Versicherungen, Verwaltung, Entsorgung der Verpackung, Versand bzw. Fracht, Service, Support, IT, Abwicklung des Rückgaberechts, Garantie/Gewährleistung, Abwicklung des Verkaufs, Lagergebühren, Kommunikation, Steuern, Steuerberatung. Dieser Mindestwert kann nicht garantiert werden. Viel mehr als 90 € werden es sicher nicht werden, wenn mehr als 250 Stück abgesetzt werden.
 
 #### Was hat der Prototyp gekostet?
 
