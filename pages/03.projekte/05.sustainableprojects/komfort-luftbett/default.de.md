@@ -1,6 +1,6 @@
 ---
 title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf,valveclosedphoto.jpg,valveinflatephoto.jpg,valveopenedphoto.jpg,bedvsairbed.jpg,20W-002992.pdf,LuMafrf.jpg,LuMafrb.jpg'
+media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf,valveclosedphoto.jpg,valveinflatephoto.jpg,valveopenedphoto.jpg,bedvsairbed.jpg,20W-002992.pdf,LuMafrf.jpg,LuMafrb.jpg,LuMafrK.jpg'
 metadata:
     description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding fertigen wir ein hochwertiges Luftbett ohne geplante Obsoleszenz.'
 visible: true
@@ -10,10 +10,11 @@ visible: true
 
 ![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png?resize=768,512)
 
-![Foto des aufgepumpten Luftbetts - Vorderseite](LuMafrf.jpg?resize=5,12,768)
+![Foto des aufgepumpten Luftbetts - Vorderseite](LuMafrf.jpg?resize=512,768)
 
-![Foto des aufgepumpten Luftbetts - Rückseite](LuMafrb.jpgresize=5,12,768)
+![Foto des aufgepumpten Luftbetts - Rückseite](LuMafrb.jpg?resize=512,768)
 
+![Foto des Kartonstapels](LuMafrK.jpg?resize=512,768)
 
 
 Video: https://youtu.be/zQKNOrybAm8
