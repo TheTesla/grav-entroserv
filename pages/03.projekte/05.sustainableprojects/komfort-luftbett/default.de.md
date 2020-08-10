@@ -10,7 +10,11 @@ visible: true
 
 ![Zeichnung mit Maßen des aufgepumpten Luftbetts](inflated.png?resize=768,512)
 
-![Foto des aufgepumpten Luftbetts](bedvsairbed.jpg?resize=768,512)
+![Foto des aufgepumpten Luftbetts - Vorderseite](LuMafrf.jpg?resize=5,12,768)
+
+![Foto des aufgepumpten Luftbetts - Rückseite](LuMafrb.jpgresize=5,12,768)
+
+
 
 Video: https://youtu.be/zQKNOrybAm8
 
