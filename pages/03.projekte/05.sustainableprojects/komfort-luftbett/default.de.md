@@ -1,6 +1,5 @@
 ---
 title: 'Komfort-Luftbett ohne geplante Obsoleszenz'
-media_order: 'plannedobsolescence_tpu.svg,plannedobsolescence_composite.svg,plannedobsolescence_broken.svg,plannedobsolescence_detached.svg,PolyesterTPUdetached.jpg,roughPVC.jpg,plasticizerrelease.jpg,brokenseam.jpg,plannedobsolescence_brokenpvc.svg,inflated.png,empty.png,valvesdraw.png,airbedpackprint.pdf,valveclosedphoto.jpg,valveinflatephoto.jpg,valveopenedphoto.jpg,bedvsairbed.jpg,20W-002992.pdf,LuMafrf.jpg,LuMafrb.jpg,LuMafrK.jpg'
 metadata:
     'og:image': 'https://entroserv.de/images/7/d/e/b/2/7deb2a13d383370b1553a83519788dcad1c7c44e-lumafrf.jpeg'
     description: 'Die Qualität von Luftbetten, Camping-Luftmatratzen ist oft schlecht. Mittels Crowdfunding fertigen wir ein hochwertiges Luftbett ohne geplante Obsoleszenz.'
