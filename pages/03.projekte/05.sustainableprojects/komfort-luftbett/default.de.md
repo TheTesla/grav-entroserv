@@ -130,7 +130,7 @@ Die Ventile haben 1,8 cm Innendurchmesser. Zum Ablassen der Luft kann der Innent
 
 ![Foto Ventil geschlossen](valveclosedphoto.jpg?resize=400,300)
 
-eBay: https://ebay.to/33wltt0
+Das Produkt ist nun regulär über [Amazon](https://amzn.to/3hK2iQk) odetr [eBay](https://ebay.to/33wltt0) erhältlich.
 
 ### FAQ zum Luftbett-Projekt
 
