@@ -19,7 +19,7 @@ visible: true
 
 Video: https://youtu.be/zQKNOrybAm8
 
-Das Crowdfunding ist beendet. Das Produkt ist nun regulär über eBay erhältlich: https://ebay.to/33wltt0
+Das Crowdfunding ist beendet. Das Produkt ist nun regulär über [Amazon](https://amzn.to/3hK2iQk) odetr [eBay](https://ebay.to/33wltt0) erhältlich.
 
 ## Update - Prüfbericht von Qima fertig gestellt
 
